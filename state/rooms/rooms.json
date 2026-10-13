@@ -8,7 +8,9 @@
   "floor": "wide warm oak planks",
   "file": "empty-livingroom-none-1.jpg",
   "created": "2026-10-13",
-  "used": []
+  "used": [
+   "2026-10-13"
+  ]
  },
  {
   "id": "lived-kitchen-dated-kitchen-2",
@@ -19,6 +21,34 @@
   "floor": "warm terracotta tiles",
   "file": "lived-kitchen-dated-kitchen-2.jpg",
   "created": "2026-10-13",
-  "used": []
+  "used": [
+   "2026-10-14"
+  ]
+ },
+ {
+  "id": "lived-bedroom-dark-3",
+  "kind": "lived",
+  "room": "bedroom",
+  "problem": "dark",
+  "arch": "a large window to the right of the bed wall",
+  "floor": "wide warm oak planks",
+  "file": "lived-bedroom-dark-3.jpg",
+  "created": "2026-10-13",
+  "used": [
+   "2026-10-13"
+  ]
+ },
+ {
+  "id": "empty-kitchen-none-4",
+  "kind": "empty",
+  "room": "kitchen",
+  "problem": null,
+  "arch": "a galley layout with a window at the far end",
+  "floor": "pale polished concrete",
+  "file": "empty-kitchen-none-4.jpg",
+  "created": "2026-10-14",
+  "used": [
+   "2026-10-14"
+  ]
  }
 ]

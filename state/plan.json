@@ -1,0 +1,272 @@
+{
+ "posts": [
+  {
+   "id": "2026-10-13-1",
+   "date": "2026-10-13",
+   "slot": 0,
+   "time": "2026-10-13T12:00:00+01:00",
+   "status": "waiting",
+   "plan": {
+    "format": "makeover",
+    "room": "living room",
+    "theme": "industrial",
+    "theme_name": "industrial",
+    "hook": "let's make this living room industrial ✍️",
+    "hook_sub": "(inspired)",
+    "slides": [
+     {
+      "text": "worn leather industrial",
+      "look": "A deep cognac leather chesterfield sofa paired with a blackened steel coffee table, a faded charcoal kilim rug, a tall arched iron floor lamp with an amber edison bulb, stacked architectural monographs, and an oversized round brass bowl.",
+      "callout": ""
+     },
+     {
+      "text": "clean minimalist industrial",
+      "look": "A boxy slate gray linen sectional anchored by a low reclaimed oak bench as a coffee table, a chunky wool cream rug, matte black swing-arm task lamps, framed monochromatic line art, and a potted rubber plant in a steel planter.",
+      "callout": ""
+     },
+     {
+      "text": "raw workshop industrial",
+      "look": "A distressed tan leather lounge chair beside a heavy cast-iron cart table, an olive drab canvas sofa, a wire cage pendant light with glowing filament bulbs, vintage blueprint art in thin metal frames, and weathered metal storage bins.",
+      "callout": ""
+     },
+     {
+      "text": "soft cozy industrial",
+      "look": "A plush charcoal bouclé sofa topped with heavy knit throws, a round reclaimed teak coffee table on a ribbed jute rug, blackened brass tripod lamps casting warm light, a sprawling fiddle-leaf fig, and textured matte ceramic vessels.",
+      "callout": ""
+     },
+     {
+      "text": "monochrome studio industrial",
+      "look": "An ink-black velvet couch contrasted with a brushed aluminum coffee table, a faded distressed gray runner rug, an industrial photographer's floor lamp, oversized black-and-white photography prints in iron frames, and stacks of glossy art books.",
+      "callout": ""
+     },
+     {
+      "text": "vintage loft industrial",
+      "look": "A caramel saddle leather sofa layered with plaid wool pillows, a repurposed factory cart coffee table, an intricate faded Persian rug, a pipe-and-wood bookshelf styled with brass bookends, and a cluster of suspended amber edison pendants.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "A rich forest green velvet sofa with matte black iron legs, a heavy zinc-topped coffee table over a dark charcoal wool rug, a sculptural iron chandelier with filament bulbs, and trailing pothos in hanging steel planters.",
+    "cta_question": "Have any Pinterest inspo you want to try? 📌",
+    "cta_line": "snap your room and try it on Snug",
+    "title": "industrial transformation 📌",
+    "caption": "industrial transformation 📌\n\ntell me which industrial vibe you'd pick for this space 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #industrialdecor #snug",
+    "source": "ai",
+    "room_id": "empty-livingroom-none-1",
+    "extra": {}
+   },
+   "room_file": "empty-livingroom-none-1.jpg",
+   "keys": [
+    "2026-10-13-1/0",
+    "2026-10-13-1/1",
+    "2026-10-13-1/2",
+    "2026-10-13-1/3",
+    "2026-10-13-1/4",
+    "2026-10-13-1/5",
+    "2026-10-13-1/cta"
+   ],
+   "cost": 0.1365,
+   "batch": "batches/etx1baxyp2kf50xndb9x5fnuw1t339pcn6z9"
+  },
+  {
+   "id": "2026-10-13-2",
+   "date": "2026-10-13",
+   "slot": 1,
+   "time": "2026-10-13T19:00:00+01:00",
+   "status": "waiting",
+   "plan": {
+    "format": "problem",
+    "room": "bedroom",
+    "theme": "dark",
+    "theme_name": "my dark, dated room",
+    "hook": "i'm done with my dark, dated room! 😅",
+    "hook_sub": "which would you choose?",
+    "slides": [
+     {
+      "text": "butter yellow keeps mornings sunny",
+      "look": "A whitewashed oak bed dressed in sky-blue linen and buttercup quilts, twin paper-lantern pendants, a scalloped jute rug, a pine bedside stool holding stacked ceramic mugs, and a tall leafy fiddle-leaf fig in a terracotta pot.",
+      "callout": ""
+     },
+     {
+      "text": "persimmon velvet solves everything",
+      "look": "A warm walnut platform bed piled with persimmon velvet cushions, a moss-green wool throw, pleated ceramic table lamps, framed abstract citrus prints leaning on a dresser, and a plush geometric checkered rug runner.",
+      "callout": ""
+     },
+     {
+      "text": "pistachio with lavender feels like spring",
+      "look": "A pale beechwood spindle bed layered with lavender cotton sheets, a pistachio quilted comforter, chrome mushroom bedside lamps, a whimsical wavy floor mirror, and colorful graphic art prints resting on a low wooden bench.",
+      "callout": ""
+     },
+     {
+      "text": "cobalt brings instant energy",
+      "look": "An upholstered terracotta headboard paired with crisp white bedding, a cobalt blue wool blanket, brass bedside task lamps, a colorful striped dhurrie rug, and a trailing pothos plant over a stacked art book tower.",
+      "callout": ""
+     },
+     {
+      "text": "deep plum gives peach real depth",
+      "look": "A woven cane bed topped with peach linen sheets and a plum mohair throw, frosted globe nightstand lamps, a framed botanical print propped on a low dresser, and a round braided hemp rug beside a potted rubber tree.",
+      "callout": ""
+     },
+     {
+      "text": "a tiny pop of cherry red",
+      "look": "A minimalist light ash bed with mint green duvets, a glossy cherry-red lacquer nightstand, chrome gooseneck reading lamps, bold primary-colored framed exhibition posters, and a cream plush shag rug underneath.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "A honey-toned birch bed frame layered with marigold and ivory bedding, an arched full-length brass mirror, sculptural ceramic vases filled with dried eucalyptus, and a flatweave pastel Turkish rug beneath.",
+    "cta_question": "want to bring your room back to life? ✨",
+    "cta_line": "see your own room in any style with Snug",
+    "title": "goodbye dark 👋",
+    "caption": "goodbye dark 👋\n\nwhich bedroom palette would you wake up to? comment your pick 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
+    "source": "ai",
+    "room_id": "lived-bedroom-dark-3",
+    "extra": {}
+   },
+   "room_file": "lived-bedroom-dark-3.jpg",
+   "keys": [
+    "2026-10-13-2/0",
+    "2026-10-13-2/1",
+    "2026-10-13-2/2",
+    "2026-10-13-2/3",
+    "2026-10-13-2/4",
+    "2026-10-13-2/5",
+    "2026-10-13-2/cta"
+   ],
+   "cost": 0.1755,
+   "batch": "batches/etx1baxyp2kf50xndb9x5fnuw1t339pcn6z9"
+  },
+  {
+   "id": "2026-10-14-1",
+   "date": "2026-10-14",
+   "slot": 0,
+   "time": "2026-10-14T12:00:00+01:00",
+   "status": "waiting",
+   "plan": {
+    "format": "makeover",
+    "room": "kitchen",
+    "theme": "californiacasual",
+    "theme_name": "california casual",
+    "hook": "let's make this kitchen california casual ✍️",
+    "hook_sub": "(inspired)",
+    "slides": [
+     {
+      "text": "sun-bleached earthy california casual",
+      "look": "Bleached white oak cabinets with unlacquered brass pulls, honed travertine counters, and woven rattan counter stools. A trailing pothos hangs over white ceramic crockware, beside a vintage faded runner and ribbed clay pendant lights.",
+      "callout": ""
+     },
+     {
+      "text": "breezy coastal california casual",
+      "look": "Pale seafoam shaker cabinets paired with raw wood open shelves and white zellige tile splashbacks. Linen slipcovered bar stools sit at the marble island under woven rope pendants, styled with olive branches in a sandy ceramic jug.",
+      "callout": ""
+     },
+     {
+      "text": "warm organic california casual",
+      "look": "Rich caramel oak lower cabinetry with matte black latches, fluted plaster island accents, and saddle leather stools. A massive fiddle-leaf fig stands beside aged brass dome lights, a neutral jute runner, and handcrafted stoneware bowls.",
+      "callout": ""
+     },
+     {
+      "text": "laid-back modern california casual",
+      "look": "Flat-panel matte sand cabinets, soapstone worktops, and black cane stools. Glass globe pendants drop from above, illuminating a terracotta fruit bowl, stacked handmade speckled mugs on walnut floating shelves, and an oversized monstera.",
+      "callout": ""
+     },
+     {
+      "text": "sun-drenched vintage california casual",
+      "look": "Warm putty painted cabinets with aged bronze knobs and butcher block island tops. A muted distressed Turkish runner sits between woven rush seating, linen tea towels, a brass articulating sconce, and fresh citrus displayed in pedestal bowls.",
+      "callout": ""
+     },
+     {
+      "text": "serene minimal california casual",
+      "look": "Pale ash cabinets with cutout handles, seamless white quartz counters, and slender blonde oak stools. A pair of oversized paper lantern pendants glow above eucalyptus clippings in a rough concrete vase and a simple woven runner.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "Warm taupe cabinets paired with fluted marble counters, paper cord counter stools, and woven seagrass shades on brass pendants. An olive tree in an antique terracotta urn sits near stacked linen napkins and artisanal stoneware.",
+    "cta_question": "Have any Pinterest inspo you want to try? 📌",
+    "cta_line": "see your own room in any style with Snug",
+    "title": "california casual kitchen 📌",
+    "caption": "california casual kitchen 📌\n\nwhich version feels most like home to you? let me know below 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #californiacasual #snug",
+    "source": "ai",
+    "room_id": "empty-kitchen-none-4",
+    "extra": {}
+   },
+   "room_file": "empty-kitchen-none-4.jpg",
+   "keys": [
+    "2026-10-14-1/0",
+    "2026-10-14-1/1",
+    "2026-10-14-1/2",
+    "2026-10-14-1/3",
+    "2026-10-14-1/4",
+    "2026-10-14-1/5",
+    "2026-10-14-1/cta"
+   ],
+   "cost": 0.1755,
+   "batch": "batches/etx1baxyp2kf50xndb9x5fnuw1t339pcn6z9"
+  },
+  {
+   "id": "2026-10-14-2",
+   "date": "2026-10-14",
+   "slot": 1,
+   "time": "2026-10-14T19:00:00+01:00",
+   "status": "waiting",
+   "plan": {
+    "format": "problem",
+    "room": "kitchen",
+    "theme": "dated-kitchen",
+    "theme_name": "my dated kitchen",
+    "hook": "i'm done with my dated kitchen! 😅",
+    "hook_sub": "which would you choose?",
+    "slides": [
+     {
+      "text": "forest green makes brass feel heirloom",
+      "look": "Deep forest green cabinets with unlacquered brass cup pulls, paired with butcher block counters and handmade ivory zellige splashback tiles. Fluted glass pendant lights illuminate matching oak counter stools with woven rush seats, plus stacked terracotta planters.",
+      "callout": ""
+     },
+     {
+      "text": "french blue softened with warm honey oak",
+      "look": "Cornflower blue cabinetry paired with glossy white quartz worktops and hand-painted delft splashback tiles. Warm honey oak barstools pull up beside pleated fabric mini pendant lights, framed botanical prints, and a striped vintage runner.",
+      "callout": ""
+     },
+     {
+      "text": "butter yellow always brings the sunshine",
+      "look": "Pale butter yellow cabinets fitted with matte nickel knobs, colorful terrazzo splashback slabs, and honed black soapstone counters. Bentwood cane barstools sit below milk glass globe pendants, flanked by glazed ceramic pitchers and trailing english ivy.",
+      "callout": ""
+     },
+     {
+      "text": "burgundy and marble are pure drama",
+      "look": "Rich oxblood cabinets paired with honed calacatta viola marble counters and matching splashback. Sleek blackened steel stools with cognac leather cushions tuck neatly under, lit by an aged brass library sconce and a pair of petite oil paintings.",
+      "callout": ""
+     },
+     {
+      "text": "earthen tones make everyday cooking cozier",
+      "look": "Muted sage green cabinets accented with knurled bronze bar pulls, warm soapstone worktops, and glossy terracotta splashback tiles. Sculptural walnut counter stools rest beside an opal glass dome pendant, artisanal stoneware bowls, and potted olive branches.",
+      "callout": ""
+     },
+     {
+      "text": "glossy navy with chrome hits just right",
+      "look": "Inky navy cabinets with polished chrome latch hardware, complemented by crisp white marble worktops and glossy ocean-blue subway splashback. Modern brushed steel stools sit beneath industrial saucer pendants, accompanied by framed abstract sketches and copper saucepans.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "Dusty rose cabinetry paired with creamy travertine counters, ribbed ceramic splashback tiles, and brushed brass knobs. Blonde ash barstools rest alongside paper lantern pendants, small framed still life art, and an assortment of potted fresh basil.",
+    "cta_question": "want to see your kitchen another way?",
+    "cta_line": "snap your room and try it on Snug",
+    "title": "goodbye dated kitchen 👋",
+    "caption": "goodbye dated kitchen 👋\n\ntell me your favorite look in the comments 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
+    "source": "ai",
+    "room_id": "lived-kitchen-dated-kitchen-2",
+    "extra": {}
+   },
+   "room_file": "lived-kitchen-dated-kitchen-2.jpg",
+   "keys": [
+    "2026-10-14-2/0",
+    "2026-10-14-2/1",
+    "2026-10-14-2/2",
+    "2026-10-14-2/3",
+    "2026-10-14-2/4",
+    "2026-10-14-2/5",
+    "2026-10-14-2/cta"
+   ],
+   "cost": 0.1365,
+   "batch": "batches/etx1baxyp2kf50xndb9x5fnuw1t339pcn6z9"
+  }
+ ]
+}
