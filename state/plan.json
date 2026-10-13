@@ -83,7 +83,7 @@
    "date": "2026-10-13",
    "slot": 1,
    "time": "2026-10-13T19:00:00+01:00",
-   "status": "ready",
+   "status": "sent",
    "plan": {
     "format": "problem",
     "room": "bedroom",
