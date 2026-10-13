@@ -123,3 +123,10 @@ def test_look_prompts_keep_the_room(cfg):
                      title="", caption="")
     text = pipeline.look_prompt(p, "a look")
     assert "layout stays" in text and "same camera position" in text
+
+
+def test_two_posts_a_day_use_different_rooms(cfg):
+    hist = History([{"date": "2026-10-14", "format": "makeover", "theme": "midcentury", "room": "kitchen", "status": SENT}])
+    for seed in range(15):
+        fmt, item, room = planner.choose("problem", date(2026, 10, 14), hist, cfg, random.Random(seed))
+        assert room != "kitchen"

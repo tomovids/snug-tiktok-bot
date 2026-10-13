@@ -79,8 +79,10 @@ def _last_used(hist: History, key: str) -> dict[str, date]:
 
 def choose(fmt: str, day: date, hist: History, cfg: dict, rng: random.Random,
            taken: set[str] = frozenset()) -> tuple[str, dict, str]:
-    """(format, style or problem, room): least recently used, resting `*_rest_days` if possible.
+    """(format, style or problem, room): least recently used, resting `*_rest_days` if possible, and
+    not the same room type as another post that day if there's a choice.
     `taken`: themes already planned for other posts in this run."""
+    same_day = {p.get("room") for p in hist.done() if p.get("date") == day.isoformat()}
     data = load_data()
     rot = cfg["rotation"]
     if fmt == "any":
@@ -90,12 +92,13 @@ def choose(fmt: str, day: date, hist: History, cfg: dict, rng: random.Random,
     rest = rot["style_rest_days"] if fmt == "makeover" else rot["problem_rest_days"]
     last = _last_used(hist, "theme")
     pool = [i for i in items if i["id"] not in taken] or items
+    pool = [i for i in pool if set(i["rooms"]) - same_day] or pool
     rested = [i for i in pool if i["id"] not in last or (day - last[i["id"]]).days >= rest]
     pool = rested or pool
     oldest = min(last.get(i["id"], date.min) for i in pool)
     item = rng.choice([i for i in pool if last.get(i["id"], date.min) == oldest])
     room_last = _last_used(hist, "room")
-    rooms = item["rooms"]
+    rooms = [r for r in item["rooms"] if r not in same_day] or item["rooms"]
     room = min(rooms, key=lambda r: (room_last.get(r, date.min), rng.random()))
     return fmt, item, room
 
