@@ -102,6 +102,19 @@ def choose(fmt: str, day: date, hist: History, cfg: dict, rng: random.Random,
 
 # ---- writing ---------------------------------------------------------------------------------------
 
+MOVABLE = ("Every look describes ONLY movable things (furniture, rugs, textiles, cushions, lamps and light fittings, "
+           "art, mirrors, plants, books, decor): never walls, wall color, brick, concrete, panelling, beams, floors, "
+           "ceilings, windows or curtains, because the room itself stays exactly the same in every picture.")
+
+
+KITCHEN = (" In a kitchen the cabinet color, handles, worktops, splashback, lights, stools and open shelves CAN "
+           "change and each look should make a big, visible change to them (the layout stays).")
+
+
+def movable(room: str) -> str:
+    return MOVABLE + (KITCHEN if room == "kitchen" else "")
+
+
 def _prompt(fmt: str, item: dict, room: str, recent: list[str], cfg: dict) -> str:
     n = cfg["slides"]["restyles"]
     s = cfg["slides"]
@@ -112,8 +125,8 @@ def _prompt(fmt: str, item: dict, room: str, recent: list[str], cfg: dict) -> st
   "turning this into a {item['name']} {room} ✍️"); at most {s['max_hook_chars']} characters, lowercase.
 - {n} "slides", each {{"text": a 2-5 word lowercase style label that ends with "{item['name']}", in the spirit
   of "warm nostalgic mid-century" or "retro glam mid-century" but with your OWN words that fit {item['name']}
-  (don't reuse "warm nostalgic", "moody and refined" or "retro glam"); {n} clearly different moods, "look": 25-45 words describing how the {room} is furnished and decorated in that version: the main
-  furniture, materials, colors, lighting mood, art and decor}}.
+  (don't reuse "warm nostalgic", "moody and refined" or "retro glam"); {n} clearly different "look": 25-45 words describing how the {room} is furnished and decorated in that version: the main
+  furniture, materials, colors, lighting mood, art and decor}}. {movable(room)}
 - "cta_look": one more version of the room (25-45 words) for the last slide.
 - "cta_question": "Have any Pinterest inspo you want to try? 📌" or a close variant.
 - "title": "{item['name']} transformation 📌" or a close variant (max 40 characters)."""
@@ -124,7 +137,7 @@ def _prompt(fmt: str, item: dict, room: str, recent: list[str], cfg: dict) -> st
 - {n} "slides", each {{"text": ONE personal, opinionated lowercase line, 3-9 words, about that version, in the
   spirit of "the deep blue makes pink feel grown up", "could I commit this much to color? 🫢" or "a person well
   travelled" but your OWN words about what's in that version (never copy these examples), at most {s['max_line_chars']} characters, "look": 25-45 words
-  describing a colorful, characterful restyle of the same {room}: furniture, colors, textiles, art, lighting}}.
+  describing a colorful, characterful restyle of the same {room}: furniture, colors, textiles, art, lighting}}. {movable(room)}
   Make the {n} versions really different from each other (palettes and moods).
 - "cta_look": one more restyle (25-45 words) for the last slide.
 - "cta_question": "{item['cta']}" or a close variant.

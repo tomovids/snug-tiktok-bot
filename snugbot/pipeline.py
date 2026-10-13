@@ -29,9 +29,11 @@ from .history import SENT, History
 from .planner import Plan
 from .tiktok import TikTok, TikTokError, wait_for_urls
 
-KEEP = ("Keep the room itself EXACTLY the same: the same walls, the same window(s) (position, size and frame, "
-        "no curtains or blinds added), the same floor, ceiling and doors, and the same camera position, angle "
-        "and lens.")
+KEEP = ("This is a restyle of the SAME room photo, not a new room. Keep the architecture pixel-for-pixel: the same "
+        "walls in the same place and the same wall color and finish, the same window(s) with the same position, "
+        "size and frame, the same floor, ceiling, cornicing, doors and fireplace, and the same camera position, "
+        "angle and lens. Do NOT add, remove or move any window, wall, beam, column, archway, brick or panelling, "
+        "do not repaint the walls and do not add curtains or blinds.")
 FINISH = ("Lighting to suit the look (moody looks darker with lamps on, airy looks in bright daylight). "
           "Photorealistic interior photography, rich believable colors, like a high-end design magazine. "
           "No text, no watermarks, no people.")
@@ -47,11 +49,15 @@ def look_prompt(plan: Plan, look: str) -> str:
             what = (f"Restyle this kitchen fully, like a real, loved kitchen styled for a design magazine: cabinet "
                     f"colors, worktops, lights, stools, open shelves, plants and decor can change, the layout "
                     f"stays. The look: {look}.")
+    elif plan.room == "kitchen":
+        what = (f"Restyle this kitchen completely in this look: {look}. Repaint the cabinets, change the handles, "
+                f"worktops, splashback, lights, stools and decor so it looks totally different, keeping the layout, "
+                f"the walls and the window.")
     else:
         what = (f"Restyle this {plan.room} completely in this look: {look}. Replace the furniture, textiles, rugs, "
                 f"art, lamps and decor so it feels full of character and totally different, keeping the wall color "
                 f"and the layout.")
-    return f"{what} {KEEP} {FINISH}"
+    return f"{KEEP} {what} {FINISH}"
 
 
 # ---- the plan file ------------------------------------------------------------------------------
@@ -161,9 +167,10 @@ def write_callout(ai: Gemini, img: Image.Image, plan: Plan, label: str, log=prin
     """A callout about a piece that's really in the picture, and where it is."""
     prompt = (f"This photo shows a {plan.room} styled as \"{label}\". Pick the ONE most eye-catching piece that "
               f"is clearly visible (a sofa, chair, lamp, table, sideboard, rug, mirror or artwork). Write a short "
-              f"lowercase TikTok callout about it, 3-6 words, naming its color or material, like \"need this "
-              f"chrome coffee table\", \"love this rosewood credenza\", \"this couch and lamp!\", \"orange "
-              f"mushroom lamp\". No brands, no emoji. Return JSON {{\"callout\": \"...\", \"box_2d\": [ymin, xmin, "
+              f"lowercase TikTok callout about it, 3-7 words, said like a person who wants it, naming its color or "
+              f"material: start with \"need this\", \"love this\", \"obsessed with this\" or \"this ... !\" "
+              f"(like \"need this chrome coffee table\", \"love this rosewood credenza\", \"this couch and lamp!\"). "
+              f"No brands, no emoji. Return JSON {{\"callout\": \"...\", \"box_2d\": [ymin, xmin, "
               f"ymax, xmax]}} with the box around that piece, values 0-1000.")
     try:
         d = ai.text_json(prompt, images=[img])

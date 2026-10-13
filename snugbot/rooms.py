@@ -77,11 +77,11 @@ def prompt(kind: str, room: str, problem_look: str | None, rng: random.Random) -
                     else "A bare, newly fitted kitchen with plain white units and empty worktops: no decor, "
                          "no stools, no people.")
         text = (f"Photorealistic interior photo of an empty, freshly painted {room} in a city apartment, {camera}. "
-                f"{arch[0].upper() + arch[1:]}, {floor} floor, warm white walls, soft afternoon sunlight making "
+                f"The room has {arch}, CLEARLY VISIBLE in the picture, {floor} floor, warm white walls, soft afternoon sunlight making "
                 f"patches of light on the floor and walls. {contents} Bright and calm, real-estate photography.")
     else:
-        text = (f"Photorealistic smartphone photo of a real, lived-in {room}, {camera}. {arch[0].upper() + arch[1:]}, "
-                f"{floor} floor. The room: {problem_look}. Furnished and tidy but boring. Soft natural daylight. "
+        text = (f"Photorealistic smartphone photo of a real, lived-in {room}, {camera}. The room has {arch}, clearly "
+                f"visible in the picture, and a {floor} floor. The room: {problem_look}. Furnished and tidy but boring. Soft natural daylight. "
                 f"No people, no text.")
     return text, arch, floor
 

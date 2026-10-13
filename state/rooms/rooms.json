@@ -8,8 +8,17 @@
   "floor": "wide warm oak planks",
   "file": "empty-livingroom-none-1.jpg",
   "created": "2026-10-13",
-  "used": [
-   "2026-10-13"
-  ]
+  "used": []
+ },
+ {
+  "id": "lived-kitchen-dated-kitchen-2",
+  "kind": "lived",
+  "room": "kitchen",
+  "problem": "dated-kitchen",
+  "arch": "an L-shaped layout with a skylight",
+  "floor": "warm terracotta tiles",
+  "file": "lived-kitchen-dated-kitchen-2.jpg",
+  "created": "2026-10-13",
+  "used": []
  }
 ]
