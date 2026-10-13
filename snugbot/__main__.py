@@ -77,6 +77,10 @@ def cmd_send(args, cfg) -> int:
                 log("::warning::TikTok's inbox is full (5 drafts waiting). Post or delete some in TikTok; "
                     "the bot tries again in 2 hours.")
                 break
+            if "url_ownership_unverified" in str(e):
+                log("::warning::TikTok hasn't verified https://tomovids.github.io/snug-tiktok-bot/ yet (SETUP.md "
+                    "step 2). The bot tries again every hour.")
+                break
             log(f"ERROR sending {pid}: {e}")
             failed += 1
     return 1 if failed else 0

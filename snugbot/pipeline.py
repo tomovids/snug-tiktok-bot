@@ -340,6 +340,8 @@ def send(pid: str, cfg: dict, tt: TikTok, token_key: str, log=print, wait_pages=
         record["status"], record["error"] = "FAILED", str(e)
         if "too_many_pending" in str(e):       # 5 drafts already waiting: try again in 2 hours
             p["retry_after"] = (datetime.now(timezone.utc) + timedelta(hours=2)).isoformat(timespec="seconds")
+        elif "url_ownership_unverified" in str(e):   # the slide address isn't verified in TikTok yet
+            p["retry_after"] = (datetime.now(timezone.utc) + timedelta(hours=1)).isoformat(timespec="seconds")
         else:
             p["status"] = "failed"
         raise
