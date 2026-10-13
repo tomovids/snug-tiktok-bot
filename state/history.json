@@ -34,6 +34,41 @@
    "status": "FAILED",
    "error": "TikTok error url_ownership_unverified: Please review our URL ownership verification rules at https://developers.tiktok.com/doc/content-posting-api-media-transfer-guide/#pull_from_url (log id 202610131249240CE61354BA683FCB7DD6)\nTikTok hasn't verified the image address. Verify the URL prefix in the TikTok developer portal (SETUP.md step 4).",
    "sent_at": "2026-10-13T12:49:25+00:00"
+  },
+  {
+   "date": "2026-10-13",
+   "slot": 0,
+   "id": "2026-10-13-1",
+   "format": "makeover",
+   "theme": "industrial",
+   "theme_name": "industrial",
+   "room": "living room",
+   "room_id": "empty-livingroom-none-1",
+   "hook": "let's make this living room industrial ✍️",
+   "texts": [
+    "worn leather industrial",
+    "clean minimalist industrial",
+    "raw workshop industrial",
+    "soft cozy industrial",
+    "monochrome studio industrial",
+    "vintage loft industrial"
+   ],
+   "caption": "industrial transformation 📌\n\ntell me which industrial vibe you'd pick for this space 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #industrialdecor #snug",
+   "source": "ai",
+   "cost": 0.1365,
+   "urls": [
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-13-1/01.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-13-1/02.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-13-1/03.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-13-1/04.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-13-1/05.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-13-1/06.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-13-1/07.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-13-1/08.jpg"
+   ],
+   "publish_id": "p_inbox_url~v2.7696141448072185878",
+   "status": "SEND_TO_USER_INBOX",
+   "sent_at": "2026-10-13T13:20:24+00:00"
   }
  ]
 }

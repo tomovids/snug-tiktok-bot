@@ -5,7 +5,7 @@
    "date": "2026-10-13",
    "slot": 0,
    "time": "2026-10-13T12:00:00+01:00",
-   "status": "ready",
+   "status": "sent",
    "plan": {
     "format": "makeover",
     "room": "living room",
