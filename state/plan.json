@@ -5,7 +5,7 @@
    "date": "2026-10-13",
    "slot": 0,
    "time": "2026-10-13T12:00:00+01:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "makeover",
     "room": "living room",
@@ -17,32 +17,32 @@
      {
       "text": "worn leather industrial",
       "look": "A deep cognac leather chesterfield sofa paired with a blackened steel coffee table, a faded charcoal kilim rug, a tall arched iron floor lamp with an amber edison bulb, stacked architectural monographs, and an oversized round brass bowl.",
-      "callout": ""
+      "callout": "obsessed with this brown leather sofa"
      },
      {
       "text": "clean minimalist industrial",
       "look": "A boxy slate gray linen sectional anchored by a low reclaimed oak bench as a coffee table, a chunky wool cream rug, matte black swing-arm task lamps, framed monochromatic line art, and a potted rubber plant in a steel planter.",
-      "callout": ""
+      "callout": "obsessed with this wooden coffee table"
      },
      {
       "text": "raw workshop industrial",
       "look": "A distressed tan leather lounge chair beside a heavy cast-iron cart table, an olive drab canvas sofa, a wire cage pendant light with glowing filament bulbs, vintage blueprint art in thin metal frames, and weathered metal storage bins.",
-      "callout": ""
+      "callout": "need this caramel leather armchair"
      },
      {
       "text": "soft cozy industrial",
       "look": "A plush charcoal bouclé sofa topped with heavy knit throws, a round reclaimed teak coffee table on a ribbed jute rug, blackened brass tripod lamps casting warm light, a sprawling fiddle-leaf fig, and textured matte ceramic vessels.",
-      "callout": ""
+      "callout": "obsessed with this round jute rug"
      },
      {
       "text": "monochrome studio industrial",
       "look": "An ink-black velvet couch contrasted with a brushed aluminum coffee table, a faded distressed gray runner rug, an industrial photographer's floor lamp, oversized black-and-white photography prints in iron frames, and stacks of glossy art books.",
-      "callout": ""
+      "callout": "need this stainless steel coffee table"
      },
      {
       "text": "vintage loft industrial",
       "look": "A caramel saddle leather sofa layered with plaid wool pillows, a repurposed factory cart coffee table, an intricate faded Persian rug, a pipe-and-wood bookshelf styled with brass bookends, and a cluster of suspended amber edison pendants.",
-      "callout": ""
+      "callout": "need this industrial cart coffee table"
      }
     ],
     "cta_look": "A rich forest green velvet sofa with matte black iron legs, a heavy zinc-topped coffee table over a dark charcoal wool rug, a sculptural iron chandelier with filament bulbs, and trailing pothos in hanging steel planters.",
@@ -65,14 +65,25 @@
     "2026-10-13-1/cta"
    ],
    "cost": 0.1365,
-   "batch": "batches/etx1baxyp2kf50xndb9x5fnuw1t339pcn6z9"
+   "batch": "batches/etx1baxyp2kf50xndb9x5fnuw1t339pcn6z9",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-13T12:48:05+00:00"
   },
   {
    "id": "2026-10-13-2",
    "date": "2026-10-13",
    "slot": 1,
    "time": "2026-10-13T19:00:00+01:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "problem",
     "room": "bedroom",
@@ -132,14 +143,25 @@
     "2026-10-13-2/cta"
    ],
    "cost": 0.1755,
-   "batch": "batches/etx1baxyp2kf50xndb9x5fnuw1t339pcn6z9"
+   "batch": "batches/etx1baxyp2kf50xndb9x5fnuw1t339pcn6z9",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-13T12:48:06+00:00"
   },
   {
    "id": "2026-10-14-1",
    "date": "2026-10-14",
    "slot": 0,
    "time": "2026-10-14T12:00:00+01:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "makeover",
     "room": "kitchen",
@@ -156,27 +178,27 @@
      {
       "text": "breezy coastal california casual",
       "look": "Pale seafoam shaker cabinets paired with raw wood open shelves and white zellige tile splashbacks. Linen slipcovered bar stools sit at the marble island under woven rope pendants, styled with olive branches in a sandy ceramic jug.",
-      "callout": ""
+      "callout": "obsessed with this woven pendant light"
      },
      {
       "text": "warm organic california casual",
       "look": "Rich caramel oak lower cabinetry with matte black latches, fluted plaster island accents, and saddle leather stools. A massive fiddle-leaf fig stands beside aged brass dome lights, a neutral jute runner, and handcrafted stoneware bowls.",
-      "callout": ""
+      "callout": "obsessed with this brass pendant"
      },
      {
       "text": "laid-back modern california casual",
       "look": "Flat-panel matte sand cabinets, soapstone worktops, and black cane stools. Glass globe pendants drop from above, illuminating a terracotta fruit bowl, stacked handmade speckled mugs on walnut floating shelves, and an oversized monstera.",
-      "callout": ""
+      "callout": "obsessed with this glass pendant light"
      },
      {
       "text": "sun-drenched vintage california casual",
       "look": "Warm putty painted cabinets with aged bronze knobs and butcher block island tops. A muted distressed Turkish runner sits between woven rush seating, linen tea towels, a brass articulating sconce, and fresh citrus displayed in pedestal bowls.",
-      "callout": ""
+      "callout": "love this vintage runner rug"
      },
      {
       "text": "serene minimal california casual",
       "look": "Pale ash cabinets with cutout handles, seamless white quartz counters, and slender blonde oak stools. A pair of oversized paper lantern pendants glow above eucalyptus clippings in a rough concrete vase and a simple woven runner.",
-      "callout": ""
+      "callout": "obsessed with this paper lantern pendant"
      }
     ],
     "cta_look": "Warm taupe cabinets paired with fluted marble counters, paper cord counter stools, and woven seagrass shades on brass pendants. An olive tree in an antique terracotta urn sits near stacked linen napkins and artisanal stoneware.",
@@ -199,14 +221,25 @@
     "2026-10-14-1/cta"
    ],
    "cost": 0.1755,
-   "batch": "batches/etx1baxyp2kf50xndb9x5fnuw1t339pcn6z9"
+   "batch": "batches/etx1baxyp2kf50xndb9x5fnuw1t339pcn6z9",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-13T12:48:48+00:00"
   },
   {
    "id": "2026-10-14-2",
    "date": "2026-10-14",
    "slot": 1,
    "time": "2026-10-14T19:00:00+01:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "problem",
     "room": "kitchen",
@@ -266,7 +299,18 @@
     "2026-10-14-2/cta"
    ],
    "cost": 0.1365,
-   "batch": "batches/etx1baxyp2kf50xndb9x5fnuw1t339pcn6z9"
+   "batch": "batches/etx1baxyp2kf50xndb9x5fnuw1t339pcn6z9",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-13T12:48:50+00:00"
   }
  ]
 }
