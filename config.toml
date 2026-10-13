@@ -1,0 +1,63 @@
+# Snug TikTok slideshow bot settings. Edit freely; the next run picks them up.
+
+[schedule]
+# One draft per time (UK time). GitHub runs the hourly check late sometimes; a late run sends
+# everything that's due.
+post_times = ["12:00", "19:00"]
+timezone = "Europe/London"
+# Which format each of the day's posts uses: "makeover" = let's make this <style> (format A),
+# "problem" = i'm done with <problem> (format B), "any" = whichever was used longest ago.
+formats = ["makeover", "problem"]
+# Pictures are ordered through Google's half-price batch service this many hours ahead.
+prepare_hours = 30
+# If a post's pictures aren't back from the batch service this long after its time, they're made
+# straight away at the normal price instead.
+batch_grace_hours = 2
+
+[rotation]
+# A style / problem isn't used again for this many days, a "before" room for this many days.
+style_rest_days = 10
+problem_rest_days = 6
+room_rest_days = 21
+# How many "before" rooms of each kind (room type + empty, or room type + problem) to collect before
+# reusing them. Each new room costs one picture at the normal price (about 3p).
+library_size = 4
+
+[gemini]
+image_model = "gemini-2.5-flash-image"
+text_model = "gemini-flash-latest"
+# Approximate prices, for the cost line in the log (USD per image).
+price_now = 0.039
+price_batch = 0.0195
+
+[slides]
+restyles = 6
+font = "fonts/TikTokSans36pt-Medium.ttf"
+emoji_font = "fonts/NotoColorEmoji.ttf"
+hook_size = 66
+label_size = 44
+callout_size = 36
+cta_size = 58
+max_hook_chars = 44
+max_line_chars = 52
+emoji = "✍️📌😅🫢🤍✨😍👀🥹🙌🌿🛋️👇👋"
+# The last slide's Snug line (one is picked per post).
+cta_lines = [
+  "try it on your own room with Snug",
+  "try your Pinterest inspo on Snug 📌",
+  "see your own room in any style with Snug",
+  "snap your room and try it on Snug",
+]
+
+[caption]
+hashtags = ["#interiordesign", "#interiorinspo", "#homeinspo", "#homedesign"]
+brand_tag = "#snug"
+max_hashtags = 7
+
+[tiktok]
+# Turns on TikTok's "AI-generated" label (every picture is AI-made).
+ai_generated = true
+pages_base_url = "https://tomovids.github.io/snug-tiktok-bot/"
+# The same TikTok developer app as Measy, so its login page is reused.
+redirect_uri = "https://tomovids.github.io/measy-tiktok-bot/auth.html"
+scopes = ["user.info.basic", "video.upload", "user.info.stats", "video.list"]

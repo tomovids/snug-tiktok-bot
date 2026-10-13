@@ -1,0 +1,4 @@
+Pillow>=11
+requests>=2.32
+cryptography>=44
+tzdata

@@ -1,0 +1,237 @@
+# What Snug posts are about. The bot rotates through these (least recently used first) so posts
+# don't repeat. Add more freely: a style or problem is picked up on the next run.
+
+# ---- Format A: "let's make this <style> ✍️" (an empty room -> 6 versions of one style) ----------
+# name: as it reads in the hook. tag: the style's hashtag. notes: what the style is made of (the
+# writer builds the 6 sub-styles from it). rooms: which rooms it suits.
+[[styles]]
+id = "midcentury"
+name = "mid-century"
+tag = "#midcenturymodern"
+notes = "walnut and teak, tapered legs, mushroom and arc lamps, bold graphic art, mustard, olive, burnt orange"
+rooms = ["living room", "bedroom", "kitchen"]
+
+[[styles]]
+id = "japandi"
+name = "japandi"
+tag = "#japandi"
+notes = "low oak furniture, linen, paper lanterns, stone, wabi-sabi ceramics, calm neutrals, a little black"
+rooms = ["living room", "bedroom", "kitchen"]
+
+[[styles]]
+id = "coastal"
+name = "coastal"
+tag = "#coastaldecor"
+notes = "white oak, rattan, linen slipcovers, soft blues and sand, striped textiles, driftwood, ceramics"
+rooms = ["living room", "bedroom", "kitchen"]
+
+[[styles]]
+id = "scandi"
+name = "scandi"
+tag = "#scandinaviandesign"
+notes = "pale wood, white and soft grey, sheepskin, simple pendant lights, graphic prints, greenery, hygge"
+rooms = ["living room", "bedroom", "kitchen"]
+
+[[styles]]
+id = "boho"
+name = "boho"
+tag = "#bohodecor"
+notes = "rattan, macrame, layered vintage rugs, terracotta, plants everywhere, floor cushions, warm textiles"
+rooms = ["living room", "bedroom"]
+
+[[styles]]
+id = "quietluxury"
+name = "quiet luxury"
+tag = "#quietluxury"
+notes = "cream boucle, travertine, warm wood, sculptural lighting, linen drapes, a few beautiful objects"
+rooms = ["living room", "bedroom", "kitchen"]
+
+[[styles]]
+id = "darkacademia"
+name = "dark academia"
+tag = "#darkacademia"
+notes = "deep greens and browns, leather chesterfields, full bookshelves, brass lamps, oil paintings, velvet"
+rooms = ["living room", "bedroom"]
+
+[[styles]]
+id = "cottagecore"
+name = "cottagecore"
+tag = "#cottagecore"
+notes = "florals, gingham, painted wood, dried flowers, vintage china, soft greens and creams, cosy and rustic"
+rooms = ["living room", "bedroom", "kitchen"]
+
+[[styles]]
+id = "artdeco"
+name = "art deco"
+tag = "#artdeco"
+notes = "geometric patterns, brass and gold, emerald and navy velvet, scalloped shapes, lacquer, glamour"
+rooms = ["living room", "bedroom"]
+
+[[styles]]
+id = "organicmodern"
+name = "organic modern"
+tag = "#organicmodern"
+notes = "curved shapes, warm white oak, plaster, linen, stone, olive trees, earthy neutrals"
+rooms = ["living room", "bedroom", "kitchen"]
+
+[[styles]]
+id = "seventies"
+name = "70s retro"
+tag = "#70sdecor"
+notes = "rust, mustard and brown, shag rugs, curvy sofas, smoked glass, wood panelling, groovy lamps"
+rooms = ["living room", "bedroom"]
+
+[[styles]]
+id = "mediterranean"
+name = "mediterranean"
+tag = "#mediterraneandecor"
+notes = "limewash, terracotta, olive wood, blue and white ceramics, rush chairs, linen, sun-baked warmth"
+rooms = ["living room", "bedroom", "kitchen"]
+
+[[styles]]
+id = "frenchcountry"
+name = "french country"
+tag = "#frenchcountry"
+notes = "antique wood, toile, distressed finishes, linen, copper pots, soft blues and creams, flowers"
+rooms = ["living room", "bedroom", "kitchen"]
+
+[[styles]]
+id = "industrial"
+name = "industrial"
+tag = "#industrialdecor"
+notes = "black metal, leather, reclaimed wood, Edison bulbs, concrete, cognac and charcoal"
+rooms = ["living room", "bedroom", "kitchen"]
+
+[[styles]]
+id = "maximalist"
+name = "maximalist"
+tag = "#maximalism"
+notes = "pattern on pattern, bold colour, gallery walls, velvet, collected objects, joyful and layered"
+rooms = ["living room", "bedroom"]
+
+[[styles]]
+id = "grandmillennial"
+name = "grandmillennial"
+tag = "#grandmillennial"
+notes = "chintz, pleated lampshades, wicker, blue and white porcelain, skirted tables, pretty and traditional"
+rooms = ["living room", "bedroom"]
+
+[[styles]]
+id = "californiacasual"
+name = "california casual"
+tag = "#californiacasual"
+notes = "relaxed linen sofas, light oak, woven textures, sun-faded colours, big plants, easy and breezy"
+rooms = ["living room", "bedroom", "kitchen"]
+
+[[styles]]
+id = "parisian"
+name = "parisian apartment"
+tag = "#parisianstyle"
+notes = "vintage mirrors, marble, a mix of antique and modern, velvet chairs, books, flowers, effortless chic"
+rooms = ["living room", "bedroom"]
+
+[[styles]]
+id = "wabisabi"
+name = "wabi-sabi"
+tag = "#wabisabi"
+notes = "raw plaster, aged wood, handmade ceramics, imperfect textures, earthy calm"
+rooms = ["living room", "bedroom", "kitchen"]
+
+[[styles]]
+id = "modernfarmhouse"
+name = "modern farmhouse"
+tag = "#modernfarmhouse"
+notes = "white oak, black hardware, shiplap, linen, woven baskets, warm whites"
+rooms = ["living room", "bedroom", "kitchen"]
+
+# ---- Format B: "i'm done with <problem>! 😅" (a lived-in room with a problem -> 6 restyles) ------
+# phrase: as it reads in the hook. room_look: what the boring "before" room looks like. cta: the
+# last slide's question.
+[[problems]]
+id = "grey"
+phrase = "grey and minimalism"
+room_look = "everything grey and greige: a grey sofa or bed, grey rug, white walls, plain grey cushions, sparse and cold"
+cta = "want to get rid of the grey in your space?"
+rooms = ["living room", "bedroom"]
+
+[[problems]]
+id = "beige"
+phrase = "beige everything"
+room_look = "everything beige: beige walls, beige upholstered furniture, oatmeal textiles, a beige rug, flat and lifeless"
+cta = "want to get rid of the beige in your space?"
+rooms = ["living room", "bedroom"]
+
+[[problems]]
+id = "rental"
+phrase = "my boring rental"
+room_look = "a plain rented flat: magnolia walls, cheap basic furniture, a worn carpet, bare walls, a single ceiling light"
+cta = "renting doesn't mean boring. want to try?"
+rooms = ["living room", "bedroom", "kitchen"]
+
+[[problems]]
+id = "builder"
+phrase = "builder-grade everything"
+room_look = "a builder-grade new build: white walls, plain white cabinets or furniture, beige laminate, no character"
+cta = "want to give your space some character?"
+rooms = ["living room", "bedroom", "kitchen"]
+
+[[problems]]
+id = "dark"
+phrase = "my dark, dated room"
+room_look = "a dark, dated room: brown furniture, heavy curtains, an old patterned carpet, dim light, clutter"
+cta = "want to bring your room back to life?"
+rooms = ["living room", "bedroom"]
+
+[[problems]]
+id = "allwhite"
+phrase = "all-white everything"
+room_look = "everything white: white walls, white furniture, white bedding or sofa, white floor rug, clinical"
+cta = "ready to add some color to your space?"
+rooms = ["living room", "bedroom", "kitchen"]
+
+[[problems]]
+id = "dated-kitchen"
+phrase = "my dated kitchen"
+room_look = "a dated kitchen: orange-pine cabinets, beige tiles, a laminate worktop, old appliances, poor light"
+cta = "want to see your kitchen another way?"
+rooms = ["kitchen"]
+
+[[problems]]
+id = "studentroom"
+phrase = "my dorm room looking like a hostel"
+room_look = "a small student bedroom: a single bed with a plain duvet, a cheap desk, bare magnolia walls, a box of stuff"
+cta = "want to make your room feel like you?"
+rooms = ["bedroom"]
+
+# ---- the rooms themselves ------------------------------------------------------------------------
+# The "before" rooms are built from these, so they don't all look the same. Each room in the
+# library is reused for different styles (it rests for a few weeks between uses).
+[architecture]
+"living room" = [
+  "a large black-framed floor-to-ceiling window on the left wall",
+  "two tall sash windows on the back wall",
+  "a wide arched window on the right wall",
+  "an exposed brick wall on the right and a big window on the left",
+  "a bay window on the back wall",
+  "French doors to a small balcony on the left",
+  "high ceilings with original cornicing and a tall window on the right",
+  "a sloped loft ceiling with a large skylight",
+]
+bedroom = [
+  "a large window to the right of the bed wall",
+  "two tall sash windows on the back wall either side of the bed",
+  "a sloped loft ceiling with a skylight above the bed",
+  "a big arched window on the left wall",
+  "a picture window on the back wall",
+  "high ceilings with cornicing and a tall window on the left",
+]
+kitchen = [
+  "a window above the sink on the back wall",
+  "a big black-framed window on the right and an island in the middle",
+  "a galley layout with a window at the far end",
+  "an L-shaped layout with a skylight",
+  "French doors to a garden on the left",
+  "a long run of units with open wall space and a window on the left",
+]
+floors = ["light oak herringbone", "wide warm oak planks", "pale polished concrete", "honey-toned parquet",
+          "warm terracotta tiles", "black and white checkerboard tiles"]
