@@ -1,0 +1,58 @@
+{
+ "account": [
+  {
+   "date": "2026-10-13",
+   "followers": 0,
+   "likes": 0,
+   "videos": 1,
+   "total_views": 9
+  }
+ ],
+ "videos": {
+  "7696142659928263958": {
+   "id": "7696142659928263958",
+   "snapshots": [
+    {
+     "at": "2026-10-13T13:26+00:00",
+     "age_h": 0.0,
+     "views": 9,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0
+    }
+   ],
+   "posted": "2026-10-13T13:24+00:00",
+   "title": "industrial transformation 📌 tell me which industrial vibe you'd pick for this space 👇 #interiordesign #interiorinspo #homeinspo #homedesign #industrialdecor ",
+   "share_url": "https://www.tiktok.com/@trysnug/video/7696142659928263958?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=d7a9e504&x-expires=1793192400&x-signature=ikecxNBcz5xXFo%2B2v1TRveNykfI%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "latest": {
+    "at": "2026-10-13T13:26+00:00",
+    "age_h": 0.0,
+    "views": 9,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "post_key": "p_inbox_url~v2.7696141448072185878",
+   "post": {
+    "date": "2026-10-13",
+    "hook": "let's make this living room industrial ✍️",
+    "format": "makeover",
+    "theme": "industrial",
+    "theme_name": "industrial",
+    "room": "living room",
+    "slot": 0,
+    "texts": [
+     "worn leather industrial",
+     "clean minimalist industrial",
+     "raw workshop industrial",
+     "soft cozy industrial",
+     "monochrome studio industrial",
+     "vintage loft industrial"
+    ],
+    "extra": false
+   }
+  }
+ },
+ "updated": "2026-10-13T13:26+00:00"
+}

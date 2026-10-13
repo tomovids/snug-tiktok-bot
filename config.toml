@@ -61,3 +61,17 @@ pages_base_url = "https://tomovids.github.io/snug-tiktok-bot/"
 # The same TikTok developer app as Measy, so its login page is reused.
 redirect_uri = "https://tomovids.github.io/measy-tiktok-bot/auth.html"
 scopes = ["user.info.basic", "video.upload", "user.info.stats", "video.list"]
+
+[tracking]
+# The dashboard lives at <pages_base_url><dashboard_dir>/ (not linked from anywhere).
+dashboard_dir = "insights-a6218bf0"
+# Pages of 20 posts to read each time.
+video_pages = 5
+# Auto-tuning starts once this many posts are 3+ days old. Each style / problem / room gets a
+# multiplier (its average score pulled towards 1.0 by prior_posts imaginary average posts),
+# clamped to min_mult-max_mult. explore = share of posts that ignore the tuning.
+min_posts = 10
+prior_posts = 3
+min_mult = 0.5
+max_mult = 2.0
+explore = 0.25

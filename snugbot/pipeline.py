@@ -23,7 +23,7 @@ from zoneinfo import ZoneInfo
 
 from PIL import Image
 
-from . import config, planner, render, rooms, tokens
+from . import config, planner, render, rooms, tokens, tuning
 from .gemini import Gemini, GeminiError, image_from, image_request
 from .history import SENT, History
 from .planner import Plan
@@ -200,7 +200,8 @@ def prepare(state: dict, hist: History, ai: Gemini, cfg: dict, now: datetime, lo
         pid = post_id(day, index)
         rng = random.Random(f"snug/{pid}")
         fmt = cfg["schedule"]["formats"][index % len(cfg["schedule"]["formats"])]
-        fmt, item, room = planner.choose(fmt, day, planned_hist, cfg, rng, taken_themes)
+        boost = tuning.for_post(random.Random(f"snug/{pid}/tune"))
+        fmt, item, room = planner.choose(fmt, day, planned_hist, cfg, rng, taken_themes, boost)
         taken_themes.add(item["id"])
         kind, problem = ("empty", None) if fmt == "makeover" else ("lived", item["id"])
         entry = rooms.pick(kind, room, problem, day, cfg, rng, library, taken_rooms)
@@ -217,6 +218,7 @@ def prepare(state: dict, hist: History, ai: Gemini, cfg: dict, now: datetime, lo
         for k, look in zip(keys, [s.look for s in plan.slides] + [plan.cta_look]):
             requests_by_key[k] = image_request(look_prompt(plan, look), base=before)
         cost += len(keys) * cfg["gemini"]["price_batch"]
+        plan.extra["tuned"] = bool(boost)
         post = {"id": pid, "date": day.isoformat(), "slot": index, "time": t.isoformat(), "status": "planned",
                 "plan": plan.to_dict(), "room_file": entry["file"], "keys": keys, "cost": round(cost, 4)}
         state["posts"].append(post)

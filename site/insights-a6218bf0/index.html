@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Snug TikTok</title>
+<style>
+  :root {
+    --bg: #f6f1ea; --card: #fffcf8; --ink: #2b2420; --muted: #74675d; --line: #e7ddd1; --soft: #f0e8de;
+    --brand: #8a5a3c; --accent: #c07a4f; --panel: #efe3d5; --up: #3d7d4a; --down: #b5462f; --warn: #b7791f;
+    --shadow: 0 1px 2px rgba(60, 40, 25, .06), 0 4px 14px rgba(60, 40, 25, .05);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #17120f; --card: #211a16; --ink: #f1e9e1; --muted: #b3a294; --line: #3a2e26; --soft: #2a211b;
+      --brand: #e2b48f; --accent: #e59a6c; --panel: #33271f; --up: #7cc488; --down: #f08b74; --warn: #e8b04f; --shadow: none;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #17120f; --card: #211a16; --ink: #f1e9e1; --muted: #b3a294; --line: #3a2e26; --soft: #2a211b;
+    --brand: #e2b48f; --accent: #e59a6c; --panel: #33271f; --up: #7cc488; --down: #f08b74; --warn: #e8b04f; --shadow: none;
+  }
+  * { box-sizing: border-box; }
+  html { scroll-padding-top: 110px; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; -webkit-font-smoothing: antialiased; }
+  a { color: var(--accent); }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 0 16px; }
+  .top { position: sticky; top: 0; z-index: 10; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
+  .top .row { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 14px 0 10px; }
+  .brand { display: flex; align-items: center; gap: 10px; }
+  .logo { width: 34px; height: 34px; border-radius: 10px; background: var(--brand); color: var(--bg); display: grid; place-items: center; font-weight: 800; font-size: 18px; }
+  h1 { margin: 0; font-size: 20px; color: var(--brand); letter-spacing: -.01em; }
+  .updated { font-size: 12px; color: var(--muted); text-align: right; }
+  nav.jump { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 12px; scrollbar-width: none; }
+  nav.jump a { flex: none; text-decoration: none; color: var(--ink); background: var(--card); border: 1px solid var(--line); border-radius: 999px; padding: 6px 13px; font-size: 13px; font-weight: 600; }
+  main { padding: 18px 0 56px; }
+  h2 { margin: 0 0 12px; font-size: 17px; color: var(--brand); display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  h2 .sub { font-size: 13px; font-weight: 500; color: var(--muted); }
+  h3 { margin: 0 0 8px; font-size: 14px; color: var(--brand); }
+  section { margin-top: 24px; }
+  .muted { color: var(--muted); } .small { font-size: 13px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 16px; box-shadow: var(--shadow); }
+  .grid { display: grid; gap: 12px; }
+  .tiles { grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); }
+  .two { grid-template-columns: 1fr; }
+  @media (min-width: 900px) { .two { grid-template-columns: 1fr 1fr; } }
+  .tile .label { font-size: 13px; color: var(--muted); }
+  .tile .value { font-size: 28px; font-weight: 750; line-height: 1.15; margin-top: 3px; font-variant-numeric: tabular-nums; }
+  .tile .delta { font-size: 13px; margin-top: 3px; }
+  .up { color: var(--up); } .down { color: var(--down); }
+  .pill { display: inline-flex; align-items: center; gap: 4px; padding: 2px 9px; border-radius: 999px; font-size: 12px; font-weight: 650; background: var(--panel); color: var(--brand); white-space: nowrap; }
+  .pill.on { background: var(--up); color: #fff; }
+  .pill.bad { background: color-mix(in srgb, var(--down) 16%, transparent); color: var(--down); }
+  .pill.warn { background: color-mix(in srgb, var(--warn) 18%, transparent); color: var(--warn); }
+  .pill.go { background: color-mix(in srgb, var(--accent) 18%, transparent); color: var(--accent); }
+  .empty { padding: 22px; text-align: center; color: var(--muted); }
+  .scroll { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th, td { text-align: left; padding: 9px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { font-size: 12px; color: var(--muted); font-weight: 650; white-space: nowrap; }
+  td.num, th.num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .bar { position: relative; height: 8px; background: var(--panel); border-radius: 4px; min-width: 80px; margin-top: 6px; }
+  .bar > span { position: absolute; left: 0; top: 0; bottom: 0; border-radius: 4px; background: var(--accent); }
+  .bar > i { position: absolute; top: -3px; bottom: -3px; width: 2px; background: var(--muted); }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 2px; background: var(--soft); flex-wrap: wrap; }
+  .seg button { border: 0; background: transparent; color: var(--ink); padding: 5px 12px; border-radius: 999px; font: inherit; font-size: 13px; font-weight: 600; cursor: pointer; }
+  .seg button[aria-selected="true"] { background: var(--card); box-shadow: var(--shadow); color: var(--brand); }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; }
+  .chip { background: var(--panel); border-radius: 10px; padding: 8px 12px; font-size: 14px; }
+  .chip b { color: var(--brand); } .chip .x { color: var(--up); font-weight: 750; margin-left: 4px; }
+  .posts { display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); }
+  .post { display: flex; gap: 10px; align-items: flex-start; text-decoration: none; color: inherit; background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 10px; box-shadow: var(--shadow); }
+  .post img { width: 56px; height: 100px; object-fit: cover; border-radius: 8px; background: var(--panel); flex: none; }
+  .post .hook { font-weight: 650; font-size: 14px; }
+  .post .meta { font-size: 12px; color: var(--muted); margin-top: 4px; }
+  .post .stat { font-size: 13px; margin-top: 6px; }
+  .badge { font-size: 10px; font-weight: 800; padding: 1px 6px; border-radius: 6px; background: var(--warn); color: #fff; margin-left: 4px; vertical-align: 1px; }
+  .fmt { font-size: 11px; font-weight: 750; letter-spacing: .03em; text-transform: uppercase; color: var(--accent); }
+  svg { display: block; width: 100%; height: auto; }
+  ul { padding-left: 18px; margin: 6px 0 12px; } li { margin: 3px 0; }
+</style>
+</head>
+<body>
+<div class="top">
+  <div class="wrap">
+    <div class="row">
+      <div class="brand"><div class="logo">S</div><h1>Snug TikTok <span class="muted small" style="font-weight:500">@TrySnug</span></h1></div>
+      <div class="updated" id="updated">Loading…</div>
+    </div>
+    <nav class="jump"><a href="#overview">Overview</a><a href="#making">Being made</a><a href="#drafts">Drafts</a><a href="#posts">Posts</a><a href="#works">What works</a><a href="#learning">Learning</a><a href="#cost">Cost</a></nav>
+  </div>
+</div>
+<main class="wrap" id="app"></main>
+
+<script>
+const fmt = n => n == null ? "–" : Math.abs(n) >= 1e6 ? (n / 1e6).toFixed(1).replace(/\.0$/, "") + "M"
+  : Math.abs(n) >= 1e4 ? Math.round(n / 1e3) + "K" : Math.abs(n) >= 1e3 ? (n / 1e3).toFixed(1).replace(/\.0$/, "") + "K" : String(Math.round(n));
+const pct = x => x == null ? "–" : (x * 100).toFixed(1) + "%";
+const usd = x => x == null ? "–" : "$" + x.toFixed(2);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const day = iso => iso ? new Date(iso).toLocaleDateString("en-GB", { day: "numeric", month: "short" }) : "";
+const when = iso => iso ? new Date(iso).toLocaleString("en-GB", { weekday: "short", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" }) : "";
+const signed = n => n == null ? "" : (n >= 0 ? "+" : "−") + fmt(Math.abs(n));
+const FMT = { makeover: "makeover", problem: "problem" };
+const TABLES = [["format", "Format"], ["theme", "Style / problem"], ["room", "Room"], ["slot", "Time"]];
+
+function tile(label, value, delta, cls) {
+  return `<div class="card tile"><div class="label">${label}</div><div class="value">${value}</div>` +
+    (delta ? `<div class="delta ${cls || "muted"}">${delta}</div>` : "") + `</div>`;
+}
+function lineChart(points, key) {
+  if (points.length < 2) return `<div class="empty small">Builds up from the twice-daily stats run.</div>`;
+  const W = 520, H = 180, P = 28, vals = points.map(p => p[key] ?? 0);
+  const lo = Math.min(...vals), hi = Math.max(...vals), span = hi - lo || 1;
+  const x = i => P + i * (W - 2 * P) / (points.length - 1), y = v => H - P - (v - lo) * (H - 2 * P) / span;
+  const d = vals.map((v, i) => (i ? "L" : "M") + x(i).toFixed(1) + " " + y(v).toFixed(1)).join(" ");
+  return `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${key} over time">
+    <path d="${d} L ${x(vals.length - 1)} ${H - P} L ${x(0)} ${H - P} Z" fill="var(--accent)" opacity=".12"/>
+    <path d="${d}" fill="none" stroke="var(--accent)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+    <text x="${P}" y="${H - 6}" font-size="12" fill="currentColor" opacity=".6">${day(points[0].date)}</text>
+    <text x="${W - P}" y="${H - 6}" font-size="12" fill="currentColor" opacity=".6" text-anchor="end">${day(points.at(-1).date)}</text>
+    <text x="${W - P}" y="${Math.max(14, y(vals.at(-1)) - 8)}" font-size="13" font-weight="700" fill="var(--accent)" text-anchor="end">${fmt(vals.at(-1))}</text></svg>`;
+}
+function barChart(points) {
+  if (!points.length) return `<div class="empty small">Builds up from the twice-daily stats run.</div>`;
+  const W = 520, H = 180, P = 24, hi = Math.max(...points.map(p => p.views), 1), bw = (W - 2 * P) / points.length;
+  return `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="views per day">` + points.map((p, i) => {
+    const h = (H - 2 * P) * p.views / hi;
+    return `<rect x="${(P + i * bw + bw * .15).toFixed(1)}" y="${(H - P - h).toFixed(1)}" width="${(bw * .7).toFixed(1)}" height="${h.toFixed(1)}" rx="3" fill="var(--accent)"><title>${day(p.date)}: ${fmt(p.views)} views</title></rect>`;
+  }).join("") + `<text x="${P}" y="${H - 6}" font-size="12" fill="currentColor" opacity=".6">${day(points[0].date)}</text>
+    <text x="${W - P}" y="${H - 6}" font-size="12" fill="currentColor" opacity=".6" text-anchor="end">${day(points.at(-1).date)}</text>
+    <text x="${W - P}" y="16" font-size="12" fill="currentColor" opacity=".6" text-anchor="end">max ${fmt(hi)}</text></svg>`;
+}
+function postCard(p) {
+  return `<a class="post" href="${esc(p.url || "#")}" target="_blank" rel="noopener">
+    ${p.cover ? `<img src="${esc(p.cover)}" alt="" loading="lazy">` : `<img alt="">`}
+    <div>${p.format ? `<div class="fmt">${FMT[p.format] || ""}</div>` : ""}<div class="hook">${esc(p.hook)}${p.new ? `<span class="badge">NEW</span>` : ""}</div>
+    <div class="meta">${esc([p.theme, p.room].filter(Boolean).join(" · "))}${p.bot ? "" : "before the bot"}<br>${when(p.posted)}</div>
+    <div class="stat">👁 <b>${fmt(p.views)}</b> · ❤ ${fmt(p.likes)} · 💬 ${fmt(p.comments)} · ↗ ${fmt(p.shares)}</div></div></a>`;
+}
+function board(rows) {
+  if (!rows || !rows.length) return `<tr><td class="empty">Needs posts that are at least 3 days old.</td></tr>`;
+  const hi = Math.max(2, ...rows.map(r => r.avg_ratio));
+  return `<tr><th>Name</th><th class="num">Posts</th><th class="num">Typical views</th><th>vs typical</th><th class="num">Engagement</th><th>Best post</th></tr>` +
+    rows.map(r => `<tr><td>${esc(r.label)}${r.posts < 2 ? ` <span class="small muted">(1 post)</span>` : ""}</td>
+    <td class="num">${r.posts}</td><td class="num">${fmt(r.median_views)}</td>
+    <td><b class="${r.avg_ratio >= 1 ? "up" : "down"}">${r.avg_ratio.toFixed(2)}x</b><div class="bar"><span style="width:${(100 * r.avg_ratio / hi).toFixed(1)}%"></span><i style="left:${(100 / hi).toFixed(1)}%"></i></div></td>
+    <td class="num">${pct(r.engagement)}</td>
+    <td class="small">${r.best_url ? `<a href="${esc(r.best_url)}" target="_blank" rel="noopener">${esc(r.best_hook)}</a>` : esc(r.best_hook)}</td></tr>`).join("");
+}
+function statusPill(s, failed, retry) {
+  if (failed || s === "Dropped") return `<span class="pill bad">${esc(s)}</span>`;
+  if (retry) return `<span class="pill warn">Waiting to retry</span>`;
+  if (s === "Ready" || s === "Posted") return `<span class="pill on">${esc(s)}</span>`;
+  if (s === "In drafts") return `<span class="pill go">In drafts</span>`;
+  return `<span class="pill">${esc(s)}</span>`;
+}
+
+function render(d) {
+  const k = d.kpis, wc = k.views_prev_7d ? (k.views_7d - k.views_prev_7d) / k.views_prev_7d : null, t = d.tuning, c = d.cost;
+  let h = `<section id="overview" style="margin-top:0"><h2>Overview <span class="sub">TikTok numbers updated ${when(d.updated)}</span></h2><div class="grid tiles">
+    ${tile("Followers", fmt(k.followers), k.followers_7d != null ? `${signed(k.followers_7d)} this week` : "", k.followers_7d >= 0 ? "up" : "down")}
+    ${tile("Views, last 7 days", fmt(k.views_7d), wc != null ? `${wc >= 0 ? "▲" : "▼"} ${Math.abs(wc * 100).toFixed(0)}% vs the week before` : "", wc >= 0 ? "up" : "down")}
+    ${tile("Typical post (views at 3 days)", fmt(k.median_views_10), "last 10 posts")}
+    ${tile("Engagement rate", pct(k.engagement_10), "likes + comments + shares / views")}
+    ${tile("Bot posts tracked", fmt(k.posts_tracked), fmt(k.posts_scored) + " old enough to score")}
+    ${tile("Total likes", fmt(k.likes), "")}
+  </div><div class="grid two" style="margin-top:12px">
+    <div class="card"><h3>Followers</h3>${lineChart(d.account.filter(a => a.followers != null), "followers")}</div>
+    <div class="card"><h3>Views gained per day</h3>${barChart(d.daily_views.slice(-30))}</div></div></section>`;
+
+  h += `<section id="making"><h2>Being made <span class="sub">${d.schedule.times.join(" and ")} UK every day · pictures ordered a day ahead</span></h2><div class="card scroll"><table>
+    <tr><th>Due</th><th>Format</th><th>Style / problem</th><th>Room</th><th>Hook</th><th>Status</th></tr>
+    ${d.pipeline.map(p => `<tr><td class="small" style="white-space:nowrap">${esc(p.local)}</td><td><span class="fmt">${FMT[p.format]}</span></td>
+      <td class="small">${esc(p.theme)}</td><td class="small">${esc(p.room)}</td><td><b>${esc(p.hook)}</b></td><td>${statusPill(p.status, false, p.retry)}</td></tr>`).join("")
+      || `<tr><td class="empty" colspan="6">Nothing planned right now: the next hourly run plans the next day.</td></tr>`}
+  </table></div></section>`;
+
+  h += `<section id="drafts"><h2>Drafts <span class="sub">sent to @TrySnug's TikTok inbox, newest first</span></h2><div class="card scroll"><table>
+    <tr><th>Sent</th><th>Format</th><th>Style / problem</th><th>Room</th><th>Hook</th><th class="num">Cost</th><th>Status</th></tr>
+    ${d.drafts.map(r => `<tr><td class="small" style="white-space:nowrap">${when(r.sent_at)}</td><td><span class="fmt">${FMT[r.format] || ""}</span></td>
+      <td class="small">${esc(r.theme)}</td><td class="small">${esc(r.room)}</td>
+      <td><b>${esc(r.hook)}</b>${r.error ? `<div class="small down">${esc(r.error)}</div>` : ""}</td>
+      <td class="num small">${usd(r.cost)}</td><td>${statusPill(r.status, r.failed)}</td></tr>`).join("") || `<tr><td class="empty" colspan="7">No drafts yet.</td></tr>`}
+  </table></div></section>`;
+
+  h += `<section id="posts"><h2>Posts <span class="seg" id="postSeg"><button data-v="top" aria-selected="true">Top</button><button data-v="recent" aria-selected="false">Latest</button></span></h2>
+    <div class="posts" id="postGrid"></div></section>`;
+
+  const names = { format: "Format", theme: "Style / problem", room: "Room", slot: "Time" };
+  const chips = Object.entries(d.double_down).flatMap(([key, items]) => items.map(x =>
+    `<div class="chip">${names[key]}: <b>${esc(x.label)}</b><span class="x">${x.avg_ratio.toFixed(1)}x</span> <span class="small muted">(${x.posts} posts)</span></div>`));
+  h += `<section id="works"><h2>What works ${t.active ? `<span class="pill on">auto-tuning on</span>` : `<span class="pill">collecting data</span>`}</h2>
+    <div class="card"><h3>Double down on</h3><div class="small muted" style="margin-bottom:10px">${t.active
+      ? `The bot already leans into these on ${Math.round((1 - t.explore) * 100)}% of posts; the rest keep exploring.`
+      : `Auto-tuning starts once ${t.needed} posts are 3+ days old (${t.scored} so far). Early winners:`}</div>
+      <div class="chips">${chips.join("") || `<div class="muted small">Nothing clear yet: needs a few posts per group.</div>`}</div></div>
+    <div class="card" style="margin-top:12px"><div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:10px">
+      <h3 style="margin:0">Compare</h3><span class="seg" id="tableSeg">${TABLES.map(([key, label], j) => `<button data-v="${key}" aria-selected="${j === 0}">${label}</button>`).join("")}</span></div>
+      <div class="small muted" style="margin-bottom:6px">Posts are compared on their views at 3 days old; 1.0x = a typical post (the line on each bar).</div>
+      <div class="scroll"><table id="board"></table></div></div></section>`;
+
+  const m = t.multipliers || {};
+  const list = key => (m[key] || []).filter(x => x.posts >= 2).slice(0, 6)
+    .map(x => `<li>${esc(x.label)}: picked <b>${x.mult.toFixed(2)}x</b> as often <span class="small muted">(${x.posts} posts, avg ${x.avg_ratio.toFixed(2)}x)</span></li>`).join("");
+  h += `<section id="learning"><h2>What it's learning</h2><div class="card">
+    ${t.active ? "" : `<p class="muted small" style="margin-top:0">Not tuning yet: this is what it will lean into.</p>`}
+    <div class="grid two"><div><h3>Styles and problems</h3><ul>${list("theme") || "<li class='muted'>–</li>"}</ul></div>
+    <div><h3>Rooms</h3><ul>${list("room") || "<li class='muted'>–</li>"}</ul></div></div></div></section>`;
+
+  h += `<section id="cost"><h2>Cost <span class="sub">Google pictures (Nano Banana), last 30 days</span></h2><div class="grid tiles">
+    ${tile("Spent", usd(c.spent_30d_usd), `${c.posts_30d} posts`)}
+    ${tile("Per post", usd(c.per_post_usd), "half-price batch + new rooms")}
+    ${tile("Month at this rate", usd(c.month_estimate_usd), `${d.schedule.times.length} posts a day`)}
+    ${tile("Rooms in the library", fmt(c.rooms_in_library), "reused for different styles")}
+  </div></section>`;
+  return h;
+}
+
+function wire(d) {
+  const grid = document.getElementById("postGrid"), seg = document.getElementById("postSeg");
+  const showPosts = v => {
+    seg.querySelectorAll("button").forEach(b => b.setAttribute("aria-selected", b.dataset.v === v));
+    grid.innerHTML = (v === "top" ? d.top_posts : d.recent).map(postCard).join("") || `<div class="card empty">Posts appear here once they're live on TikTok and the stats run has seen them.</div>`;
+  };
+  seg.addEventListener("click", e => e.target.dataset.v && showPosts(e.target.dataset.v));
+  showPosts("top");
+  const tseg = document.getElementById("tableSeg"), table = document.getElementById("board");
+  const showTable = v => { tseg.querySelectorAll("button").forEach(b => b.setAttribute("aria-selected", b.dataset.v === v)); table.innerHTML = board(d.tables[v]); };
+  tseg.addEventListener("click", e => e.target.dataset.v && showTable(e.target.dataset.v));
+  showTable("format");
+}
+
+fetch("data.json", { cache: "no-store" }).then(r => r.json()).then(d => {
+  document.getElementById("updated").textContent = "Updated " + when(d.built || d.updated);
+  document.getElementById("app").innerHTML = render(d);
+  wire(d);
+}).catch(() => { document.getElementById("updated").textContent = "No data yet: the first stats run fills this page."; });
+</script>
+</body>
+</html>

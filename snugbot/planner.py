@@ -78,10 +78,12 @@ def _last_used(hist: History, key: str) -> dict[str, date]:
 
 
 def choose(fmt: str, day: date, hist: History, cfg: dict, rng: random.Random,
-           taken: set[str] = frozenset()) -> tuple[str, dict, str]:
+           taken: set[str] = frozenset(), boost: dict | None = None) -> tuple[str, dict, str]:
     """(format, style or problem, room): least recently used, resting `*_rest_days` if possible, and
     not the same room type as another post that day if there's a choice.
-    `taken`: themes already planned for other posts in this run."""
+    `taken`: themes already planned for other posts in this run. `boost`: performance multipliers
+    (tuning.for_post): with them, rested styles and rooms that perform better come up more often."""
+    boost = boost or {}
     same_day = {p.get("room") for p in hist.done() if p.get("date") == day.isoformat()}
     data = load_data()
     rot = cfg["rotation"]
@@ -95,11 +97,17 @@ def choose(fmt: str, day: date, hist: History, cfg: dict, rng: random.Random,
     pool = [i for i in pool if set(i["rooms"]) - same_day] or pool
     rested = [i for i in pool if i["id"] not in last or (day - last[i["id"]]).days >= rest]
     pool = rested or pool
-    oldest = min(last.get(i["id"], date.min) for i in pool)
-    item = rng.choice([i for i in pool if last.get(i["id"], date.min) == oldest])
+    if boost.get("theme"):
+        item = rng.choices(pool, weights=[boost["theme"].get(i["id"], 1.0) for i in pool])[0]
+    else:
+        oldest = min(last.get(i["id"], date.min) for i in pool)
+        item = rng.choice([i for i in pool if last.get(i["id"], date.min) == oldest])
     room_last = _last_used(hist, "room")
     rooms = [r for r in item["rooms"] if r not in same_day] or item["rooms"]
-    room = min(rooms, key=lambda r: (room_last.get(r, date.min), rng.random()))
+    if boost.get("room") and len(rooms) > 1:
+        room = rng.choices(rooms, weights=[boost["room"].get(r, 1.0) for r in rooms])[0]
+    else:
+        room = min(rooms, key=lambda r: (room_last.get(r, date.min), rng.random()))
     return fmt, item, room
 
 

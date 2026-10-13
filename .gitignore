@@ -7,3 +7,4 @@ out/
 queue/
 site/p/
 built.json
+.claude/

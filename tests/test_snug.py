@@ -130,3 +130,24 @@ def test_two_posts_a_day_use_different_rooms(cfg):
     for seed in range(15):
         fmt, item, room = planner.choose("problem", date(2026, 10, 14), hist, cfg, random.Random(seed))
         assert room != "kitchen"
+
+
+def test_tiktok_posts_are_matched_to_drafts():
+    from snugbot import stats
+    sent = "2026-10-14T11:05:00+00:00"
+    drafts = [{"date": "2026-10-13", "hook": "i'm done with beige everything! 😅", "status": SENT,
+               "sent_at": "2026-10-13T18:05:00+00:00", "caption": "goodbye beige 👋\n\nwhich one is you?\n\n#snug"},
+              {"date": "2026-10-14", "hook": "let's make this japandi ✍️", "status": SENT, "sent_at": sent,
+               "caption": "japandi transformation 📌\n\nwhich one would you pick? 👇\n\n#interiordesign #snug"}]
+    created = int(datetime.fromisoformat("2026-10-14T13:00:00+00:00").timestamp())
+    video = {"id": "1", "title": "japandi transformation 📌 which one would you pick? 👇 #interiordesign", "create_time": created}
+    assert stats.match_post(video, drafts, set()) == 1
+    early = {**video, "create_time": int(datetime.fromisoformat("2026-10-14T08:00:00+00:00").timestamp())}
+    assert stats.match_post(early, drafts, set()) is None            # posted before that draft existed
+    assert stats.match_post({"id": "2", "title": "my cat", "create_time": created}, drafts, set()) is None
+
+
+def test_dashboard_builds_with_no_stats_yet(cfg, scratch):
+    from snugbot import dashboard
+    d = dashboard.build({"account": [], "videos": {}}, {"active": False}, History(), {"posts": []}, cfg)
+    assert d["kpis"]["followers"] is None and d["pipeline"] == [] and d["cost"]["per_post_usd"] is None

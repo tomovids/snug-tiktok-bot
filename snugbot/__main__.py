@@ -1,4 +1,4 @@
-"""Command line: python -m snugbot <tick|send|preview|authorize|status|newkey>."""
+"""Command line: python -m snugbot <tick|send|stats|dashboard|preview|authorize|status|newkey>."""
 from __future__ import annotations
 
 import argparse
@@ -53,6 +53,8 @@ def cmd_tick(args, cfg) -> int:
     before = queue_snapshot()
     ready = pipeline.tick(cfg, gemini(cfg), log=log)
     github_output(queue_changed=str(queue_snapshot() != before).lower())
+    from . import dashboard
+    dashboard.rebuild(cfg)              # the "posts being made" part stays current
     MANIFEST.write_text(json.dumps(ready) + "\n", encoding="utf-8")
     if ready:
         log(f"Due now: {', '.join(ready)}")
@@ -169,6 +171,34 @@ def cmd_status(args, cfg) -> int:
     return 0
 
 
+def cmd_stats(args, cfg) -> int:
+    """Reads @TrySnug's TikTok numbers, updates the tuning and rebuilds the dashboard (twice a day)."""
+    from . import dashboard, stats, tuning
+    key = secret("TOKEN_KEY")
+    tt = TikTok(secret("TIKTOK_CLIENT_KEY"), secret("TIKTOK_CLIENT_SECRET"))
+    login = tt.refresh(tokens.load(key))
+    tokens.save(login, key)
+    account = tt.account_stats(login["access_token"])
+    videos = tt.videos(login["access_token"], max_pages=cfg["tracking"]["video_pages"])
+    st = stats.update(stats.load(), account, videos, History.load())
+    stats.save(st)
+    tune = tuning.compute(st, cfg)
+    tuning.save(tune)
+    dashboard.write(dashboard.build(st, tune, History.load(), pipeline.load_plan(), cfg), cfg)
+    matched = sum(1 for v in st["videos"].values() if v.get("post"))
+    log(f"Followers {account.get('follower_count')}, {len(videos)} posts read, {matched} matched to the bot's "
+        f"drafts, {tune['scored_posts']} scored. Auto-tuning {'ON' if tune['active'] else 'not yet'} "
+        f"(needs {tune['needed']} scored posts).")
+    return 0
+
+
+def cmd_dashboard(args, cfg) -> int:
+    from . import dashboard
+    dashboard.rebuild(cfg)
+    log(f"Dashboard data written to {dashboard.folder(cfg) / 'data.json'}")
+    return 0
+
+
 def cmd_newkey(args, cfg) -> int:
     log(tokens.new_key())
     return 0
@@ -189,13 +219,15 @@ def main(argv: list[str] | None = None) -> int:
     st = sub.add_parser("status", help="posts being made and recent drafts")
     st.add_argument("-n", type=int, default=10)
     sub.add_parser("newkey", help="print a new TOKEN_KEY")
+    sub.add_parser("stats", help="read the TikTok numbers, update the tuning and the dashboard")
+    sub.add_parser("dashboard", help="rebuild the dashboard data from the saved files")
     args = p.parse_args(argv)
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8")
     load_dotenv()
     cfg = load_config()
     commands = {"tick": cmd_tick, "send": cmd_send, "preview": cmd_preview, "authorize": cmd_authorize,
-                "status": cmd_status, "newkey": cmd_newkey}
+                "status": cmd_status, "newkey": cmd_newkey, "stats": cmd_stats, "dashboard": cmd_dashboard}
     try:
         return commands[args.cmd](args, cfg)
     except (ConfigError, TikTokError, tokens.TokenError, GeminiError, FileNotFoundError) as e:

@@ -1,0 +1,159 @@
+{
+ "updated": "2026-10-13T13:26+00:00",
+ "built": "2026-10-13T13:26+00:00",
+ "kpis": {
+  "followers": 0,
+  "followers_7d": 0,
+  "likes": 0,
+  "views_7d": 0,
+  "views_prev_7d": 0,
+  "posts_tracked": 1,
+  "posts_scored": 0,
+  "median_views_10": null,
+  "engagement_10": null
+ },
+ "account": [
+  {
+   "date": "2026-10-13",
+   "followers": 0,
+   "likes": 0,
+   "videos": 1,
+   "total_views": 9
+  }
+ ],
+ "daily_views": [],
+ "top_posts": [
+  {
+   "posted": "2026-10-13T13:24+00:00",
+   "hook": "let's make this living room industrial ✍️",
+   "format": "makeover",
+   "theme": "industrial",
+   "room": "living room",
+   "views": 9,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "views72": null,
+   "engagement": 0.0,
+   "url": "https://www.tiktok.com/@trysnug/video/7696142659928263958?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=d7a9e504&x-expires=1793192400&x-signature=ikecxNBcz5xXFo%2B2v1TRveNykfI%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "bot": true,
+   "new": true
+  }
+ ],
+ "recent": [
+  {
+   "posted": "2026-10-13T13:24+00:00",
+   "hook": "let's make this living room industrial ✍️",
+   "format": "makeover",
+   "theme": "industrial",
+   "room": "living room",
+   "views": 9,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "views72": null,
+   "engagement": 0.0,
+   "url": "https://www.tiktok.com/@trysnug/video/7696142659928263958?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=d7a9e504&x-expires=1793192400&x-signature=ikecxNBcz5xXFo%2B2v1TRveNykfI%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "bot": true,
+   "new": true
+  }
+ ],
+ "tables": {
+  "format": [],
+  "theme": [],
+  "room": [],
+  "slot": []
+ },
+ "double_down": {
+  "format": [],
+  "theme": [],
+  "room": [],
+  "slot": []
+ },
+ "tuning": {
+  "active": false,
+  "scored": 0,
+  "needed": 10,
+  "explore": 0.25,
+  "multipliers": {
+   "theme": [],
+   "room": [],
+   "format": []
+  }
+ },
+ "pipeline": [
+  {
+   "time": "2026-10-13T19:00:00+01:00",
+   "local": "Tue 13 Oct, 19:00",
+   "format": "problem",
+   "theme": "my dark, dated room",
+   "room": "bedroom",
+   "hook": "i'm done with my dark, dated room! 😅",
+   "status": "Ready",
+   "retry": false,
+   "cost": 0.1755
+  },
+  {
+   "time": "2026-10-14T12:00:00+01:00",
+   "local": "Wed 14 Oct, 12:00",
+   "format": "makeover",
+   "theme": "california casual",
+   "room": "kitchen",
+   "hook": "let's make this kitchen california casual ✍️",
+   "status": "Ready",
+   "retry": false,
+   "cost": 0.1755
+  },
+  {
+   "time": "2026-10-14T19:00:00+01:00",
+   "local": "Wed 14 Oct, 19:00",
+   "format": "problem",
+   "theme": "my dated kitchen",
+   "room": "kitchen",
+   "hook": "i'm done with my dated kitchen! 😅",
+   "status": "Ready",
+   "retry": false,
+   "cost": 0.1365
+  }
+ ],
+ "drafts": [
+  {
+   "sent_at": "2026-10-13T13:20:24+00:00",
+   "hook": "let's make this living room industrial ✍️",
+   "format": "makeover",
+   "theme": "industrial",
+   "room": "living room",
+   "cost": 0.1365,
+   "status": "In drafts",
+   "failed": false,
+   "error": null
+  },
+  {
+   "sent_at": "2026-10-13T12:49:25+00:00",
+   "hook": "let's make this living room industrial ✍️",
+   "format": "makeover",
+   "theme": "industrial",
+   "room": "living room",
+   "cost": 0.1365,
+   "status": "Failed",
+   "failed": true,
+   "error": "TikTok error url_ownership_unverified: Please review our URL ownership verification rules at https://developers.tiktok.com/doc/content-posti"
+  }
+ ],
+ "cost": {
+  "spent_30d_usd": 0.14,
+  "posts_30d": 1,
+  "per_post_usd": 0.137,
+  "month_estimate_usd": 8.19,
+  "rooms_in_library": 4
+ },
+ "schedule": {
+  "times": [
+   "12:00",
+   "19:00"
+  ],
+  "timezone": "UK"
+ }
+}

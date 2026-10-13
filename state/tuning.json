@@ -1,0 +1,11 @@
+{
+ "active": false,
+ "scored_posts": 0,
+ "needed": 10,
+ "explore": 0.25,
+ "multipliers": {
+  "theme": {},
+  "room": {},
+  "format": {}
+ }
+}
