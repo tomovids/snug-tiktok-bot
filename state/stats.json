@@ -5,7 +5,7 @@
    "followers": 0,
    "likes": 0,
    "videos": 1,
-   "total_views": 9
+   "total_views": 35
   }
  ],
  "videos": {
@@ -13,9 +13,9 @@
    "id": "7696142659928263958",
    "snapshots": [
     {
-     "at": "2026-10-13T13:26+00:00",
-     "age_h": 0.0,
-     "views": 9,
+     "at": "2026-10-13T13:28+00:00",
+     "age_h": 0.1,
+     "views": 35,
      "likes": 0,
      "comments": 0,
      "shares": 0
@@ -24,11 +24,11 @@
    "posted": "2026-10-13T13:24+00:00",
    "title": "industrial transformation 📌 tell me which industrial vibe you'd pick for this space 👇 #interiordesign #interiorinspo #homeinspo #homedesign #industrialdecor ",
    "share_url": "https://www.tiktok.com/@trysnug/video/7696142659928263958?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=d7a9e504&x-expires=1793192400&x-signature=ikecxNBcz5xXFo%2B2v1TRveNykfI%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "cover": "https://p19-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=5ae7b360&x-expires=1793192400&x-signature=rWyez0ZJW78MxmRBtLoXpKY4U9E%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "latest": {
-    "at": "2026-10-13T13:26+00:00",
-    "age_h": 0.0,
-    "views": 9,
+    "at": "2026-10-13T13:28+00:00",
+    "age_h": 0.1,
+    "views": 35,
     "likes": 0,
     "comments": 0,
     "shares": 0
@@ -54,5 +54,5 @@
    }
   }
  },
- "updated": "2026-10-13T13:26+00:00"
+ "updated": "2026-10-13T13:28+00:00"
 }
