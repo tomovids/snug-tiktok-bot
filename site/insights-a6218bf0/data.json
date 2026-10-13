@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-13T13:28+00:00",
- "built": "2026-10-13T18:31+00:00",
+ "updated": "2026-10-13T21:53+00:00",
+ "built": "2026-10-13T21:53+00:00",
  "kpis": {
   "followers": 0,
   "followers_7d": 0,
-  "likes": 0,
+  "likes": 8,
   "views_7d": 0,
   "views_prev_7d": 0,
-  "posts_tracked": 1,
+  "posts_tracked": 2,
   "posts_scored": 0,
   "median_views_10": null,
   "engagement_10": null
@@ -16,9 +16,9 @@
   {
    "date": "2026-10-13",
    "followers": 0,
-   "likes": 0,
-   "videos": 1,
-   "total_views": 35
+   "likes": 8,
+   "videos": 2,
+   "total_views": 851
   }
  ],
  "daily_views": [],
@@ -29,33 +29,67 @@
    "format": "makeover",
    "theme": "industrial",
    "room": "living room",
-   "views": 35,
-   "likes": 0,
+   "views": 571,
+   "likes": 6,
    "comments": 0,
    "shares": 0,
    "views72": null,
-   "engagement": 0.0,
+   "engagement": 0.010507880910683012,
    "url": "https://www.tiktok.com/@trysnug/video/7696142659928263958?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p19-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=5ae7b360&x-expires=1793192400&x-signature=rWyez0ZJW78MxmRBtLoXpKY4U9E%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=726a9a53&x-expires=1793221200&x-signature=%2FeFDMTqFoztJuydA6x78ydk6PzY%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "bot": true,
+   "new": true
+  },
+  {
+   "posted": "2026-10-13T20:18+00:00",
+   "hook": "i'm done with my dark, dated room! 😅",
+   "format": "problem",
+   "theme": "my dark, dated room",
+   "room": "bedroom",
+   "views": 280,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "views72": null,
+   "engagement": 0.007142857142857143,
+   "url": "https://www.tiktok.com/@trysnug/video/7696249521126247702?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/e435b0158b4b4e57ad971988a91f229f~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=73be2c54&x-expires=1793221200&x-signature=1yquYSuE1XvDHv07IFAimSu%2BzUc%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "bot": true,
    "new": true
   }
  ],
  "recent": [
   {
+   "posted": "2026-10-13T20:18+00:00",
+   "hook": "i'm done with my dark, dated room! 😅",
+   "format": "problem",
+   "theme": "my dark, dated room",
+   "room": "bedroom",
+   "views": 280,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "views72": null,
+   "engagement": 0.007142857142857143,
+   "url": "https://www.tiktok.com/@trysnug/video/7696249521126247702?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/e435b0158b4b4e57ad971988a91f229f~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=73be2c54&x-expires=1793221200&x-signature=1yquYSuE1XvDHv07IFAimSu%2BzUc%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "bot": true,
+   "new": true
+  },
+  {
    "posted": "2026-10-13T13:24+00:00",
    "hook": "let's make this living room industrial ✍️",
    "format": "makeover",
    "theme": "industrial",
    "room": "living room",
-   "views": 35,
-   "likes": 0,
+   "views": 571,
+   "likes": 6,
    "comments": 0,
    "shares": 0,
    "views72": null,
-   "engagement": 0.0,
+   "engagement": 0.010507880910683012,
    "url": "https://www.tiktok.com/@trysnug/video/7696142659928263958?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p19-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=5ae7b360&x-expires=1793192400&x-signature=rWyez0ZJW78MxmRBtLoXpKY4U9E%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=726a9a53&x-expires=1793221200&x-signature=%2FeFDMTqFoztJuydA6x78ydk6PzY%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "bot": true,
    "new": true
   }
@@ -85,17 +119,6 @@
  },
  "pipeline": [
   {
-   "time": "2026-10-13T19:00:00+01:00",
-   "local": "Tue 13 Oct, 19:00",
-   "format": "problem",
-   "theme": "my dark, dated room",
-   "room": "bedroom",
-   "hook": "i'm done with my dark, dated room! 😅",
-   "status": "Ready",
-   "retry": false,
-   "cost": 0.1755
-  },
-  {
    "time": "2026-10-14T12:00:00+01:00",
    "local": "Wed 14 Oct, 12:00",
    "format": "makeover",
@@ -120,6 +143,17 @@
  ],
  "drafts": [
   {
+   "sent_at": "2026-10-13T18:32:45+00:00",
+   "hook": "i'm done with my dark, dated room! 😅",
+   "format": "problem",
+   "theme": "my dark, dated room",
+   "room": "bedroom",
+   "cost": 0.1755,
+   "status": "In drafts",
+   "failed": false,
+   "error": null
+  },
+  {
    "sent_at": "2026-10-13T13:20:24+00:00",
    "hook": "let's make this living room industrial ✍️",
    "format": "makeover",
@@ -143,10 +177,10 @@
   }
  ],
  "cost": {
-  "spent_30d_usd": 0.14,
-  "posts_30d": 1,
-  "per_post_usd": 0.137,
-  "month_estimate_usd": 8.19,
+  "spent_30d_usd": 0.31,
+  "posts_30d": 2,
+  "per_post_usd": 0.156,
+  "month_estimate_usd": 9.36,
   "rooms_in_library": 4
  },
  "schedule": {
