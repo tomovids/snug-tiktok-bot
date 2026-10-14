@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-14T12:12+00:00",
- "built": "2026-10-14T18:57+00:00",
+ "updated": "2026-10-14T20:48+00:00",
+ "built": "2026-10-14T20:48+00:00",
  "kpis": {
   "followers": 0,
   "followers_7d": 0,
-  "likes": 10,
-  "views_7d": 322,
+  "likes": 11,
+  "views_7d": 344,
   "views_prev_7d": 0,
-  "posts_tracked": 2,
+  "posts_tracked": 3,
   "posts_scored": 0,
   "median_views_10": null,
   "engagement_10": null
@@ -23,15 +23,15 @@
   {
    "date": "2026-10-14",
    "followers": 0,
-   "likes": 10,
-   "videos": 2,
-   "total_views": 1173
+   "likes": 11,
+   "videos": 3,
+   "total_views": 1195
   }
  ],
  "daily_views": [
   {
    "date": "2026-10-14",
-   "views": 322
+   "views": 344
   }
  ],
  "top_posts": [
@@ -41,14 +41,14 @@
    "format": "problem",
    "theme": "my dark, dated room",
    "room": "bedroom",
-   "views": 595,
+   "views": 614,
    "likes": 3,
    "comments": 0,
    "shares": 0,
    "views72": null,
-   "engagement": 0.005042016806722689,
+   "engagement": 0.004885993485342019,
    "url": "https://www.tiktok.com/@trysnug/video/7696249521126247702?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/e435b0158b4b4e57ad971988a91f229f~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=e453827a&x-expires=1793275200&x-signature=XktZEAwJNPbDRnFz%2B5FrEGznv0A%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/e435b0158b4b4e57ad971988a91f229f~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=80d215d1&x-expires=1793304000&x-signature=F2WeG0qa%2BCvB2AgkXm7Sfj5YtC4%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "bot": true,
    "new": true
   },
@@ -58,33 +58,67 @@
    "format": "makeover",
    "theme": "industrial",
    "room": "living room",
-   "views": 578,
+   "views": 581,
    "likes": 7,
    "comments": 1,
    "shares": 0,
    "views72": null,
-   "engagement": 0.01384083044982699,
+   "engagement": 0.013769363166953529,
    "url": "https://www.tiktok.com/@trysnug/video/7696142659928263958?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p19-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=0dd36e53&x-expires=1793275200&x-signature=DC%2FHkAFtI977Jy2TsTnHQgB6dmQ%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=f340c1e4&x-expires=1793304000&x-signature=hGPbVrOdKI1NpFnq33EpIn9ih8k%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "bot": true,
+   "new": true
+  },
+  {
+   "posted": "2026-10-14T15:38+00:00",
+   "hook": "let's make this kitchen california casual ✍️",
+   "format": "makeover",
+   "theme": "california casual",
+   "room": "kitchen",
+   "views": 0,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "views72": null,
+   "engagement": null,
+   "url": "https://www.tiktok.com/@trysnug/video/7696548416993742102?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/9791bdf0c3fe4a8785a1d08360263bb3~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=bb155fc6&x-expires=1793304000&x-signature=HbCwE3HfJzp636ZwgMQcBI8QWoQ%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "bot": true,
    "new": true
   }
  ],
  "recent": [
   {
+   "posted": "2026-10-14T15:38+00:00",
+   "hook": "let's make this kitchen california casual ✍️",
+   "format": "makeover",
+   "theme": "california casual",
+   "room": "kitchen",
+   "views": 0,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "views72": null,
+   "engagement": null,
+   "url": "https://www.tiktok.com/@trysnug/video/7696548416993742102?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/9791bdf0c3fe4a8785a1d08360263bb3~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=bb155fc6&x-expires=1793304000&x-signature=HbCwE3HfJzp636ZwgMQcBI8QWoQ%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "bot": true,
+   "new": true
+  },
+  {
    "posted": "2026-10-13T20:18+00:00",
    "hook": "i'm done with my dark, dated room! 😅",
    "format": "problem",
    "theme": "my dark, dated room",
    "room": "bedroom",
-   "views": 595,
+   "views": 614,
    "likes": 3,
    "comments": 0,
    "shares": 0,
    "views72": null,
-   "engagement": 0.005042016806722689,
+   "engagement": 0.004885993485342019,
    "url": "https://www.tiktok.com/@trysnug/video/7696249521126247702?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/e435b0158b4b4e57ad971988a91f229f~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=e453827a&x-expires=1793275200&x-signature=XktZEAwJNPbDRnFz%2B5FrEGznv0A%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/e435b0158b4b4e57ad971988a91f229f~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=80d215d1&x-expires=1793304000&x-signature=F2WeG0qa%2BCvB2AgkXm7Sfj5YtC4%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "bot": true,
    "new": true
   },
@@ -94,14 +128,14 @@
    "format": "makeover",
    "theme": "industrial",
    "room": "living room",
-   "views": 578,
+   "views": 581,
    "likes": 7,
    "comments": 1,
    "shares": 0,
    "views72": null,
-   "engagement": 0.01384083044982699,
+   "engagement": 0.013769363166953529,
    "url": "https://www.tiktok.com/@trysnug/video/7696142659928263958?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p19-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=0dd36e53&x-expires=1793275200&x-signature=DC%2FHkAFtI977Jy2TsTnHQgB6dmQ%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=f340c1e4&x-expires=1793304000&x-signature=hGPbVrOdKI1NpFnq33EpIn9ih8k%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "bot": true,
    "new": true
   }
@@ -131,17 +165,6 @@
  },
  "pipeline": [
   {
-   "time": "2026-10-14T19:00:00+01:00",
-   "local": "Wed 14 Oct, 19:00",
-   "format": "problem",
-   "theme": "my dated kitchen",
-   "room": "kitchen",
-   "hook": "i'm done with my dated kitchen! 😅",
-   "status": "Ready",
-   "retry": false,
-   "cost": 0.1365
-  },
-  {
    "time": "2026-10-15T12:00:00+01:00",
    "local": "Thu 15 Oct, 12:00",
    "format": "makeover",
@@ -165,6 +188,17 @@
   }
  ],
  "drafts": [
+  {
+   "sent_at": "2026-10-14T18:58:36+00:00",
+   "hook": "i'm done with my dated kitchen! 😅",
+   "format": "problem",
+   "theme": "my dated kitchen",
+   "room": "kitchen",
+   "cost": 0.1365,
+   "status": "In drafts",
+   "failed": false,
+   "error": null
+  },
   {
    "sent_at": "2026-10-14T14:07:01+00:00",
    "hook": "let's make this kitchen california casual ✍️",
@@ -211,10 +245,10 @@
   }
  ],
  "cost": {
-  "spent_30d_usd": 0.49,
-  "posts_30d": 3,
-  "per_post_usd": 0.163,
-  "month_estimate_usd": 9.75,
+  "spent_30d_usd": 0.62,
+  "posts_30d": 4,
+  "per_post_usd": 0.156,
+  "month_estimate_usd": 9.36,
   "rooms_in_library": 6
  },
  "schedule": {
