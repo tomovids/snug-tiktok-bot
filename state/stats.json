@@ -6,6 +6,13 @@
    "likes": 8,
    "videos": 2,
    "total_views": 851
+  },
+  {
+   "date": "2026-10-14",
+   "followers": 0,
+   "likes": 10,
+   "videos": 2,
+   "total_views": 1173
   }
  ],
  "videos": {
@@ -19,18 +26,26 @@
      "likes": 6,
      "comments": 0,
      "shares": 0
+    },
+    {
+     "at": "2026-10-14T12:12+00:00",
+     "age_h": 22.8,
+     "views": 578,
+     "likes": 7,
+     "comments": 1,
+     "shares": 0
     }
    ],
    "posted": "2026-10-13T13:24+00:00",
    "title": "industrial transformation 📌 tell me which industrial vibe you'd pick for this space 👇 #interiordesign #interiorinspo #homeinspo #homedesign #industrialdecor ",
    "share_url": "https://www.tiktok.com/@trysnug/video/7696142659928263958?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=726a9a53&x-expires=1793221200&x-signature=%2FeFDMTqFoztJuydA6x78ydk6PzY%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "cover": "https://p19-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=0dd36e53&x-expires=1793275200&x-signature=DC%2FHkAFtI977Jy2TsTnHQgB6dmQ%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "latest": {
-    "at": "2026-10-13T21:53+00:00",
-    "age_h": 8.5,
-    "views": 571,
-    "likes": 6,
-    "comments": 0,
+    "at": "2026-10-14T12:12+00:00",
+    "age_h": 22.8,
+    "views": 578,
+    "likes": 7,
+    "comments": 1,
     "shares": 0
    },
    "post_key": "p_inbox_url~v2.7696141448072185878",
@@ -63,17 +78,25 @@
      "likes": 2,
      "comments": 0,
      "shares": 0
+    },
+    {
+     "at": "2026-10-14T12:12+00:00",
+     "age_h": 15.9,
+     "views": 595,
+     "likes": 3,
+     "comments": 0,
+     "shares": 0
     }
    ],
    "posted": "2026-10-13T20:18+00:00",
    "title": "goodbye dark 👋 which bedroom palette would you wake up to? comment your pick 👇 #interiordesign #interiorinspo #homeinspo #homedesign ",
    "share_url": "https://www.tiktok.com/@trysnug/video/7696249521126247702?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/e435b0158b4b4e57ad971988a91f229f~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=73be2c54&x-expires=1793221200&x-signature=1yquYSuE1XvDHv07IFAimSu%2BzUc%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/e435b0158b4b4e57ad971988a91f229f~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=e453827a&x-expires=1793275200&x-signature=XktZEAwJNPbDRnFz%2B5FrEGznv0A%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "latest": {
-    "at": "2026-10-13T21:53+00:00",
-    "age_h": 1.6,
-    "views": 280,
-    "likes": 2,
+    "at": "2026-10-14T12:12+00:00",
+    "age_h": 15.9,
+    "views": 595,
+    "likes": 3,
     "comments": 0,
     "shares": 0
    },
@@ -98,5 +121,5 @@
    }
   }
  },
- "updated": "2026-10-13T21:53+00:00"
+ "updated": "2026-10-14T12:12+00:00"
 }
