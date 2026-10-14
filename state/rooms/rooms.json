@@ -50,5 +50,18 @@
   "used": [
    "2026-10-14"
   ]
+ },
+ {
+  "id": "empty-bedroom-none-5",
+  "kind": "empty",
+  "room": "bedroom",
+  "problem": null,
+  "arch": "a sloped loft ceiling with a skylight above the bed",
+  "floor": "light oak herringbone",
+  "file": "empty-bedroom-none-5.jpg",
+  "created": "2026-10-15",
+  "used": [
+   "2026-10-15"
+  ]
  }
 ]

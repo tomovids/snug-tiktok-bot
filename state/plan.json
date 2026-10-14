@@ -311,6 +311,75 @@
     "08.jpg"
    ],
    "ready_at": "2026-10-13T12:48:50+00:00"
+  },
+  {
+   "id": "2026-10-15-1",
+   "date": "2026-10-15",
+   "slot": 0,
+   "time": "2026-10-15T12:00:00+01:00",
+   "status": "waiting",
+   "plan": {
+    "format": "makeover",
+    "room": "bedroom",
+    "theme": "modernfarmhouse",
+    "theme_name": "modern farmhouse",
+    "hook": "let's make this modern farmhouse ✍️",
+    "hook_sub": "(inspired)",
+    "slides": [
+     {
+      "text": "earthy textured modern farmhouse",
+      "look": "A pale white oak platform bed styled with oatmeal linen bedding, olive green waffle throw, and woven jute rug underneath. Chunky ceramic table lamps sit on matching wood nightstands, paired with large woven seagrass baskets and framed botanical sketches.",
+      "callout": ""
+     },
+     {
+      "text": "clean minimalist modern farmhouse",
+      "look": "A slim matte black iron spindle bed dressed in crisp white linen and charcoal striped pillows. Low-profile ash wood nightstands hold simple pleated sconces, grounded by a flat-weave cream wool runner, minimalist ceramic vases, and a slender floor mirror.",
+      "callout": ""
+     },
+     {
+      "text": "vintage layered modern farmhouse",
+      "look": "A reclaimed pine bed layered with quilted flax duvets, ruffled linen shams, and an antique muted rug. Turned-wood bedside tables hold brass swing-arm lamps, accompanied by stacks of old art books, galvanized metal planters, and a round black iron mirror.",
+      "callout": ""
+     },
+     {
+      "text": "soft neutral modern farmhouse",
+      "look": "An upholstered cream linen headboard with plush ivory cotton throws and beige textured cushions. Bleached oak bedside tables feature fluted stoneware lamps, a plush braided wool rug, a potted olive tree in a terracotta pot, and landscape oil paintings.",
+      "callout": ""
+     },
+     {
+      "text": "dark contrast modern farmhouse",
+      "look": "A solid ebonized wood bed dressed in layered slate and chalk linen sheets. Light natural oak bedside chests feature matte black iron task lamps, balanced by an off-white patterned geometric rug, charcoal ceramic vessels, and framed charcoal sketch art.",
+      "callout": ""
+     },
+     {
+      "text": "rustic coastal modern farmhouse",
+      "look": "A natural cane and light oak bed layered with ticking-stripe duvets, sandy linen pillows, and a chunky knit blanket. Bleached pine nightstands support seeded glass table lamps, completed with a distressed vintage runner, woven lidded hampers, and dried botanicals.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "A washed white oak canopy bed draped in breezy linen throws and heather gray lumbar cushions. Weathered wood nightstands hold matte black ceramic table lamps, accompanied by an oversized braided jute rug, framed muted landscapes, and stacked rattan storage trunks.",
+    "cta_question": "Have any Pinterest inspo you want to try? 📌",
+    "cta_line": "try your Pinterest inspo on Snug 📌",
+    "title": "modern farmhouse bedroom 📌",
+    "caption": "modern farmhouse bedroom 📌\n\nwhich version of this bedroom would you move right into? tell me below 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #modernfarmhouse #snug",
+    "source": "ai",
+    "room_id": "empty-bedroom-none-5",
+    "extra": {
+     "tuned": false
+    }
+   },
+   "room_file": "empty-bedroom-none-5.jpg",
+   "keys": [
+    "2026-10-15-1/0",
+    "2026-10-15-1/1",
+    "2026-10-15-1/2",
+    "2026-10-15-1/3",
+    "2026-10-15-1/4",
+    "2026-10-15-1/5",
+    "2026-10-15-1/cta"
+   ],
+   "cost": 0.1755,
+   "batch": "batches/6297xgcs0ivndhcd0pm1zuppooecvvm1d617"
   }
  ]
 }

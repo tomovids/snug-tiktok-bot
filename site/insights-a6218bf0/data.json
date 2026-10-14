@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-13T21:53+00:00",
- "built": "2026-10-14T02:11+00:00",
+ "built": "2026-10-14T08:03+00:00",
  "kpis": {
   "followers": 0,
   "followers_7d": 0,
@@ -139,6 +139,17 @@
    "status": "Ready",
    "retry": false,
    "cost": 0.1365
+  },
+  {
+   "time": "2026-10-15T12:00:00+01:00",
+   "local": "Thu 15 Oct, 12:00",
+   "format": "makeover",
+   "theme": "modern farmhouse",
+   "room": "bedroom",
+   "hook": "let's make this modern farmhouse ✍️",
+   "status": "Making pictures",
+   "retry": false,
+   "cost": 0.1755
   }
  ],
  "drafts": [
@@ -181,7 +192,7 @@
   "posts_30d": 2,
   "per_post_usd": 0.156,
   "month_estimate_usd": 9.36,
-  "rooms_in_library": 4
+  "rooms_in_library": 5
  },
  "schedule": {
   "times": [
