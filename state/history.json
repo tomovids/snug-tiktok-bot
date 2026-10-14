@@ -139,6 +139,41 @@
    "publish_id": "p_inbox_url~v2.7696524614188599318",
    "status": "SEND_TO_USER_INBOX",
    "sent_at": "2026-10-14T14:07:01+00:00"
+  },
+  {
+   "date": "2026-10-14",
+   "slot": 1,
+   "id": "2026-10-14-2",
+   "format": "problem",
+   "theme": "dated-kitchen",
+   "theme_name": "my dated kitchen",
+   "room": "kitchen",
+   "room_id": "lived-kitchen-dated-kitchen-2",
+   "hook": "i'm done with my dated kitchen! 😅",
+   "texts": [
+    "forest green makes brass feel heirloom",
+    "french blue softened with warm honey oak",
+    "butter yellow always brings the sunshine",
+    "burgundy and marble are pure drama",
+    "earthen tones make everyday cooking cozier",
+    "glossy navy with chrome hits just right"
+   ],
+   "caption": "goodbye dated kitchen 👋\n\ntell me your favorite look in the comments 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
+   "source": "ai",
+   "cost": 0.1365,
+   "urls": [
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-14-2/01.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-14-2/02.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-14-2/03.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-14-2/04.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-14-2/05.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-14-2/06.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-14-2/07.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-14-2/08.jpg"
+   ],
+   "publish_id": "p_inbox_url~v2.7696599456917473302",
+   "status": "SEND_TO_USER_INBOX",
+   "sent_at": "2026-10-14T18:58:36+00:00"
   }
  ]
 }
