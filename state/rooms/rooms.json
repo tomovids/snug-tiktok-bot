@@ -63,5 +63,18 @@
   "used": [
    "2026-10-15"
   ]
+ },
+ {
+  "id": "lived-livingroom-grey-6",
+  "kind": "lived",
+  "room": "living room",
+  "problem": "grey",
+  "arch": "a sloped loft ceiling with a large skylight",
+  "floor": "wide warm oak planks",
+  "file": "lived-livingroom-grey-6.jpg",
+  "created": "2026-10-15",
+  "used": [
+   "2026-10-15"
+  ]
  }
 ]

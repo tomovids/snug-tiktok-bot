@@ -317,7 +317,7 @@
    "date": "2026-10-15",
    "slot": 0,
    "time": "2026-10-15T12:00:00+01:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "makeover",
     "room": "bedroom",
@@ -329,32 +329,32 @@
      {
       "text": "earthy textured modern farmhouse",
       "look": "A pale white oak platform bed styled with oatmeal linen bedding, olive green waffle throw, and woven jute rug underneath. Chunky ceramic table lamps sit on matching wood nightstands, paired with large woven seagrass baskets and framed botanical sketches.",
-      "callout": ""
+      "callout": "obsessed with this round jute rug"
      },
      {
       "text": "clean minimalist modern farmhouse",
       "look": "A slim matte black iron spindle bed dressed in crisp white linen and charcoal striped pillows. Low-profile ash wood nightstands hold simple pleated sconces, grounded by a flat-weave cream wool runner, minimalist ceramic vases, and a slender floor mirror.",
-      "callout": ""
+      "callout": "obsessed with this black metal bed"
      },
      {
       "text": "vintage layered modern farmhouse",
       "look": "A reclaimed pine bed layered with quilted flax duvets, ruffled linen shams, and an antique muted rug. Turned-wood bedside tables hold brass swing-arm lamps, accompanied by stacks of old art books, galvanized metal planters, and a round black iron mirror.",
-      "callout": ""
+      "callout": "obsessed with this vintage patterned rug"
      },
      {
       "text": "soft neutral modern farmhouse",
       "look": "An upholstered cream linen headboard with plush ivory cotton throws and beige textured cushions. Bleached oak bedside tables feature fluted stoneware lamps, a plush braided wool rug, a potted olive tree in a terracotta pot, and landscape oil paintings.",
-      "callout": ""
+      "callout": "love this channeled upholstered bed"
      },
      {
       "text": "dark contrast modern farmhouse",
       "look": "A solid ebonized wood bed dressed in layered slate and chalk linen sheets. Light natural oak bedside chests feature matte black iron task lamps, balanced by an off-white patterned geometric rug, charcoal ceramic vessels, and framed charcoal sketch art.",
-      "callout": ""
+      "callout": "obsessed with this geometric area rug"
      },
      {
       "text": "rustic coastal modern farmhouse",
       "look": "A natural cane and light oak bed layered with ticking-stripe duvets, sandy linen pillows, and a chunky knit blanket. Bleached pine nightstands support seeded glass table lamps, completed with a distressed vintage runner, woven lidded hampers, and dried botanicals.",
-      "callout": ""
+      "callout": "obsessed with this cane bed frame"
      }
     ],
     "cta_look": "A washed white oak canopy bed draped in breezy linen throws and heather gray lumbar cushions. Weathered wood nightstands hold matte black ceramic table lamps, accompanied by an oversized braided jute rug, framed muted landscapes, and stacked rattan storage trunks.",
@@ -379,7 +379,87 @@
     "2026-10-15-1/cta"
    ],
    "cost": 0.1755,
-   "batch": "batches/6297xgcs0ivndhcd0pm1zuppooecvvm1d617"
+   "batch": "batches/6297xgcs0ivndhcd0pm1zuppooecvvm1d617",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-14T14:05:36+00:00"
+  },
+  {
+   "id": "2026-10-15-2",
+   "date": "2026-10-15",
+   "slot": 1,
+   "time": "2026-10-15T19:00:00+01:00",
+   "status": "waiting",
+   "plan": {
+    "format": "problem",
+    "room": "living room",
+    "theme": "grey",
+    "theme_name": "grey and minimalism",
+    "hook": "i'm done with grey and minimalism! 😅",
+    "hook_sub": "which would you choose?",
+    "slides": [
+     {
+      "text": "rust velvet makes everything feel so grounded",
+      "look": "A low-slung rust velvet sofa, checkered mustard wool rug, walnut burl coffee table, oversized abstract sunset canvas, brass mushroom floor lamp, brass tray with ceramic mugs, and a fiddle-leaf fig in a terracotta planter.",
+      "callout": ""
+     },
+     {
+      "text": "cobalt accents totally wake up emerald",
+      "look": "An emerald green tuxedo sofa with cobalt silk cushions, layered Persian runner on a jute rug, black marble coffee table, brass task lamp, stacked vintage art monographs, and a sculptural gilded wall mirror.",
+      "callout": ""
+     },
+     {
+      "text": "butter yellow softens the olive so nicely",
+      "look": "A butter yellow slipcovered sofa topped with lilac waffle cushions, geometric olive flatweave rug, blonde oak coffee table, playful paper pendant light, framed floral prints, and colorful Murano glass candleholders.",
+      "callout": ""
+     },
+     {
+      "text": "maximalist art turns this into a gallery",
+      "look": "A saffron sectional sofa piled with patterned kilim cushions, vintage red Moroccan rug, carved teak coffee table, wrought iron floor lamp, gallery wall of oil portraits, and ceramic bowls overflowing with citrus.",
+      "callout": ""
+     },
+     {
+      "text": "chocolate leather grounds the soft blush tones",
+      "look": "A chocolate leather chesterfield sofa, dusty rose mohair throw, plush burgundy wool rug, travertine pedestal coffee table, pleated fabric table lamp, brass framed landscape paintings, and a tall rubber plant in a glazed pot.",
+      "callout": ""
+     },
+     {
+      "text": "bold stripes give the room instant energy",
+      "look": "A cream linen sofa layered with cerulean and ochre striped cushions, braided jute rug, round rattan coffee table, glossy cobalt ceramic table lamp, framed botanical sketches, and stacks of linen-bound travel books.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "A forest green modular sofa draped with a saffron wool blanket, colorful Bauhaus poster in a chrome frame, chrome cantilever coffee table, and an ivory boucle accent chair with a patterned throw.",
+    "cta_question": "want to get rid of the grey in your space? 📌",
+    "cta_line": "snap your room and try it on Snug",
+    "title": "saying goodbye to the grey 👋",
+    "caption": "saying goodbye to the grey 👋\n\nwhich one would you choose to replace the grey? comment below 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
+    "source": "ai",
+    "room_id": "lived-livingroom-grey-6",
+    "extra": {
+     "tuned": false
+    }
+   },
+   "room_file": "lived-livingroom-grey-6.jpg",
+   "keys": [
+    "2026-10-15-2/0",
+    "2026-10-15-2/1",
+    "2026-10-15-2/2",
+    "2026-10-15-2/3",
+    "2026-10-15-2/4",
+    "2026-10-15-2/5",
+    "2026-10-15-2/cta"
+   ],
+   "cost": 0.1755,
+   "batch": "batches/l79o9kqbsl23lb2q1ljqnda71cd62ehtb4pv"
   }
  ]
 }
