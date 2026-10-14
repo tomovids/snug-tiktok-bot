@@ -104,6 +104,41 @@
    "publish_id": "p_inbox_url~v2.7696222051975104535",
    "status": "SEND_TO_USER_INBOX",
    "sent_at": "2026-10-13T18:32:45+00:00"
+  },
+  {
+   "date": "2026-10-14",
+   "slot": 0,
+   "id": "2026-10-14-1",
+   "format": "makeover",
+   "theme": "californiacasual",
+   "theme_name": "california casual",
+   "room": "kitchen",
+   "room_id": "empty-kitchen-none-4",
+   "hook": "let's make this kitchen california casual ✍️",
+   "texts": [
+    "sun-bleached earthy california casual",
+    "breezy coastal california casual",
+    "warm organic california casual",
+    "laid-back modern california casual",
+    "sun-drenched vintage california casual",
+    "serene minimal california casual"
+   ],
+   "caption": "california casual kitchen 📌\n\nwhich version feels most like home to you? let me know below 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #californiacasual #snug",
+   "source": "ai",
+   "cost": 0.1755,
+   "urls": [
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-14-1/01.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-14-1/02.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-14-1/03.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-14-1/04.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-14-1/05.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-14-1/06.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-14-1/07.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-14-1/08.jpg"
+   ],
+   "publish_id": "p_inbox_url~v2.7696524614188599318",
+   "status": "SEND_TO_USER_INBOX",
+   "sent_at": "2026-10-14T14:07:01+00:00"
   }
  ]
 }
