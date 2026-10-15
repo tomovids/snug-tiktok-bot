@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-15T11:51+00:00",
- "built": "2026-10-15T12:11+00:00",
+ "built": "2026-10-15T17:23+00:00",
  "kpis": {
   "followers": 0,
   "followers_7d": 0,
@@ -210,17 +210,6 @@
  },
  "pipeline": [
   {
-   "time": "2026-10-15T12:00:00+01:00",
-   "local": "Thu 15 Oct, 12:00",
-   "format": "makeover",
-   "theme": "modern farmhouse",
-   "room": "bedroom",
-   "hook": "let's make this modern farmhouse ✍️",
-   "status": "Ready",
-   "retry": false,
-   "cost": 0.1755
-  },
-  {
    "time": "2026-10-15T19:00:00+01:00",
    "local": "Thu 15 Oct, 19:00",
    "format": "problem",
@@ -249,12 +238,23 @@
    "theme": "beige everything",
    "room": "living room",
    "hook": "i'm done with beige everything! 😅",
-   "status": "Making pictures",
+   "status": "Ready",
    "retry": false,
    "cost": 0.1755
   }
  ],
  "drafts": [
+  {
+   "sent_at": "2026-10-15T12:12:33+00:00",
+   "hook": "let's make this modern farmhouse ✍️",
+   "format": "makeover",
+   "theme": "modern farmhouse",
+   "room": "bedroom",
+   "cost": 0.1755,
+   "status": "In drafts",
+   "failed": false,
+   "error": null
+  },
   {
    "sent_at": "2026-10-14T18:58:36+00:00",
    "hook": "i'm done with my dated kitchen! 😅",
@@ -312,10 +312,10 @@
   }
  ],
  "cost": {
-  "spent_30d_usd": 0.62,
-  "posts_30d": 4,
-  "per_post_usd": 0.156,
-  "month_estimate_usd": 9.36,
+  "spent_30d_usd": 0.8,
+  "posts_30d": 5,
+  "per_post_usd": 0.16,
+  "month_estimate_usd": 9.59,
   "rooms_in_library": 8
  },
  "schedule": {
