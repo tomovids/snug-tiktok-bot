@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-15T20:25+00:00",
- "built": "2026-10-15T20:33+00:00",
+ "built": "2026-10-15T23:20+00:00",
  "kpis": {
   "followers": 0,
   "followers_7d": 0,
@@ -244,17 +244,6 @@
  },
  "pipeline": [
   {
-   "time": "2026-10-15T19:00:00+01:00",
-   "local": "Thu 15 Oct, 19:00",
-   "format": "problem",
-   "theme": "grey and minimalism",
-   "room": "living room",
-   "hook": "i'm done with grey and minimalism! 😅",
-   "status": "Ready",
-   "retry": false,
-   "cost": 0.1755
-  },
-  {
    "time": "2026-10-16T12:00:00+01:00",
    "local": "Fri 16 Oct, 12:00",
    "format": "makeover",
@@ -278,6 +267,17 @@
   }
  ],
  "drafts": [
+  {
+   "sent_at": "2026-10-15T20:34:09+00:00",
+   "hook": "i'm done with grey and minimalism! 😅",
+   "format": "problem",
+   "theme": "grey and minimalism",
+   "room": "living room",
+   "cost": 0.1755,
+   "status": "In drafts",
+   "failed": false,
+   "error": null
+  },
   {
    "sent_at": "2026-10-15T12:12:33+00:00",
    "hook": "let's make this modern farmhouse ✍️",
@@ -346,10 +346,10 @@
   }
  ],
  "cost": {
-  "spent_30d_usd": 0.8,
-  "posts_30d": 5,
-  "per_post_usd": 0.16,
-  "month_estimate_usd": 9.59,
+  "spent_30d_usd": 0.97,
+  "posts_30d": 6,
+  "per_post_usd": 0.163,
+  "month_estimate_usd": 9.75,
   "rooms_in_library": 8
  },
  "schedule": {
