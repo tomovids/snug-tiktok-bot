@@ -209,6 +209,41 @@
    "publish_id": "p_inbox_url~v2.7696866047399594006",
    "status": "SEND_TO_USER_INBOX",
    "sent_at": "2026-10-15T12:12:33+00:00"
+  },
+  {
+   "date": "2026-10-15",
+   "slot": 1,
+   "id": "2026-10-15-2",
+   "format": "problem",
+   "theme": "grey",
+   "theme_name": "grey and minimalism",
+   "room": "living room",
+   "room_id": "lived-livingroom-grey-6",
+   "hook": "i'm done with grey and minimalism! 😅",
+   "texts": [
+    "rust velvet makes everything feel so grounded",
+    "cobalt accents totally wake up emerald",
+    "butter yellow softens the olive so nicely",
+    "maximalist art turns this into a gallery",
+    "chocolate leather grounds the soft blush tones",
+    "bold stripes give the room instant energy"
+   ],
+   "caption": "saying goodbye to the grey 👋\n\nwhich one would you choose to replace the grey? comment below 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
+   "source": "ai",
+   "cost": 0.1755,
+   "urls": [
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-15-2/01.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-15-2/02.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-15-2/03.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-15-2/04.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-15-2/05.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-15-2/06.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-15-2/07.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-15-2/08.jpg"
+   ],
+   "publish_id": "p_inbox_url~v2.7696995164091156502",
+   "status": "SEND_TO_USER_INBOX",
+   "sent_at": "2026-10-15T20:34:09+00:00"
   }
  ]
 }
