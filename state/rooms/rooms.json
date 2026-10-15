@@ -89,5 +89,18 @@
   "used": [
    "2026-10-16"
   ]
+ },
+ {
+  "id": "lived-livingroom-beige-8",
+  "kind": "lived",
+  "room": "living room",
+  "problem": "beige",
+  "arch": "a large black-framed floor-to-ceiling window on the left wall",
+  "floor": "wide warm oak planks",
+  "file": "lived-livingroom-beige-8.jpg",
+  "created": "2026-10-16",
+  "used": [
+   "2026-10-16"
+  ]
  }
 ]

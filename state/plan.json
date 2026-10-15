@@ -477,7 +477,7 @@
    "date": "2026-10-16",
    "slot": 0,
    "time": "2026-10-16T12:00:00+01:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "makeover",
     "room": "bedroom",
@@ -489,32 +489,32 @@
      {
       "text": "english garden grandmillennial",
       "look": "A scalloped headboard in cabbage-rose chintz pairs with a gathered floral skirted nightstand, brass swing-arm sconces with pleated silk shades, an embroidered botanical quilt, and a vintage hand-knotted wool rug layered under stacked antique gardening books.",
-      "callout": ""
+      "callout": "obsessed with this beige armchair"
      },
      {
       "text": "coastal prep grandmillennial",
       "look": "A woven white wicker four-poster bed is layered with crisp blue block-print linens, ginger jar bedside table lamps with raffia shades, a scalloped jute rug, and a collection of framed antique coral prints above a painted bamboo chest.",
-      "callout": ""
+      "callout": "obsessed with this scalloped jute rug"
      },
      {
       "text": "tailored classic grandmillennial",
       "look": "A carved mahogany spool bed dressed in box-pleated gingham linens anchors the room beside an antique skirted vanity. Gilded botanicals hang above, illuminated by porcelain urn lamps with fluted paper shades and an heirloom needlepoint area rug.",
-      "callout": ""
+      "callout": "obsessed with this cream skirted table"
      },
      {
       "text": "romantic cottage grandmillennial",
       "look": "An iron canopy bed draped in ruffled linen is surrounded by ruffled chintz bolster pillows, painted floral tole table lamps, a soft braided wool rug, and a giltwood ribbon mirror propped beside a bouquet of fresh garden roses.",
-      "callout": ""
+      "callout": "obsessed with this ornate gold mirror"
      },
      {
       "text": "playful botanical grandmillennial",
       "look": "An upholstered bed in vibrant trellis linen sits beside a green lacquered pagoda nightstand. A scalloped abaca rug warms the space beneath, topped by patterned ceramic lamps, stacks of art monographs, and framed pressed botanical specimen frames.",
-      "callout": ""
+      "callout": "obsessed with this scalloped jute rug"
      },
      {
       "text": "vintage heirloom grandmillennial",
       "look": "A quilted floral slipcovered headboard rests beside twin drop-leaf mahogany end tables with pleated gingham lamp shades. An antique Aubusson wool rug, botanical needlepoint throw pillows, and framed pastel portraits create a cozy, layered collector's retreat.",
-      "callout": ""
+      "callout": "obsessed with this floral rug"
      }
     ],
     "cta_look": "A French cane bed dressed in crisp embroidered scallop sheets meets a blue and white porcelain garden stool, a brass table lamp with a patterned gathered shade, and a plush floral wool rug surrounded by framed intaglios.",
@@ -539,7 +539,87 @@
     "2026-10-16-1/cta"
    ],
    "cost": 0.1755,
-   "batch": "batches/e3nm7fzcl0vm37rlwjiunktkyrfg5wt3gg3n"
+   "batch": "batches/e3nm7fzcl0vm37rlwjiunktkyrfg5wt3gg3n",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-15T12:11:19+00:00"
+  },
+  {
+   "id": "2026-10-16-2",
+   "date": "2026-10-16",
+   "slot": 1,
+   "time": "2026-10-16T19:00:00+01:00",
+   "status": "waiting",
+   "plan": {
+    "format": "problem",
+    "room": "living room",
+    "theme": "beige",
+    "theme_name": "beige everything",
+    "hook": "i'm done with beige everything! 😅",
+    "hook_sub": "which would you choose?",
+    "slides": [
+     {
+      "text": "terracotta warmth balances that rich cobalt blue",
+      "look": "A rust velvet sectional with cobalt silk throw pillows, paired with an arched brass floor lamp, a low walnut coffee table stacked with art monographs, a vivid geometric Moroccan wool rug, and a leafy fiddle leaf fig in a ceramic pot.",
+      "callout": ""
+     },
+     {
+      "text": "forest velvet instantly grounds the whole space",
+      "look": "A deep forest green tufted sofa topped with saffron velvet cushions, a polished chrome arc lamp, a smoked-glass coffee table, a large abstract oil painting full of ochre and olive tones, and an antique red Persian rug.",
+      "callout": ""
+     },
+     {
+      "text": "soft lavender makes deep mustard feel intentional",
+      "look": "A golden mustard linen couch layered with lilac quilted throws, a fluted oak side table, an oversized wavy gilded mirror reflecting light, an orange checkered wool runner, a paper lantern pendant light, and ceramics holding fresh eucalyptus.",
+      "callout": ""
+     },
+     {
+      "text": "a hit of lacquer red always wakes things up",
+      "look": "A low-slung olive corduroy sofa flanked by a glossy lacquer cherry red side table, a sculptural paper lamp, a graphic black-and-cream checkered rug, framed Bauhaus gallery prints, and stacks of colorful design books on a travertine slab.",
+      "callout": ""
+     },
+     {
+      "text": "rich plum velvet is the ultimate mood maker",
+      "look": "A curved plum velvet loveseat styled with midnight blue mohair pillows, an antique brass chandelier overhead, an ornate gilt floor mirror, a washed vintage Turkish rug in crimson hues, and a marble pedestal holding a cascading pothos.",
+      "callout": ""
+     },
+     {
+      "text": "tangerine and sage feel like instant sunshine",
+      "look": "A sage green modular sofa with tangerine corduroy cushions, a burl wood coffee table, a woven flatweave rug in warm paprika tones, a mushroom-shaped acrylic table lamp, and framed botanical lithographs displayed in minimalist blonde maple frames.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "An indigo slipcovered couch with burnt sienna linen pillows, a round travertine coffee table, an oversized woven jute-and-wool rug, a tall rubber tree in an artisanal clay planter, and a cluster of pleated silk pendant lamps.",
+    "cta_question": "want to get rid of the beige in your space? 📌",
+    "cta_line": "try it on your own room with Snug",
+    "title": "goodbye beige 👋",
+    "caption": "goodbye beige 👋\n\nwhich version is saving this room from beige? comment your pick 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
+    "source": "ai",
+    "room_id": "lived-livingroom-beige-8",
+    "extra": {
+     "tuned": false
+    }
+   },
+   "room_file": "lived-livingroom-beige-8.jpg",
+   "keys": [
+    "2026-10-16-2/0",
+    "2026-10-16-2/1",
+    "2026-10-16-2/2",
+    "2026-10-16-2/3",
+    "2026-10-16-2/4",
+    "2026-10-16-2/5",
+    "2026-10-16-2/cta"
+   ],
+   "cost": 0.1755,
+   "batch": "batches/fn70ju3gw0cqp7h4hq1v3xwrbn1zvg8ccp0e"
   }
  ]
 }
