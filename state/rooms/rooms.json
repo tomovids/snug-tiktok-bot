@@ -76,5 +76,18 @@
   "used": [
    "2026-10-15"
   ]
+ },
+ {
+  "id": "empty-bedroom-none-7",
+  "kind": "empty",
+  "room": "bedroom",
+  "problem": null,
+  "arch": "two tall sash windows on the back wall either side of the bed",
+  "floor": "wide warm oak planks",
+  "file": "empty-bedroom-none-7.jpg",
+  "created": "2026-10-16",
+  "used": [
+   "2026-10-16"
+  ]
  }
 ]
