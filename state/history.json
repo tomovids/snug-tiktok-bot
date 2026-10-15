@@ -174,6 +174,41 @@
    "publish_id": "p_inbox_url~v2.7696599456917473302",
    "status": "SEND_TO_USER_INBOX",
    "sent_at": "2026-10-14T18:58:36+00:00"
+  },
+  {
+   "date": "2026-10-15",
+   "slot": 0,
+   "id": "2026-10-15-1",
+   "format": "makeover",
+   "theme": "modernfarmhouse",
+   "theme_name": "modern farmhouse",
+   "room": "bedroom",
+   "room_id": "empty-bedroom-none-5",
+   "hook": "let's make this modern farmhouse ✍️",
+   "texts": [
+    "earthy textured modern farmhouse",
+    "clean minimalist modern farmhouse",
+    "vintage layered modern farmhouse",
+    "soft neutral modern farmhouse",
+    "dark contrast modern farmhouse",
+    "rustic coastal modern farmhouse"
+   ],
+   "caption": "modern farmhouse bedroom 📌\n\nwhich version of this bedroom would you move right into? tell me below 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #modernfarmhouse #snug",
+   "source": "ai",
+   "cost": 0.1755,
+   "urls": [
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-15-1/01.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-15-1/02.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-15-1/03.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-15-1/04.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-15-1/05.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-15-1/06.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-15-1/07.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-15-1/08.jpg"
+   ],
+   "publish_id": "p_inbox_url~v2.7696866047399594006",
+   "status": "SEND_TO_USER_INBOX",
+   "sent_at": "2026-10-15T12:12:33+00:00"
   }
  ]
 }
