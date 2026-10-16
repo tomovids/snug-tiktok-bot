@@ -637,7 +637,7 @@
    "date": "2026-10-17",
    "slot": 0,
    "time": "2026-10-17T12:00:00+01:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "makeover",
     "room": "kitchen",
@@ -649,32 +649,32 @@
      {
       "text": "sun-drenched coastal mediterranean",
       "look": "Chalky white shaker cabinets with aged brass knobs, tumbled marble splashback, and thick butcher block counters. Woven rush counter stools, oversized fluted ceramic pendant lights, blue-and-white hand-painted bowls, and a large olive wood cutting board stacked with fresh lemons.",
-      "callout": ""
+      "callout": "love this fluted pendant light"
      },
      {
       "text": "earthy rustic mediterranean",
       "look": "Unglazed terracotta splashback paired with weathered oak cabinets and unlacquered brass bin pulls. Sturdy woven rope barstools, forged iron wall sconces, rough earthenware urns with dried olive branches, and stacked linen dishcloths beside a marble mortar and pestle.",
-      "callout": ""
+      "callout": "obsessed with this woven bar stool"
      },
      {
       "text": "vibrant eclectic mediterranean",
       "look": "Cobalt blue lower cabinets with beaten copper handles and zellige tile splashback. Open reclaimed wood shelves display patterned majolica pitchers, hanging copper saucepans, scalloped raffia pendant shades, a vintage striped flatweave runner, and terracotta pots of fresh basil.",
-      "callout": ""
+      "callout": "need this woven counter stool"
      },
      {
       "text": "clean breezy mediterranean",
       "look": "Bleached wood flat-panel cabinets with recessed pulls, honed sandstone counters, and pale cream zellige splashback. Minimal woven cane counter stools, a paper lantern pendant light, speckled stoneware canisters, a potted olive topiary, and natural linen cafe towels.",
-      "callout": ""
+      "callout": "obsessed with this paper pendant light"
      },
      {
       "text": "vintage tuscan mediterranean",
       "look": "Sage green beadboard cabinets with antique iron latches, soapstone counters, and a crackle-glaze ceramic splashback. High-back rush chairs, pleated linen pendant lights, vintage oil and vinegar cruets, a tarnished brass fruit bowl, and framed botanical herb prints.",
-      "callout": ""
+      "callout": "obsessed with this pleated pendant light"
      },
      {
       "text": "deep moody mediterranean",
       "look": "Espresso-stained reeded oak cabinets, warm travertine counters, and antique bronze cup pulls. Dark walnut stools with woven leather seating, blackened brass dome pendants, dark terracotta amphora jars, an aged brass pepper mill, and branches of wild fig.",
-      "callout": ""
+      "callout": "need this woven leather barstool"
      }
     ],
     "cta_look": "Warm biscuit-toned cabinets with fluted bone knobs, creamy limestone counters, and handmade ceramic subway tile. Sculptural rattan stools, a pleated linen drum pendant, olive wood salad bowls, trailing rosemary in vintage stone pots, and an amber glass vase.",
@@ -699,7 +699,18 @@
     "2026-10-17-1/cta"
    ],
    "cost": 0.1755,
-   "batch": "batches/nit54qx5m06zto201rpy67jdor9au5mh0jtc"
+   "batch": "batches/nit54qx5m06zto201rpy67jdor9au5mh0jtc",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-16T11:56:56+00:00"
   }
  ]
 }
