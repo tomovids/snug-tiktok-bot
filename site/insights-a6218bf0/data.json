@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-15T20:25+00:00",
- "built": "2026-10-16T06:26+00:00",
+ "updated": "2026-10-16T11:43+00:00",
+ "built": "2026-10-16T11:43+00:00",
  "kpis": {
   "followers": 0,
   "followers_7d": 0,
-  "likes": 15,
-  "views_7d": 1429,
+  "likes": 18,
+  "views_7d": 1744,
   "views_prev_7d": 0,
-  "posts_tracked": 5,
+  "posts_tracked": 6,
   "posts_scored": 0,
   "median_views_10": null,
   "engagement_10": null
@@ -33,6 +33,13 @@
    "likes": 15,
    "videos": 5,
    "total_views": 2280
+  },
+  {
+   "date": "2026-10-16",
+   "followers": 0,
+   "likes": 18,
+   "videos": 6,
+   "total_views": 2595
   }
  ],
  "daily_views": [
@@ -43,6 +50,10 @@
   {
    "date": "2026-10-15",
    "views": 1085
+  },
+  {
+   "date": "2026-10-16",
+   "views": 315
   }
  ],
  "top_posts": [
@@ -52,14 +63,14 @@
    "format": "problem",
    "theme": "my dated kitchen",
    "room": "kitchen",
-   "views": 838,
+   "views": 841,
    "likes": 2,
    "comments": 0,
    "shares": 0,
    "views72": null,
-   "engagement": 0.002386634844868735,
+   "engagement": 0.0023781212841854932,
    "url": "https://www.tiktok.com/@trysnug/video/7696657295702363414?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p19-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/7e67c449bfd94815ae647fd5eb638e8b~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=c1aa737e&x-expires=1793390400&x-signature=kr0NSU51WisdXpMG6DE9fewX75w%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/7e67c449bfd94815ae647fd5eb638e8b~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=4add927d&x-expires=1793444400&x-signature=qCHnGhesHalu4GpyeEoib5yLiEA%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "bot": true,
    "new": true
   },
@@ -76,7 +87,7 @@
    "views72": null,
    "engagement": 0.004878048780487805,
    "url": "https://www.tiktok.com/@trysnug/video/7696249521126247702?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/e435b0158b4b4e57ad971988a91f229f~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=cd60a574&x-expires=1793390400&x-signature=SF6O89b89ZnDKX9647tbe8vAxIg%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/e435b0158b4b4e57ad971988a91f229f~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=e1d7bf9f&x-expires=1793444400&x-signature=B3PP8zz97Eda2qBF7qgzhnTlx6w%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "bot": true,
    "new": true
   },
@@ -93,7 +104,7 @@
    "views72": null,
    "engagement": 0.013769363166953529,
    "url": "https://www.tiktok.com/@trysnug/video/7696142659928263958?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=82b9281d&x-expires=1793390400&x-signature=GPwgzrqsn8JQHFKDzuQBqgVQEVM%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=b9688598&x-expires=1793444400&x-signature=GiObRZazmoVYsbOt30vQA%2BEiGXs%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "bot": true,
    "new": true
   },
@@ -103,14 +114,31 @@
    "format": "makeover",
    "theme": "modern farmhouse",
    "room": "bedroom",
-   "views": 246,
+   "views": 305,
+   "likes": 3,
+   "comments": 0,
+   "shares": 0,
+   "views72": null,
+   "engagement": 0.009836065573770493,
+   "url": "https://www.tiktok.com/@trysnug/video/7696888922739068182?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/e8a8f7f8097f49f081be306300e16dea~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=b464f03e&x-expires=1793444400&x-signature=6EKD3MRxR5%2BCOe9c3l1UbeuKg18%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "bot": true,
+   "new": true
+  },
+  {
+   "posted": "2026-10-15T21:51+00:00",
+   "hook": "i'm done with grey and minimalism! 😅",
+   "format": "problem",
+   "theme": "grey and minimalism",
+   "room": "living room",
+   "views": 253,
    "likes": 2,
    "comments": 0,
    "shares": 0,
    "views72": null,
-   "engagement": 0.008130081300813009,
-   "url": "https://www.tiktok.com/@trysnug/video/7696888922739068182?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/e8a8f7f8097f49f081be306300e16dea~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=a6cec45c&x-expires=1793390400&x-signature=f%2FT6FP%2FqfSo%2FzsB%2F03b8gPiCdls%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "engagement": 0.007905138339920948,
+   "url": "https://www.tiktok.com/@trysnug/video/7697015479780527382?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/a1ac3693dc034a24979b593a1f56c36a~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=af783cfc&x-expires=1793444400&x-signature=E%2FEz1m36lo7Y4g1fPQwBP8zQ5uw%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "bot": true,
    "new": true
   },
@@ -127,26 +155,43 @@
    "views72": null,
    "engagement": null,
    "url": "https://www.tiktok.com/@trysnug/video/7696548416993742102?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/9791bdf0c3fe4a8785a1d08360263bb3~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=e0794672&x-expires=1793390400&x-signature=GboC3s3If37ibAbB33KD6H8BfRU%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_photomode",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/9791bdf0c3fe4a8785a1d08360263bb3~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=e2aea4d7&x-expires=1793444400&x-signature=2z5PJObZp9vaxl8jwT4oLKPNRzo%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "bot": true,
    "new": true
   }
  ],
  "recent": [
   {
+   "posted": "2026-10-15T21:51+00:00",
+   "hook": "i'm done with grey and minimalism! 😅",
+   "format": "problem",
+   "theme": "grey and minimalism",
+   "room": "living room",
+   "views": 253,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "views72": null,
+   "engagement": 0.007905138339920948,
+   "url": "https://www.tiktok.com/@trysnug/video/7697015479780527382?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/a1ac3693dc034a24979b593a1f56c36a~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=af783cfc&x-expires=1793444400&x-signature=E%2FEz1m36lo7Y4g1fPQwBP8zQ5uw%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "bot": true,
+   "new": true
+  },
+  {
    "posted": "2026-10-15T13:40+00:00",
    "hook": "let's make this modern farmhouse ✍️",
    "format": "makeover",
    "theme": "modern farmhouse",
    "room": "bedroom",
-   "views": 246,
-   "likes": 2,
+   "views": 305,
+   "likes": 3,
    "comments": 0,
    "shares": 0,
    "views72": null,
-   "engagement": 0.008130081300813009,
+   "engagement": 0.009836065573770493,
    "url": "https://www.tiktok.com/@trysnug/video/7696888922739068182?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/e8a8f7f8097f49f081be306300e16dea~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=a6cec45c&x-expires=1793390400&x-signature=f%2FT6FP%2FqfSo%2FzsB%2F03b8gPiCdls%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/e8a8f7f8097f49f081be306300e16dea~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=b464f03e&x-expires=1793444400&x-signature=6EKD3MRxR5%2BCOe9c3l1UbeuKg18%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "bot": true,
    "new": true
   },
@@ -156,14 +201,14 @@
    "format": "problem",
    "theme": "my dated kitchen",
    "room": "kitchen",
-   "views": 838,
+   "views": 841,
    "likes": 2,
    "comments": 0,
    "shares": 0,
    "views72": null,
-   "engagement": 0.002386634844868735,
+   "engagement": 0.0023781212841854932,
    "url": "https://www.tiktok.com/@trysnug/video/7696657295702363414?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p19-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/7e67c449bfd94815ae647fd5eb638e8b~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=c1aa737e&x-expires=1793390400&x-signature=kr0NSU51WisdXpMG6DE9fewX75w%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/7e67c449bfd94815ae647fd5eb638e8b~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=4add927d&x-expires=1793444400&x-signature=qCHnGhesHalu4GpyeEoib5yLiEA%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "bot": true,
    "new": true
   },
@@ -180,7 +225,7 @@
    "views72": null,
    "engagement": null,
    "url": "https://www.tiktok.com/@trysnug/video/7696548416993742102?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/9791bdf0c3fe4a8785a1d08360263bb3~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=e0794672&x-expires=1793390400&x-signature=GboC3s3If37ibAbB33KD6H8BfRU%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_photomode",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/9791bdf0c3fe4a8785a1d08360263bb3~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=e2aea4d7&x-expires=1793444400&x-signature=2z5PJObZp9vaxl8jwT4oLKPNRzo%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "bot": true,
    "new": true
   },
@@ -197,7 +242,7 @@
    "views72": null,
    "engagement": 0.004878048780487805,
    "url": "https://www.tiktok.com/@trysnug/video/7696249521126247702?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/e435b0158b4b4e57ad971988a91f229f~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=cd60a574&x-expires=1793390400&x-signature=SF6O89b89ZnDKX9647tbe8vAxIg%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/e435b0158b4b4e57ad971988a91f229f~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=e1d7bf9f&x-expires=1793444400&x-signature=B3PP8zz97Eda2qBF7qgzhnTlx6w%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "bot": true,
    "new": true
   },
@@ -214,7 +259,7 @@
    "views72": null,
    "engagement": 0.013769363166953529,
    "url": "https://www.tiktok.com/@trysnug/video/7696142659928263958?utm_campaign=tt4d_open_api&utm_source=sbawid8qeabxmcz7sx",
-   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=82b9281d&x-expires=1793390400&x-signature=GPwgzrqsn8JQHFKDzuQBqgVQEVM%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "cover": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-i-photomode-no/1051d97e6d64447584b117d308c90088~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=b9688598&x-expires=1793444400&x-signature=GiObRZazmoVYsbOt30vQA%2BEiGXs%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=no1a&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
    "bot": true,
    "new": true
   }
