@@ -717,7 +717,7 @@
    "date": "2026-10-17",
    "slot": 1,
    "time": "2026-10-17T19:00:00+01:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "problem",
     "room": "bedroom",
@@ -779,7 +779,18 @@
     "2026-10-17-2/cta"
    ],
    "cost": 0.1755,
-   "batch": "batches/2us9fmcxj6rofg0e6kt85cw0xhgi5cfg1jcr"
+   "batch": "batches/2us9fmcxj6rofg0e6kt85cw0xhgi5cfg1jcr",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-16T20:06:54+00:00"
   }
  ]
 }
