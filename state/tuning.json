@@ -1,11 +1,29 @@
 {
  "active": false,
- "scored_posts": 0,
+ "scored_posts": 1,
  "needed": 10,
  "explore": 0.25,
  "multipliers": {
-  "theme": {},
-  "room": {},
-  "format": {}
+  "theme": {
+   "industrial": {
+    "mult": 1.0,
+    "posts": 1,
+    "avg_ratio": 1.0
+   }
+  },
+  "room": {
+   "living room": {
+    "mult": 1.0,
+    "posts": 1,
+    "avg_ratio": 1.0
+   }
+  },
+  "format": {
+   "makeover": {
+    "mult": 1.0,
+    "posts": 1,
+    "avg_ratio": 1.0
+   }
+  }
  }
 }
