@@ -711,6 +711,75 @@
     "08.jpg"
    ],
    "ready_at": "2026-10-16T11:56:56+00:00"
+  },
+  {
+   "id": "2026-10-17-2",
+   "date": "2026-10-17",
+   "slot": 1,
+   "time": "2026-10-17T19:00:00+01:00",
+   "status": "waiting",
+   "plan": {
+    "format": "problem",
+    "room": "bedroom",
+    "theme": "builder",
+    "theme_name": "builder-grade everything",
+    "hook": "i'm done with builder-grade everything! 😅",
+    "hook_sub": "which would you choose?",
+    "slides": [
+     {
+      "text": "plum velvet makes everything feel intentional",
+      "look": "walnut platform bed dressed in plum linen, rust velvet pillows, an antique brass articulating reading lamp, an oversized Persian-style runner in claret red, a framed oil portrait, and stacked vintage art books on a burled nightstand.",
+      "callout": ""
+     },
+     {
+      "text": "mustard and cognac bring instant warmth",
+      "look": "cognac leather headboard paired with mustard yellow waffle throw blankets, a green ceramic mushroom lamp, round woven jute rug, a tiered oak nightstand holding trailing ivy in terracotta, and warm abstract graphic prints.",
+      "callout": ""
+     },
+     {
+      "text": "toile bedding solves all my problems",
+      "look": "carved whitewashed wood bed piled high with cornflower blue toile duvets, ruffled floral cushions, pleated gingham bedside lampshades on cane tables, an ornate gilded leaning mirror, and fresh hydrangeas in a stoneware pitcher.",
+      "callout": ""
+     },
+     {
+      "text": "chrome and cobalt wake the room up",
+      "look": "tubular chrome frame bed layered in cobalt blue cotton, an electric orange lumbar pillow, mirrored chrome cubes as side tables, a brushed metal pharmacy floor lamp, a bold geometric rug, and framed modern line art.",
+      "callout": ""
+     },
+     {
+      "text": "deep olive brings the outside right in",
+      "look": "black spindle bed dressed in moss green quilts and botanical block-print shams, an antique mahogany tallboy dresser, an oversized brass table lamp with a pleated shade, stacked cedar trunk, and an oversized fiddle leaf fig.",
+      "callout": ""
+     },
+     {
+      "text": "peachy tones make mornings so gentle",
+      "look": "scalloped rattan headboard styled with blush linen sheets, a terracotta knit throw, pastel checkered wool rug, an arch-shaped wavy floor mirror, fluted plaster bedside pedestal, and brass sconces framing pastel oil paintings.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "upholstered sage green bed dressed in crisp ivory duvet and saffron silk pillows, vintage kilim runner in warm paprika, dark stained bamboo nightstand, globe glass table lamp, and an oversized potted monstera.",
+    "cta_question": "want to give your space some character?",
+    "cta_line": "try your Pinterest inspo on Snug 📌",
+    "title": "goodbye builder-grade 👋",
+    "caption": "goodbye builder-grade 👋\n\nwhich bedroom would make you forget the beige? comment your pick 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
+    "source": "ai",
+    "room_id": "lived-bedroom-builder-10",
+    "extra": {
+     "tuned": false
+    }
+   },
+   "room_file": "lived-bedroom-builder-10.jpg",
+   "keys": [
+    "2026-10-17-2/0",
+    "2026-10-17-2/1",
+    "2026-10-17-2/2",
+    "2026-10-17-2/3",
+    "2026-10-17-2/4",
+    "2026-10-17-2/5",
+    "2026-10-17-2/cta"
+   ],
+   "cost": 0.1755,
+   "batch": "batches/2us9fmcxj6rofg0e6kt85cw0xhgi5cfg1jcr"
   }
  ]
 }

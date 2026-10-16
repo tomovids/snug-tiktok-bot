@@ -115,5 +115,18 @@
   "used": [
    "2026-10-17"
   ]
+ },
+ {
+  "id": "lived-bedroom-builder-10",
+  "kind": "lived",
+  "room": "bedroom",
+  "problem": "builder",
+  "arch": "two tall sash windows on the back wall either side of the bed",
+  "floor": "pale polished concrete",
+  "file": "lived-bedroom-builder-10.jpg",
+  "created": "2026-10-17",
+  "used": [
+   "2026-10-17"
+  ]
  }
 ]

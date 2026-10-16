@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-16T11:43+00:00",
- "built": "2026-10-16T11:56+00:00",
+ "built": "2026-10-16T17:00+00:00",
  "kpis": {
   "followers": 0,
   "followers_7d": 0,
@@ -289,17 +289,6 @@
  },
  "pipeline": [
   {
-   "time": "2026-10-16T12:00:00+01:00",
-   "local": "Fri 16 Oct, 12:00",
-   "format": "makeover",
-   "theme": "grandmillennial",
-   "room": "bedroom",
-   "hook": "let's make this bedroom grandmillennial ✍️",
-   "status": "Ready",
-   "retry": false,
-   "cost": 0.1755
-  },
-  {
    "time": "2026-10-16T19:00:00+01:00",
    "local": "Fri 16 Oct, 19:00",
    "format": "problem",
@@ -320,9 +309,31 @@
    "status": "Ready",
    "retry": false,
    "cost": 0.1755
+  },
+  {
+   "time": "2026-10-17T19:00:00+01:00",
+   "local": "Sat 17 Oct, 19:00",
+   "format": "problem",
+   "theme": "builder-grade everything",
+   "room": "bedroom",
+   "hook": "i'm done with builder-grade everything! 😅",
+   "status": "Making pictures",
+   "retry": false,
+   "cost": 0.1755
   }
  ],
  "drafts": [
+  {
+   "sent_at": "2026-10-16T11:57:42+00:00",
+   "hook": "let's make this bedroom grandmillennial ✍️",
+   "format": "makeover",
+   "theme": "grandmillennial",
+   "room": "bedroom",
+   "cost": 0.1755,
+   "status": "In drafts",
+   "failed": false,
+   "error": null
+  },
   {
    "sent_at": "2026-10-15T20:34:09+00:00",
    "hook": "i'm done with grey and minimalism! 😅",
@@ -402,11 +413,11 @@
   }
  ],
  "cost": {
-  "spent_30d_usd": 0.97,
-  "posts_30d": 6,
-  "per_post_usd": 0.163,
-  "month_estimate_usd": 9.75,
-  "rooms_in_library": 9
+  "spent_30d_usd": 1.15,
+  "posts_30d": 7,
+  "per_post_usd": 0.164,
+  "month_estimate_usd": 9.86,
+  "rooms_in_library": 10
  },
  "schedule": {
   "times": [
