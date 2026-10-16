@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-15T20:25+00:00",
- "built": "2026-10-16T01:41+00:00",
+ "built": "2026-10-16T06:26+00:00",
  "kpis": {
   "followers": 0,
   "followers_7d": 0,
@@ -264,6 +264,17 @@
    "status": "Ready",
    "retry": false,
    "cost": 0.1755
+  },
+  {
+   "time": "2026-10-17T12:00:00+01:00",
+   "local": "Sat 17 Oct, 12:00",
+   "format": "makeover",
+   "theme": "mediterranean",
+   "room": "kitchen",
+   "hook": "let's make this mediterranean ✍️",
+   "status": "Making pictures",
+   "retry": false,
+   "cost": 0.1755
   }
  ],
  "drafts": [
@@ -350,7 +361,7 @@
   "posts_30d": 6,
   "per_post_usd": 0.163,
   "month_estimate_usd": 9.75,
-  "rooms_in_library": 8
+  "rooms_in_library": 9
  },
  "schedule": {
   "times": [

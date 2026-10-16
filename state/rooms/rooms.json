@@ -102,5 +102,18 @@
   "used": [
    "2026-10-16"
   ]
+ },
+ {
+  "id": "empty-kitchen-none-9",
+  "kind": "empty",
+  "room": "kitchen",
+  "problem": null,
+  "arch": "a big black-framed window on the right and an island in the middle",
+  "floor": "light oak herringbone",
+  "file": "empty-kitchen-none-9.jpg",
+  "created": "2026-10-17",
+  "used": [
+   "2026-10-17"
+  ]
  }
 ]
