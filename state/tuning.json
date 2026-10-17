@@ -1,43 +1,53 @@
 {
  "active": false,
- "scored_posts": 2,
+ "scored_posts": 3,
  "needed": 10,
  "explore": 0.25,
  "multipliers": {
   "theme": {
    "industrial": {
-    "mult": 0.99,
+    "mult": 1.0,
     "posts": 1,
-    "avg_ratio": 0.97
+    "avg_ratio": 1.0
    },
    "dark": {
     "mult": 1.01,
     "posts": 1,
-    "avg_ratio": 1.03
+    "avg_ratio": 1.06
+   },
+   "californiacasual": {
+    "mult": 0.75,
+    "posts": 1,
+    "avg_ratio": 0.0
    }
   },
   "room": {
    "living room": {
-    "mult": 0.99,
+    "mult": 1.0,
     "posts": 1,
-    "avg_ratio": 0.97
+    "avg_ratio": 1.0
    },
    "bedroom": {
     "mult": 1.01,
     "posts": 1,
-    "avg_ratio": 1.03
+    "avg_ratio": 1.06
+   },
+   "kitchen": {
+    "mult": 0.75,
+    "posts": 1,
+    "avg_ratio": 0.0
    }
   },
   "format": {
    "makeover": {
-    "mult": 0.99,
-    "posts": 1,
-    "avg_ratio": 0.97
+    "mult": 0.8,
+    "posts": 2,
+    "avg_ratio": 0.5
    },
    "problem": {
     "mult": 1.01,
     "posts": 1,
-    "avg_ratio": 1.03
+    "avg_ratio": 1.06
    }
   }
  }
