@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-17T19:32+00:00",
- "built": "2026-10-17T19:43+00:00",
+ "built": "2026-10-17T21:46+00:00",
  "kpis": {
   "followers": 0,
   "followers_7d": 0,
@@ -531,17 +531,6 @@
  },
  "pipeline": [
   {
-   "time": "2026-10-17T19:00:00+01:00",
-   "local": "Sat 17 Oct, 19:00",
-   "format": "problem",
-   "theme": "builder-grade everything",
-   "room": "bedroom",
-   "hook": "i'm done with builder-grade everything! 😅",
-   "status": "Ready",
-   "retry": false,
-   "cost": 0.1755
-  },
-  {
    "time": "2026-10-18T12:00:00+01:00",
    "local": "Sun 18 Oct, 12:00",
    "format": "makeover",
@@ -565,6 +554,17 @@
   }
  ],
  "drafts": [
+  {
+   "sent_at": "2026-10-17T19:44:36+00:00",
+   "hook": "i'm done with builder-grade everything! 😅",
+   "format": "problem",
+   "theme": "builder-grade everything",
+   "room": "bedroom",
+   "cost": 0.1755,
+   "status": "In drafts",
+   "failed": false,
+   "error": null
+  },
   {
    "sent_at": "2026-10-17T11:13:24+00:00",
    "hook": "let's make this mediterranean ✍️",
@@ -677,10 +677,10 @@
   }
  ],
  "cost": {
-  "spent_30d_usd": 1.5,
-  "posts_30d": 9,
-  "per_post_usd": 0.167,
-  "month_estimate_usd": 10.01,
+  "spent_30d_usd": 1.68,
+  "posts_30d": 10,
+  "per_post_usd": 0.168,
+  "month_estimate_usd": 10.06,
   "rooms_in_library": 12
  },
  "schedule": {
