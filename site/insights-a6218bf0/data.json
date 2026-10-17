@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-16T20:00+00:00",
- "built": "2026-10-17T01:35+00:00",
+ "built": "2026-10-17T06:15+00:00",
  "kpis": {
   "followers": 0,
   "followers_7d": 0,
@@ -411,6 +411,17 @@
    "status": "Ready",
    "retry": false,
    "cost": 0.1755
+  },
+  {
+   "time": "2026-10-18T12:00:00+01:00",
+   "local": "Sun 18 Oct, 12:00",
+   "format": "makeover",
+   "theme": "quiet luxury",
+   "room": "living room",
+   "hook": "let's make this quiet luxury ✍️",
+   "status": "Making pictures",
+   "retry": false,
+   "cost": 0.1755
   }
  ],
  "drafts": [
@@ -519,7 +530,7 @@
   "posts_30d": 8,
   "per_post_usd": 0.166,
   "month_estimate_usd": 9.95,
-  "rooms_in_library": 10
+  "rooms_in_library": 11
  },
  "schedule": {
   "times": [
