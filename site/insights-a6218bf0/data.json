@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-17T11:01+00:00",
- "built": "2026-10-17T14:27+00:00",
+ "built": "2026-10-17T17:33+00:00",
  "kpis": {
   "followers": 0,
   "followers_7d": 0,
@@ -491,7 +491,7 @@
    "theme": "my boring rental",
    "room": "bedroom",
    "hook": "i'm done with my boring rental! 😅",
-   "status": "Making pictures",
+   "status": "Ready",
    "retry": false,
    "cost": 0.1755
   }
