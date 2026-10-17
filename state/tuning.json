@@ -1,28 +1,43 @@
 {
  "active": false,
- "scored_posts": 1,
+ "scored_posts": 2,
  "needed": 10,
  "explore": 0.25,
  "multipliers": {
   "theme": {
    "industrial": {
-    "mult": 1.0,
+    "mult": 0.99,
     "posts": 1,
-    "avg_ratio": 1.0
+    "avg_ratio": 0.97
+   },
+   "dark": {
+    "mult": 1.01,
+    "posts": 1,
+    "avg_ratio": 1.03
    }
   },
   "room": {
    "living room": {
-    "mult": 1.0,
+    "mult": 0.99,
     "posts": 1,
-    "avg_ratio": 1.0
+    "avg_ratio": 0.97
+   },
+   "bedroom": {
+    "mult": 1.01,
+    "posts": 1,
+    "avg_ratio": 1.03
    }
   },
   "format": {
    "makeover": {
-    "mult": 1.0,
+    "mult": 0.99,
     "posts": 1,
-    "avg_ratio": 1.0
+    "avg_ratio": 0.97
+   },
+   "problem": {
+    "mult": 1.01,
+    "posts": 1,
+    "avg_ratio": 1.03
    }
   }
  }
