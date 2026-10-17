@@ -141,5 +141,18 @@
   "used": [
    "2026-10-18"
   ]
+ },
+ {
+  "id": "lived-bedroom-rental-12",
+  "kind": "lived",
+  "room": "bedroom",
+  "problem": "rental",
+  "arch": "a sloped loft ceiling with a skylight above the bed",
+  "floor": "wide warm oak planks",
+  "file": "lived-bedroom-rental-12.jpg",
+  "created": "2026-10-18",
+  "used": [
+   "2026-10-18"
+  ]
  }
 ]

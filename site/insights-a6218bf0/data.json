@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-17T11:01+00:00",
- "built": "2026-10-17T11:12+00:00",
+ "built": "2026-10-17T14:27+00:00",
  "kpis": {
   "followers": 0,
   "followers_7d": 0,
@@ -463,17 +463,6 @@
  },
  "pipeline": [
   {
-   "time": "2026-10-17T12:00:00+01:00",
-   "local": "Sat 17 Oct, 12:00",
-   "format": "makeover",
-   "theme": "mediterranean",
-   "room": "kitchen",
-   "hook": "let's make this mediterranean ✍️",
-   "status": "Ready",
-   "retry": false,
-   "cost": 0.1755
-  },
-  {
    "time": "2026-10-17T19:00:00+01:00",
    "local": "Sat 17 Oct, 19:00",
    "format": "problem",
@@ -494,9 +483,31 @@
    "status": "Ready",
    "retry": false,
    "cost": 0.1755
+  },
+  {
+   "time": "2026-10-18T19:00:00+01:00",
+   "local": "Sun 18 Oct, 19:00",
+   "format": "problem",
+   "theme": "my boring rental",
+   "room": "bedroom",
+   "hook": "i'm done with my boring rental! 😅",
+   "status": "Making pictures",
+   "retry": false,
+   "cost": 0.1755
   }
  ],
  "drafts": [
+  {
+   "sent_at": "2026-10-17T11:13:24+00:00",
+   "hook": "let's make this mediterranean ✍️",
+   "format": "makeover",
+   "theme": "mediterranean",
+   "room": "kitchen",
+   "cost": 0.1755,
+   "status": "In drafts",
+   "failed": false,
+   "error": null
+  },
   {
    "sent_at": "2026-10-16T20:07:37+00:00",
    "hook": "i'm done with beige everything! 😅",
@@ -598,11 +609,11 @@
   }
  ],
  "cost": {
-  "spent_30d_usd": 1.33,
-  "posts_30d": 8,
-  "per_post_usd": 0.166,
-  "month_estimate_usd": 9.95,
-  "rooms_in_library": 11
+  "spent_30d_usd": 1.5,
+  "posts_30d": 9,
+  "per_post_usd": 0.167,
+  "month_estimate_usd": 10.01,
+  "rooms_in_library": 12
  },
  "schedule": {
   "times": [

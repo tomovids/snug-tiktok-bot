@@ -871,6 +871,75 @@
     "08.jpg"
    ],
    "ready_at": "2026-10-17T11:12:49+00:00"
+  },
+  {
+   "id": "2026-10-18-2",
+   "date": "2026-10-18",
+   "slot": 1,
+   "time": "2026-10-18T19:00:00+01:00",
+   "status": "waiting",
+   "plan": {
+    "format": "problem",
+    "room": "bedroom",
+    "theme": "rental",
+    "theme_name": "my boring rental",
+    "hook": "i'm done with my boring rental! 😅",
+    "hook_sub": "which would you choose?",
+    "slides": [
+     {
+      "text": "mustard and cobalt make it feel intentional",
+      "look": "A low walnut platform bed with a chunky saffron duvet, cobalt blue ceramic table lamps on vintage teak nightstands, a graphic Bauhaus art print, a layered rust kilim rug, and a tall rubber tree plant in a terracotta pot.",
+      "callout": ""
+     },
+     {
+      "text": "an ornate gold mirror fixes everything",
+      "look": "A wavy headboard upholstered in sage velvet, a faded Persian runner covering the floor, an oversized gilded floor mirror, brass mushroom lamps, linen bedding in washed lavender, and stacks of hardcover art books on a burled wood bench.",
+      "callout": ""
+     },
+     {
+      "text": "leaning hard into seventies olive tones",
+      "look": "A curved boucle bed frame layered with an olive green waffle blanket and terracotta velvet pillows, smoked glass globe pendants suspended from ceiling hooks, an abstract framed canvas, and an arch-shaped chrome floor lamp beside a ficus.",
+      "callout": ""
+     },
+     {
+      "text": "cherry red accents wake up the whole space",
+      "look": "Crisp white linen bedding with a bright cherry red wool throw, lilac bedside pedestals, a checkered wool rug in butter yellow and cream, framed botanical lithographs, and a modern chrome task lamp casting warm diffused light.",
+      "callout": ""
+     },
+     {
+      "text": "chocolate brown is secretly the best neutral",
+      "look": "A dark chocolate corduroy duvet paired with powder blue linen pillowcases, mid-century rosewood bedside tables, a pleated paper pendant shade, a large black-and-white architectural photo, and a dense geometric Berber rug grounding the bed.",
+      "callout": ""
+     },
+     {
+      "text": "botanical prints instantly distract from beige",
+      "look": "An oak spindle bed dressed in moss green washed cotton and William Morris print cushions, an emerald ceramic reading lamp, an oversized botanical gallery wall, a woven jute rug, and a trailing pothos in a speckled ceramic planter.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "A cane headboard paired with crisp terracotta and peach bedding, twin travertine cube nightstands with brushed brass lamps, a large colorful abstract canvas resting on an easel, and a plush cream Moroccan rug with navy diamonds.",
+    "cta_question": "renting doesn't mean boring. want to try? 📌",
+    "cta_line": "try it on your own room with Snug",
+    "title": "renter friendly glow up ✨",
+    "caption": "renter friendly glow up ✨\n\nwhich version would you bring into your rental? 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
+    "source": "ai",
+    "room_id": "lived-bedroom-rental-12",
+    "extra": {
+     "tuned": false
+    }
+   },
+   "room_file": "lived-bedroom-rental-12.jpg",
+   "keys": [
+    "2026-10-18-2/0",
+    "2026-10-18-2/1",
+    "2026-10-18-2/2",
+    "2026-10-18-2/3",
+    "2026-10-18-2/4",
+    "2026-10-18-2/5",
+    "2026-10-18-2/cta"
+   ],
+   "cost": 0.1755,
+   "batch": "batches/jav200bjtwpjhevq12vad5racpoe89il1y73"
   }
  ]
 }
