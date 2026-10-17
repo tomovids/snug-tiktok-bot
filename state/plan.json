@@ -797,7 +797,7 @@
    "date": "2026-10-18",
    "slot": 0,
    "time": "2026-10-18T12:00:00+01:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "makeover",
     "room": "living room",
@@ -809,32 +809,32 @@
      {
       "text": "earthy organic quiet luxury",
       "look": "A low curved cream boucle sectional sits on a thick ribbed wool rug, paired with a honed travertine coffee table. A sculptural alabaster table lamp, olive branches in an aged vessel, and a walnut credenza complete the space.",
-      "callout": ""
+      "callout": "obsessed with this curved boucle sofa"
      },
      {
       "text": "tailored architectural quiet luxury",
       "look": "A deep olive mohair sofa faces two sleek bleached oak armchairs around a solid marble plinth table. A minimalist blackened steel floor lamp casts warm light over oversized monochrome canvas art, with stacked design monographs and bronze bowls.",
-      "callout": ""
+      "callout": "obsessed with this olive green sofa"
      },
      {
       "text": "soft minimalist quiet luxury",
       "look": "An oatmeal linen sofa pairs with a low fluted oak coffee table over a sheared ivory wool rug. A brass pendant shade illuminates a curved ceramic table lamp, an abstract textured plaster artwork, and a lush fiddle leaf fig.",
-      "callout": ""
+      "callout": "need this fluted wood coffee table"
      },
      {
       "text": "rich collector quiet luxury",
       "look": "A cognac leather tuxedo sofa anchors the room beside a low burl wood credenza and an asymmetric stone table. An unlacquered brass pharmacy lamp shines over hand-thrown ceramic urns, framed antique sketches, and a silk-wool blend rug.",
-      "callout": ""
+      "callout": "obsessed with this cognac leather sofa"
      },
      {
       "text": "monochrome serene quiet luxury",
       "look": "An ivory curved settee rests on an ultra-plush berber rug beside dual stacked-travertine side tables. A paper lantern floor lamp creates a soft glow over heavy cashmere throws, a patinated bronze tray, and tall smoked glass vessels.",
-      "callout": ""
+      "callout": "obsessed with this curved boucle sofa"
      },
      {
       "text": "layered contemporary quiet luxury",
       "look": "A tailored off-white linen sectional is paired with two caramel velvet club chairs and a brushed oak coffee table. A floating brass halo chandelier hangs overhead, with sculpted sandstone bookends, linen pillows, and framed tonal lithographs.",
-      "callout": ""
+      "callout": "need this brass ring chandelier"
      }
     ],
     "cta_look": "A sand-toned velvet sofa sits on a textured jute rug beside a raw travertine block table. A sculptural ceramic table lamp adds warmth alongside oversized neutral oil paintings, a black ash console, and brass decorative objects.",
@@ -859,7 +859,18 @@
     "2026-10-18-1/cta"
    ],
    "cost": 0.1755,
-   "batch": "batches/1p0ysv84fegbilf2fgge37gywtjdsbpx9ijf"
+   "batch": "batches/1p0ysv84fegbilf2fgge37gywtjdsbpx9ijf",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-17T11:12:49+00:00"
   }
  ]
 }
