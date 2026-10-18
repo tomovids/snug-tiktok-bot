@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-18T11:30+00:00",
- "built": "2026-10-18T11:30+00:00",
+ "built": "2026-10-18T11:46+00:00",
  "kpis": {
   "followers": 1,
   "followers_7d": 1,
@@ -643,7 +643,7 @@
    "theme": "scandi",
    "room": "kitchen",
    "hook": "turning this into a scandi kitchen ✍️",
-   "status": "Making pictures",
+   "status": "Ready",
    "retry": false,
    "cost": 0.1755
   }

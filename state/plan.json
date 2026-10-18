@@ -957,7 +957,7 @@
    "date": "2026-10-19",
    "slot": 0,
    "time": "2026-10-19T12:00:00+01:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "makeover",
     "room": "kitchen",
@@ -969,32 +969,32 @@
      {
       "text": "pale wood minimalist scandi",
       "look": "pale ash flat-front cabinets with touch latches, white quartz countertops, ribbed ceramic tile splashback, woven rush barstools, brushed nickel cone pendants, glass canisters of grains, and a single sculptural olive branch in a matte ceramic vase.",
-      "callout": ""
+      "callout": "need this woven bar stool"
      },
      {
       "text": "hygge cottage scandi",
       "look": "soft cream shaker cabinets with oiled oak handles, butcher block counters, open pine shelves displaying speckled stoneware mugs, shearling-draped birch stools, pleated paper pendant lamps, and a small potted rosemary plant beside a striped linen runner.",
-      "callout": ""
+      "callout": "obsessed with this shearling stool"
      },
      {
       "text": "nordic graphic modern scandi",
       "look": "matte white slab cabinets with slim black bar pulls, terrazzo countertops with muted grey flecks, black spun-metal domed pendants, bentwood barstools, framed minimalist line art prints, and a tall potted plant in a woven seagrass basket.",
-      "callout": ""
+      "callout": "obsessed with this black pendant lamp"
      },
      {
       "text": "soft sage organic scandi",
       "look": "muted sage green cabinets with brushed brass knobs, honed white marble counters, fluted timber shelf styling with handmade ceramic bowls, blonde oak counter stools, frosted glass globe lights, and eucalyptus cuttings in a textured clay crock.",
-      "callout": ""
+      "callout": "need this wooden counter stool"
      },
      {
       "text": "warm contrast modern scandi",
       "look": "smoked oak lower cabinets paired with chalk-white uppers, slim black wire counter stools, ribbed glass pendant fixtures, white zellige splashback tiles, a black metal recipe stand, and fresh potted mint by an artisanal ceramic oil cruet.",
-      "callout": ""
+      "callout": "need this ribbed glass pendant"
      },
      {
       "text": "cozy textured neutral scandi",
       "look": "bleached birch cabinetry with recessed finger pulls, limestone countertops, layered wool runner with fringe, cane back counter stools, textured linen drum pendants, a collection of wooden cutting boards, and trailing greenery in a terracotta planter.",
-      "callout": ""
+      "callout": "need this striped runner rug"
      }
     ],
     "cta_look": "pale grey flat-panel cabinets with walnut cup pulls, white composite countertops, a matte white dome pendant, ash wood barstools with boucle cushions, a framed botanical print, and glass storage jars filled with pantry essentials.",
@@ -1019,7 +1019,18 @@
     "2026-10-19-1/cta"
    ],
    "cost": 0.1755,
-   "batch": "batches/18qqx585omye63kzcf7gsncw75sci9tgtw8c"
+   "batch": "batches/18qqx585omye63kzcf7gsncw75sci9tgtw8c",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-18T11:46:16+00:00"
   }
  ]
 }
