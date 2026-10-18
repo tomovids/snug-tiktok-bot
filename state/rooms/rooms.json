@@ -167,5 +167,18 @@
   "used": [
    "2026-10-19"
   ]
+ },
+ {
+  "id": "lived-livingroom-allwhite-14",
+  "kind": "lived",
+  "room": "living room",
+  "problem": "allwhite",
+  "arch": "high ceilings with original cornicing and a tall window on the right",
+  "floor": "pale polished concrete",
+  "file": "lived-livingroom-allwhite-14.jpg",
+  "created": "2026-10-19",
+  "used": [
+   "2026-10-19"
+  ]
  }
 ]

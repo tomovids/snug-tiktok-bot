@@ -1031,6 +1031,75 @@
     "08.jpg"
    ],
    "ready_at": "2026-10-18T11:46:16+00:00"
+  },
+  {
+   "id": "2026-10-19-2",
+   "date": "2026-10-19",
+   "slot": 1,
+   "time": "2026-10-19T19:00:00+01:00",
+   "status": "waiting",
+   "plan": {
+    "format": "problem",
+    "room": "living room",
+    "theme": "allwhite",
+    "theme_name": "all-white everything",
+    "hook": "i'm done with all-white everything! 😅",
+    "hook_sub": "which would you choose?",
+    "slides": [
+     {
+      "text": "terracotta and moss feel like home",
+      "look": "A cognac leather sofa topped with olive velvet throw pillows, a rust-toned vintage kilim rug, a walnut coffee table stacked with art books, a brass arched floor lamp, and a tall fiddle leaf fig in a ceramic pot.",
+      "callout": ""
+     },
+     {
+      "text": "electric cobalt wakes up the entire room",
+      "look": "A cobalt blue corduroy sofa with mustard fringe cushions, a bold checkered wool rug in saffron and cream, a chrome tubular coffee table, an oversized abstract primary art print, and a sculptural mushroom lamp.",
+      "callout": ""
+     },
+     {
+      "text": "deep plum and emerald add instant drama",
+      "look": "A deep emerald velvet sectional piled with aubergine and plum cushions, a moody botanical flatweave rug, a smoked glass coffee table with brass accents, amber glass table lamps, and a dramatic arched gilded floor mirror.",
+      "callout": ""
+     },
+     {
+      "text": "warm peach softens everything without being boring",
+      "look": "A curved dusty peach bouclé couch with marigold linen pillows, an ochre geometric Berber rug, a travertine round coffee table, layered warm canvas artwork in timber frames, and a glowing pleated fabric table lamp.",
+      "callout": ""
+     },
+     {
+      "text": "burgundy stripes bring cozy library energy",
+      "look": "A tailored sage green linen sofa with burgundy ticking stripe pillows, a faded Persian runner layered over woven jute, dark oak side tables, brass task lamps, and framed vintage botanical sketches.",
+      "callout": ""
+     },
+     {
+      "text": "lilac and butter yellow are so cheerful",
+      "look": "A butter yellow curved sofa paired with lilac linen throw cushions, an undulating wavy green wool rug, a glossy red lacquer accent side table, whimsical ceramic vases, and a polished aluminum table lamp.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "A caramel velvet settee with cerulean silk pillows, a rich Turkish medallion rug, a burl wood coffee table holding glossy design monographs, a fluted marble lamp, and leafy monsteras in terracotta planters.",
+    "cta_question": "ready to add some color to your space? 📌",
+    "cta_line": "snap your room and try it on Snug",
+    "title": "goodbye all-white 👋",
+    "caption": "goodbye all-white 👋\n\nwhich colorful restyle is your favorite? comment 1-6 below 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
+    "source": "ai",
+    "room_id": "lived-livingroom-allwhite-14",
+    "extra": {
+     "tuned": false
+    }
+   },
+   "room_file": "lived-livingroom-allwhite-14.jpg",
+   "keys": [
+    "2026-10-19-2/0",
+    "2026-10-19-2/1",
+    "2026-10-19-2/2",
+    "2026-10-19-2/3",
+    "2026-10-19-2/4",
+    "2026-10-19-2/5",
+    "2026-10-19-2/cta"
+   ],
+   "cost": 0.1755,
+   "batch": "batches/3jw9j09n7dqy803ulqdimyddt4d9z6m6myln"
   }
  ]
 }

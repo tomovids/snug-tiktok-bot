@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-18T11:30+00:00",
- "built": "2026-10-18T11:46+00:00",
+ "built": "2026-10-18T14:53+00:00",
  "kpis": {
   "followers": 1,
   "followers_7d": 1,
@@ -615,17 +615,6 @@
  },
  "pipeline": [
   {
-   "time": "2026-10-18T12:00:00+01:00",
-   "local": "Sun 18 Oct, 12:00",
-   "format": "makeover",
-   "theme": "quiet luxury",
-   "room": "living room",
-   "hook": "let's make this quiet luxury ✍️",
-   "status": "Ready",
-   "retry": false,
-   "cost": 0.1755
-  },
-  {
    "time": "2026-10-18T19:00:00+01:00",
    "local": "Sun 18 Oct, 19:00",
    "format": "problem",
@@ -646,9 +635,31 @@
    "status": "Ready",
    "retry": false,
    "cost": 0.1755
+  },
+  {
+   "time": "2026-10-19T19:00:00+01:00",
+   "local": "Mon 19 Oct, 19:00",
+   "format": "problem",
+   "theme": "all-white everything",
+   "room": "living room",
+   "hook": "i'm done with all-white everything! 😅",
+   "status": "Making pictures",
+   "retry": false,
+   "cost": 0.1755
   }
  ],
  "drafts": [
+  {
+   "sent_at": "2026-10-18T11:46:53+00:00",
+   "hook": "let's make this quiet luxury ✍️",
+   "format": "makeover",
+   "theme": "quiet luxury",
+   "room": "living room",
+   "cost": 0.1755,
+   "status": "In drafts",
+   "failed": false,
+   "error": null
+  },
   {
    "sent_at": "2026-10-17T19:44:36+00:00",
    "hook": "i'm done with builder-grade everything! 😅",
@@ -772,11 +783,11 @@
   }
  ],
  "cost": {
-  "spent_30d_usd": 1.68,
-  "posts_30d": 10,
+  "spent_30d_usd": 1.85,
+  "posts_30d": 11,
   "per_post_usd": 0.168,
-  "month_estimate_usd": 10.06,
-  "rooms_in_library": 13
+  "month_estimate_usd": 10.1,
+  "rooms_in_library": 14
  },
  "schedule": {
   "times": [
