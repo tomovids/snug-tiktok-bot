@@ -154,5 +154,18 @@
   "used": [
    "2026-10-18"
   ]
+ },
+ {
+  "id": "empty-kitchen-none-13",
+  "kind": "empty",
+  "room": "kitchen",
+  "problem": null,
+  "arch": "an L-shaped layout with a skylight",
+  "floor": "warm terracotta tiles",
+  "file": "empty-kitchen-none-13.jpg",
+  "created": "2026-10-19",
+  "used": [
+   "2026-10-19"
+  ]
  }
 ]
