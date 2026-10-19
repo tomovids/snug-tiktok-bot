@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-18T19:29+00:00",
- "built": "2026-10-19T01:47+00:00",
+ "built": "2026-10-19T06:58+00:00",
  "kpis": {
   "followers": 1,
   "followers_7d": 1,
@@ -652,6 +652,17 @@
    "status": "Ready",
    "retry": false,
    "cost": 0.1755
+  },
+  {
+   "time": "2026-10-20T12:00:00+01:00",
+   "local": "Tue 20 Oct, 12:00",
+   "format": "makeover",
+   "theme": "wabi-sabi",
+   "room": "bedroom",
+   "hook": "let's make this bedroom wabi-sabi ✍️",
+   "status": "Making pictures",
+   "retry": false,
+   "cost": 0.1755
   }
  ],
  "drafts": [
@@ -804,7 +815,7 @@
   "posts_30d": 12,
   "per_post_usd": 0.169,
   "month_estimate_usd": 10.14,
-  "rooms_in_library": 14
+  "rooms_in_library": 15
  },
  "schedule": {
   "times": [

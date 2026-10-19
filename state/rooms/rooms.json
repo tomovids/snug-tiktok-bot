@@ -180,5 +180,18 @@
   "used": [
    "2026-10-19"
   ]
+ },
+ {
+  "id": "empty-bedroom-none-15",
+  "kind": "empty",
+  "room": "bedroom",
+  "problem": null,
+  "arch": "a large window to the right of the bed wall",
+  "floor": "wide warm oak planks",
+  "file": "empty-bedroom-none-15.jpg",
+  "created": "2026-10-20",
+  "used": [
+   "2026-10-20"
+  ]
  }
 ]
