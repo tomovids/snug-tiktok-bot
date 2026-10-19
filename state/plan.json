@@ -1117,7 +1117,7 @@
    "date": "2026-10-20",
    "slot": 0,
    "time": "2026-10-20T12:00:00+01:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "makeover",
     "room": "bedroom",
@@ -1129,32 +1129,32 @@
      {
       "text": "rustic earth wabi-sabi",
       "look": "A low reclaimed elm platform bed is dressed in wrinkled tobacco linen sheets. Weathered wood stump nightstands hold textured ceramic pinch pots, paired with a rough jute rug and an oversized paper lantern pendant casting a diffused amber glow.",
-      "callout": ""
+      "callout": "obsessed with this paper globe pendant"
      },
      {
       "text": "sculptural modern wabi-sabi",
       "look": "A low-slung oak bed frame paired with ivory boucle throw pillows. Asymmetrical black terracotta bedside lamps sit on uneven travertine pedestals, grounded by a nubby wool loop rug, an unglazed stoneware floor vase, and raw canvas art.",
-      "callout": ""
+      "callout": "need this oak platform bed"
      },
      {
       "text": "soft textural wabi-sabi",
       "look": "A bleached pine spindle bed styled with layered oatmeal waffle-weave quilts and raw-hem linen pillows. Ribbed ceramic table lamps glow gently on round carved oak nightstands, with a thick berber rug and dried seed pod stems in a jug.",
-      "callout": ""
+      "callout": "love this light wood spindle bed"
      },
      {
       "text": "monastic minimal wabi-sabi",
       "look": "A simple natural ash futon frame with crisp chalk-white flax bedding and a single raw-edge linen runner. A dark stained timber bench serves as a low bedside surface, holding stacked art books, one cast-iron tea vessel, and an Akari lamp.",
-      "callout": ""
+      "callout": "need this wooden platform bed"
      },
      {
       "text": "weathered vintage wabi-sabi",
       "look": "An antique walnut daybed layered with faded indigo hemp throws and distressed linen bolster pillows. Salvaged grain-measure barrels act as nightstands beneath a crackled earthenware table lamp, accompanied by a distressed flatweave runner and a framed calligraphy scroll.",
-      "callout": ""
+      "callout": "need this wooden daybed"
      },
      {
       "text": "botanical calm wabi-sabi",
       "look": "A low platform bed in warm cedar with mossy sage linen covers. A hand-knotted abaca rug sits underfoot, accompanied by a live-edge side stool, an unpolished brass reading task light, and a potted bonsai tree in a rough clay planter.",
-      "callout": ""
+      "callout": "love this wood bed frame"
      }
     ],
     "cta_look": "A curved oak headboard frame draped in unbleached cotton bedding and slate grey cushions. Flanked by textured volcanic stone pedestals with washi paper bedside lamps, anchored by an undyed wool runner and a sprawling ceramic branch bowl.",
@@ -1179,7 +1179,87 @@
     "2026-10-20-1/cta"
    ],
    "cost": 0.1755,
-   "batch": "batches/2iotvr1eln1ceiwb856f3d4yxv95efvssdkp"
+   "batch": "batches/2iotvr1eln1ceiwb856f3d4yxv95efvssdkp",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-19T15:01:06+00:00"
+  },
+  {
+   "id": "2026-10-20-2",
+   "date": "2026-10-20",
+   "slot": 1,
+   "time": "2026-10-20T19:00:00+01:00",
+   "status": "waiting",
+   "plan": {
+    "format": "problem",
+    "room": "living room",
+    "theme": "dark",
+    "theme_name": "my dark, dated room",
+    "hook": "i'm done with this gloomy room! 😅",
+    "hook_sub": "which would you choose?",
+    "slides": [
+     {
+      "text": "citrus tones make everything feel instantly lighter",
+      "look": "A mustard velvet sectional layered with tangerine linen pillows, a low walnut coffee table, a cream geometric wool rug, stacked art books, and a tall brushed-brass floor lamp beside an oversized fiddle-leaf fig in a terracotta pot.",
+      "callout": ""
+     },
+     {
+      "text": "soft sage and blush feels like a deep breath",
+      "look": "An oatmeal bouclé sofa accented with dusty rose cushions, an oval travertine coffee table, a sage green jute rug, an arch floor lamp with a pleated shade, botanical gallery prints, and a tall potted olive tree.",
+      "callout": ""
+     },
+     {
+      "text": "cobalt blue turns up the energy",
+      "look": "A royal blue low-profile sofa, a glossy chrome coffee table, a checkered black-and-ivory rug, colorful abstract canvas art, a red metal mushroom table lamp, and ceramic sculptural vases filled with eucalyptus branches on a natural oak sideboard.",
+      "callout": ""
+     },
+     {
+      "text": "warm rust tones bring the cozy glow",
+      "look": "A rust linen three-seater sofa with olive corduroy throw pillows, a round fluted oak coffee table, an amber glass globe floor lamp, a woven distressed kilim rug, and framed landscape prints resting on a sleek credenza.",
+      "callout": ""
+     },
+     {
+      "text": "lilac and butter yellow belong together",
+      "look": "A pale lilac curved sofa paired with buttercup yellow velvet cushions, a wavy glass coffee table, a wavy pastel border rug, a chrome dome lamp, stacked indie magazines, and vibrant floral art in thin silver frames.",
+      "callout": ""
+     },
+     {
+      "text": "deep emerald gives that collected parlor feel",
+      "look": "A deep emerald velvet tufted sofa with gold satin cushions, a smoked glass and brass coffee table, an antique-inspired faded Persian runner, an ornate gilded mirror leaning behind a sculptural paper floor lamp, and brass candlesticks.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "A soft peach sectional piled with powder blue wool throws, a birch ply coffee table holding ceramic mugs, a braided off-white wool rug, framed minimalist sketches, and an airy paper lantern pendant lamp.",
+    "cta_question": "want to bring your room back to life?",
+    "cta_line": "try your Pinterest inspo on Snug 📌",
+    "title": "goodbye dark room 👋",
+    "caption": "goodbye dark room 👋\n\nwhich one is brightening up your day? tell me in the comments 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
+    "source": "ai",
+    "room_id": "lived-livingroom-dark-16",
+    "extra": {
+     "tuned": false
+    }
+   },
+   "room_file": "lived-livingroom-dark-16.jpg",
+   "keys": [
+    "2026-10-20-2/0",
+    "2026-10-20-2/1",
+    "2026-10-20-2/2",
+    "2026-10-20-2/3",
+    "2026-10-20-2/4",
+    "2026-10-20-2/5",
+    "2026-10-20-2/cta"
+   ],
+   "cost": 0.1755,
+   "batch": "batches/mo61oss9ktjtv4c03zdnutztgdau62koegh0"
   }
  ]
 }

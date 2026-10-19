@@ -193,5 +193,18 @@
   "used": [
    "2026-10-20"
   ]
+ },
+ {
+  "id": "lived-livingroom-dark-16",
+  "kind": "lived",
+  "room": "living room",
+  "problem": "dark",
+  "arch": "French doors to a small balcony on the left",
+  "floor": "wide warm oak planks",
+  "file": "lived-livingroom-dark-16.jpg",
+  "created": "2026-10-20",
+  "used": [
+   "2026-10-20"
+  ]
  }
 ]

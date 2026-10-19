@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-19T13:46+00:00",
- "built": "2026-10-19T13:46+00:00",
+ "built": "2026-10-19T15:01+00:00",
  "kpis": {
   "followers": 2,
   "followers_7d": 2,
@@ -760,6 +760,17 @@
    "theme": "wabi-sabi",
    "room": "bedroom",
    "hook": "let's make this bedroom wabi-sabi ✍️",
+   "status": "Ready",
+   "retry": false,
+   "cost": 0.1755
+  },
+  {
+   "time": "2026-10-20T19:00:00+01:00",
+   "local": "Tue 20 Oct, 19:00",
+   "format": "problem",
+   "theme": "my dark, dated room",
+   "room": "living room",
+   "hook": "i'm done with this gloomy room! 😅",
    "status": "Making pictures",
    "retry": false,
    "cost": 0.1755
@@ -915,7 +926,7 @@
   "posts_30d": 12,
   "per_post_usd": 0.169,
   "month_estimate_usd": 10.14,
-  "rooms_in_library": 15
+  "rooms_in_library": 16
  },
  "schedule": {
   "times": [
