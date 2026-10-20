@@ -524,6 +524,41 @@
    "publish_id": "p_inbox_url~v2.7698482384274196502",
    "status": "SEND_TO_USER_INBOX",
    "sent_at": "2026-10-19T20:45:03+00:00"
+  },
+  {
+   "date": "2026-10-20",
+   "slot": 0,
+   "id": "2026-10-20-1",
+   "format": "makeover",
+   "theme": "wabisabi",
+   "theme_name": "wabi-sabi",
+   "room": "bedroom",
+   "room_id": "empty-bedroom-none-15",
+   "hook": "let's make this bedroom wabi-sabi ✍️",
+   "texts": [
+    "rustic earth wabi-sabi",
+    "sculptural modern wabi-sabi",
+    "soft textural wabi-sabi",
+    "monastic minimal wabi-sabi",
+    "weathered vintage wabi-sabi",
+    "botanical calm wabi-sabi"
+   ],
+   "caption": "wabi-sabi transformation 📌\n\nwhich wabi-sabi vibe feels most peaceful to you? comment your pick 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #wabisabi #snug",
+   "source": "ai",
+   "cost": 0.1755,
+   "urls": [
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-20-1/01.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-20-1/02.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-20-1/03.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-20-1/04.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-20-1/05.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-20-1/06.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-20-1/07.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-20-1/08.jpg"
+   ],
+   "publish_id": "p_inbox_url~v2.7698771167372625942",
+   "status": "SEND_TO_USER_INBOX",
+   "sent_at": "2026-10-20T15:25:10+00:00"
   }
  ]
 }
