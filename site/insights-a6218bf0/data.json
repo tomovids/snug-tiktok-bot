@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-20T11:55+00:00",
- "built": "2026-10-20T11:55+00:00",
+ "built": "2026-10-20T15:24+00:00",
  "kpis": {
   "followers": 2,
   "followers_7d": 2,
@@ -774,6 +774,17 @@
    "status": "Ready",
    "retry": false,
    "cost": 0.1755
+  },
+  {
+   "time": "2026-10-21T19:00:00+01:00",
+   "local": "Wed 21 Oct, 19:00",
+   "format": "problem",
+   "theme": "my dorm room looking like a hostel",
+   "room": "bedroom",
+   "hook": "done with my dorm looking like a hostel! 😅",
+   "status": "Making pictures",
+   "retry": false,
+   "cost": 0.1755
   }
  ],
  "drafts": [
@@ -948,7 +959,7 @@
   "posts_30d": 14,
   "per_post_usd": 0.17,
   "month_estimate_usd": 10.2,
-  "rooms_in_library": 17
+  "rooms_in_library": 18
  },
  "schedule": {
   "times": [

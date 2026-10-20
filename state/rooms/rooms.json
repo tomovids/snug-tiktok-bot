@@ -219,5 +219,18 @@
   "used": [
    "2026-10-21"
   ]
+ },
+ {
+  "id": "lived-bedroom-studentroom-18",
+  "kind": "lived",
+  "room": "bedroom",
+  "problem": "studentroom",
+  "arch": "a big arched window on the left wall",
+  "floor": "light oak herringbone",
+  "file": "lived-bedroom-studentroom-18.jpg",
+  "created": "2026-10-21",
+  "used": [
+   "2026-10-21"
+  ]
  }
 ]
