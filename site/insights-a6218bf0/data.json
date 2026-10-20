@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-20T11:55+00:00",
- "built": "2026-10-20T15:24+00:00",
+ "built": "2026-10-20T19:38+00:00",
  "kpis": {
   "followers": 2,
   "followers_7d": 2,
@@ -743,17 +743,6 @@
  },
  "pipeline": [
   {
-   "time": "2026-10-20T12:00:00+01:00",
-   "local": "Tue 20 Oct, 12:00",
-   "format": "makeover",
-   "theme": "wabi-sabi",
-   "room": "bedroom",
-   "hook": "let's make this bedroom wabi-sabi ✍️",
-   "status": "Ready",
-   "retry": false,
-   "cost": 0.1755
-  },
-  {
    "time": "2026-10-20T19:00:00+01:00",
    "local": "Tue 20 Oct, 19:00",
    "format": "problem",
@@ -782,12 +771,23 @@
    "theme": "my dorm room looking like a hostel",
    "room": "bedroom",
    "hook": "done with my dorm looking like a hostel! 😅",
-   "status": "Making pictures",
+   "status": "Ready",
    "retry": false,
    "cost": 0.1755
   }
  ],
  "drafts": [
+  {
+   "sent_at": "2026-10-20T15:25:10+00:00",
+   "hook": "let's make this bedroom wabi-sabi ✍️",
+   "format": "makeover",
+   "theme": "wabi-sabi",
+   "room": "bedroom",
+   "cost": 0.1755,
+   "status": "In drafts",
+   "failed": false,
+   "error": null
+  },
   {
    "sent_at": "2026-10-19T20:45:03+00:00",
    "hook": "i'm done with all-white everything! 😅",
@@ -955,10 +955,10 @@
   }
  ],
  "cost": {
-  "spent_30d_usd": 2.38,
-  "posts_30d": 14,
+  "spent_30d_usd": 2.55,
+  "posts_30d": 15,
   "per_post_usd": 0.17,
-  "month_estimate_usd": 10.2,
+  "month_estimate_usd": 10.22,
   "rooms_in_library": 18
  },
  "schedule": {

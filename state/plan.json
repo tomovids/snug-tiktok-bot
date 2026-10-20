@@ -1,84 +1,6 @@
 {
  "posts": [
   {
-   "id": "2026-10-13-2",
-   "date": "2026-10-13",
-   "slot": 1,
-   "time": "2026-10-13T19:00:00+01:00",
-   "status": "sent",
-   "plan": {
-    "format": "problem",
-    "room": "bedroom",
-    "theme": "dark",
-    "theme_name": "my dark, dated room",
-    "hook": "i'm done with my dark, dated room! 😅",
-    "hook_sub": "which would you choose?",
-    "slides": [
-     {
-      "text": "butter yellow keeps mornings sunny",
-      "look": "A whitewashed oak bed dressed in sky-blue linen and buttercup quilts, twin paper-lantern pendants, a scalloped jute rug, a pine bedside stool holding stacked ceramic mugs, and a tall leafy fiddle-leaf fig in a terracotta pot.",
-      "callout": ""
-     },
-     {
-      "text": "persimmon velvet solves everything",
-      "look": "A warm walnut platform bed piled with persimmon velvet cushions, a moss-green wool throw, pleated ceramic table lamps, framed abstract citrus prints leaning on a dresser, and a plush geometric checkered rug runner.",
-      "callout": ""
-     },
-     {
-      "text": "pistachio with lavender feels like spring",
-      "look": "A pale beechwood spindle bed layered with lavender cotton sheets, a pistachio quilted comforter, chrome mushroom bedside lamps, a whimsical wavy floor mirror, and colorful graphic art prints resting on a low wooden bench.",
-      "callout": ""
-     },
-     {
-      "text": "cobalt brings instant energy",
-      "look": "An upholstered terracotta headboard paired with crisp white bedding, a cobalt blue wool blanket, brass bedside task lamps, a colorful striped dhurrie rug, and a trailing pothos plant over a stacked art book tower.",
-      "callout": ""
-     },
-     {
-      "text": "deep plum gives peach real depth",
-      "look": "A woven cane bed topped with peach linen sheets and a plum mohair throw, frosted globe nightstand lamps, a framed botanical print propped on a low dresser, and a round braided hemp rug beside a potted rubber tree.",
-      "callout": ""
-     },
-     {
-      "text": "a tiny pop of cherry red",
-      "look": "A minimalist light ash bed with mint green duvets, a glossy cherry-red lacquer nightstand, chrome gooseneck reading lamps, bold primary-colored framed exhibition posters, and a cream plush shag rug underneath.",
-      "callout": ""
-     }
-    ],
-    "cta_look": "A honey-toned birch bed frame layered with marigold and ivory bedding, an arched full-length brass mirror, sculptural ceramic vases filled with dried eucalyptus, and a flatweave pastel Turkish rug beneath.",
-    "cta_question": "want to bring your room back to life? ✨",
-    "cta_line": "see your own room in any style with Snug",
-    "title": "goodbye dark 👋",
-    "caption": "goodbye dark 👋\n\nwhich bedroom palette would you wake up to? comment your pick 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
-    "source": "ai",
-    "room_id": "lived-bedroom-dark-3",
-    "extra": {}
-   },
-   "room_file": "lived-bedroom-dark-3.jpg",
-   "keys": [
-    "2026-10-13-2/0",
-    "2026-10-13-2/1",
-    "2026-10-13-2/2",
-    "2026-10-13-2/3",
-    "2026-10-13-2/4",
-    "2026-10-13-2/5",
-    "2026-10-13-2/cta"
-   ],
-   "cost": 0.1755,
-   "batch": "batches/etx1baxyp2kf50xndb9x5fnuw1t339pcn6z9",
-   "slides": [
-    "01.jpg",
-    "02.jpg",
-    "03.jpg",
-    "04.jpg",
-    "05.jpg",
-    "06.jpg",
-    "07.jpg",
-    "08.jpg"
-   ],
-   "ready_at": "2026-10-13T12:48:06+00:00"
-  },
-  {
    "id": "2026-10-14-1",
    "date": "2026-10-14",
    "slot": 0,
@@ -1279,7 +1201,7 @@
    "date": "2026-10-21",
    "slot": 1,
    "time": "2026-10-21T19:00:00+01:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "problem",
     "room": "bedroom",
@@ -1341,7 +1263,18 @@
     "2026-10-21-2/cta"
    ],
    "cost": 0.1755,
-   "batch": "batches/9fnuqmwuexmhwzt8pho7lb02o8qkvhanewm0"
+   "batch": "batches/9fnuqmwuexmhwzt8pho7lb02o8qkvhanewm0",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-20T19:38:30+00:00"
   }
  ]
 }
