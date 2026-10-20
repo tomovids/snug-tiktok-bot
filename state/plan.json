@@ -1277,7 +1277,7 @@
    "date": "2026-10-21",
    "slot": 0,
    "time": "2026-10-21T12:00:00+01:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "makeover",
     "room": "living room",
@@ -1289,32 +1289,32 @@
      {
       "text": "earthy bohemian 70s retro",
       "look": "A curved low-slung sofa in rust corduroy, paired with a chunky cream shag rug and a smoked glass tiered coffee table. A brass arc floor lamp arches overhead, beside trailing pothos on a tiered plant stand and woven floor cushions.",
-      "callout": ""
+      "callout": "obsessed with this rust velvet sofa"
      },
      {
       "text": "sun-drenched mustard 70s retro",
       "look": "A curved mustard velvet sectional anchored by a circular brown wool rug. A burled wood credenza displays vintage ceramic pottery and stacked art books, while an amber glass mushroom lamp casts a warm glow next to a tall fiddle-leaf fig.",
-      "callout": ""
+      "callout": "obsessed with this mustard curved sofa"
      },
      {
       "text": "mellow lounge 70s retro",
       "look": "A modular deep brown leather sofa piled with burnt orange boucle pillows, centered around a chrome and smoked glass cocktail table. An oversized arched floor mirror leans nearby, lit by an orange fiberglass table lamp.",
-      "callout": ""
+      "callout": "need this brown leather sectional"
      },
      {
       "text": "eclectic funk 70s retro",
       "look": "A mossy olive green velvet modular sofa sits atop a geometric patterned flatweave rug. A chrome space-age globe lamp illuminates a travertine side table, stacked vintage vinyl records, and vibrant framed abstract silk screen prints.",
-      "callout": ""
+      "callout": "obsessed with this olive green sofa"
      },
      {
       "text": "warm terracotta 70s retro",
       "look": "A biscuit-tufted caramel leather sofa paired with a chocolate brown high-pile rug and round rattan stools. A sculptural chrome floor lamp curves overhead, beside framed vintage exhibition prints and a ceramic vase filled with dried palm fronds.",
-      "callout": ""
+      "callout": "need this cognac leather sofa"
      },
      {
       "text": "amber sunset 70s retro",
       "look": "A sculptural terracotta chaise lounge sits alongside an oversized brass arc lamp and a fluted oak credenza. A warm ochre and cream checkerboard rug grounds the space, topped with a travertine coffee table and stacked architectural monographs.",
-      "callout": ""
+      "callout": "obsessed with this checkered rug"
      }
     ],
     "cta_look": "A deeply cushioned rust velvet pit sectional surrounds a smoked mirror cocktail table on a plush beige shag rug. A brushed brass mushroom table lamp and an olive green ceramic vase with monstera leaves complete the corner.",
@@ -1339,7 +1339,18 @@
     "2026-10-21-1/cta"
    ],
    "cost": 0.1755,
-   "batch": "batches/8k464696n9n5x0gkqq5eca57y4rjeitmhtcb"
+   "batch": "batches/8k464696n9n5x0gkqq5eca57y4rjeitmhtcb",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-20T10:27:39+00:00"
   }
  ]
 }
