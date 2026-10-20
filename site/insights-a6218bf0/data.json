@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-19T21:36+00:00",
- "built": "2026-10-19T23:57+00:00",
+ "built": "2026-10-20T05:22+00:00",
  "kpis": {
   "followers": 2,
   "followers_7d": 2,
@@ -752,6 +752,17 @@
    "status": "Ready",
    "retry": false,
    "cost": 0.1755
+  },
+  {
+   "time": "2026-10-21T12:00:00+01:00",
+   "local": "Wed 21 Oct, 12:00",
+   "format": "makeover",
+   "theme": "70s retro",
+   "room": "living room",
+   "hook": "let's make this 70s retro ✍️",
+   "status": "Making pictures",
+   "retry": false,
+   "cost": 0.1755
   }
  ],
  "drafts": [
@@ -926,7 +937,7 @@
   "posts_30d": 14,
   "per_post_usd": 0.17,
   "month_estimate_usd": 10.2,
-  "rooms_in_library": 16
+  "rooms_in_library": 17
  },
  "schedule": {
   "times": [
