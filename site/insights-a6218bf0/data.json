@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-21T12:09+00:00",
- "built": "2026-10-21T12:28+00:00",
+ "built": "2026-10-21T17:41+00:00",
  "kpis": {
   "followers": 2,
   "followers_7d": 2,
@@ -822,17 +822,6 @@
  },
  "pipeline": [
   {
-   "time": "2026-10-21T12:00:00+01:00",
-   "local": "Wed 21 Oct, 12:00",
-   "format": "makeover",
-   "theme": "70s retro",
-   "room": "living room",
-   "hook": "let's make this 70s retro ✍️",
-   "status": "Ready",
-   "retry": false,
-   "cost": 0.1755
-  },
-  {
    "time": "2026-10-21T19:00:00+01:00",
    "local": "Wed 21 Oct, 19:00",
    "format": "problem",
@@ -861,12 +850,23 @@
    "theme": "grey and minimalism",
    "room": "living room",
    "hook": "so tired of cold grey minimalism! 😅",
-   "status": "Making pictures",
+   "status": "Ready",
    "retry": false,
    "cost": 0.1755
   }
  ],
  "drafts": [
+  {
+   "sent_at": "2026-10-21T12:29:55+00:00",
+   "hook": "let's make this 70s retro ✍️",
+   "format": "makeover",
+   "theme": "70s retro",
+   "room": "living room",
+   "cost": 0.1755,
+   "status": "In drafts",
+   "failed": false,
+   "error": null
+  },
   {
    "sent_at": "2026-10-20T19:39:16+00:00",
    "hook": "i'm done with this gloomy room! 😅",
@@ -1056,10 +1056,10 @@
   }
  ],
  "cost": {
-  "spent_30d_usd": 2.73,
-  "posts_30d": 16,
+  "spent_30d_usd": 2.91,
+  "posts_30d": 17,
   "per_post_usd": 0.171,
-  "month_estimate_usd": 10.24,
+  "month_estimate_usd": 10.25,
   "rooms_in_library": 20
  },
  "schedule": {
