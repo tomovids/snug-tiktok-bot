@@ -245,5 +245,18 @@
   "used": [
    "2026-10-22"
   ]
+ },
+ {
+  "id": "lived-livingroom-grey-20",
+  "kind": "lived",
+  "room": "living room",
+  "problem": "grey",
+  "arch": "French doors to a small balcony on the left",
+  "floor": "light oak herringbone",
+  "file": "lived-livingroom-grey-20.jpg",
+  "created": "2026-10-22",
+  "used": [
+   "2026-10-22"
+  ]
  }
 ]

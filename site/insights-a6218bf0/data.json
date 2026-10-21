@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-21T12:09+00:00",
- "built": "2026-10-21T12:09+00:00",
+ "built": "2026-10-21T12:28+00:00",
  "kpis": {
   "followers": 2,
   "followers_7d": 2,
@@ -850,6 +850,17 @@
    "theme": "japandi",
    "room": "kitchen",
    "hook": "let's make this japandi ✍️",
+   "status": "Ready",
+   "retry": false,
+   "cost": 0.1755
+  },
+  {
+   "time": "2026-10-22T19:00:00+01:00",
+   "local": "Thu 22 Oct, 19:00",
+   "format": "problem",
+   "theme": "grey and minimalism",
+   "room": "living room",
+   "hook": "so tired of cold grey minimalism! 😅",
    "status": "Making pictures",
    "retry": false,
    "cost": 0.1755
@@ -1049,7 +1060,7 @@
   "posts_30d": 16,
   "per_post_usd": 0.171,
   "month_estimate_usd": 10.24,
-  "rooms_in_library": 19
+  "rooms_in_library": 20
  },
  "schedule": {
   "times": [

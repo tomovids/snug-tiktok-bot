@@ -1,84 +1,6 @@
 {
  "posts": [
   {
-   "id": "2026-10-14-1",
-   "date": "2026-10-14",
-   "slot": 0,
-   "time": "2026-10-14T12:00:00+01:00",
-   "status": "sent",
-   "plan": {
-    "format": "makeover",
-    "room": "kitchen",
-    "theme": "californiacasual",
-    "theme_name": "california casual",
-    "hook": "let's make this kitchen california casual ✍️",
-    "hook_sub": "(inspired)",
-    "slides": [
-     {
-      "text": "sun-bleached earthy california casual",
-      "look": "Bleached white oak cabinets with unlacquered brass pulls, honed travertine counters, and woven rattan counter stools. A trailing pothos hangs over white ceramic crockware, beside a vintage faded runner and ribbed clay pendant lights.",
-      "callout": ""
-     },
-     {
-      "text": "breezy coastal california casual",
-      "look": "Pale seafoam shaker cabinets paired with raw wood open shelves and white zellige tile splashbacks. Linen slipcovered bar stools sit at the marble island under woven rope pendants, styled with olive branches in a sandy ceramic jug.",
-      "callout": "obsessed with this woven pendant light"
-     },
-     {
-      "text": "warm organic california casual",
-      "look": "Rich caramel oak lower cabinetry with matte black latches, fluted plaster island accents, and saddle leather stools. A massive fiddle-leaf fig stands beside aged brass dome lights, a neutral jute runner, and handcrafted stoneware bowls.",
-      "callout": "obsessed with this brass pendant"
-     },
-     {
-      "text": "laid-back modern california casual",
-      "look": "Flat-panel matte sand cabinets, soapstone worktops, and black cane stools. Glass globe pendants drop from above, illuminating a terracotta fruit bowl, stacked handmade speckled mugs on walnut floating shelves, and an oversized monstera.",
-      "callout": "obsessed with this glass pendant light"
-     },
-     {
-      "text": "sun-drenched vintage california casual",
-      "look": "Warm putty painted cabinets with aged bronze knobs and butcher block island tops. A muted distressed Turkish runner sits between woven rush seating, linen tea towels, a brass articulating sconce, and fresh citrus displayed in pedestal bowls.",
-      "callout": "love this vintage runner rug"
-     },
-     {
-      "text": "serene minimal california casual",
-      "look": "Pale ash cabinets with cutout handles, seamless white quartz counters, and slender blonde oak stools. A pair of oversized paper lantern pendants glow above eucalyptus clippings in a rough concrete vase and a simple woven runner.",
-      "callout": "obsessed with this paper lantern pendant"
-     }
-    ],
-    "cta_look": "Warm taupe cabinets paired with fluted marble counters, paper cord counter stools, and woven seagrass shades on brass pendants. An olive tree in an antique terracotta urn sits near stacked linen napkins and artisanal stoneware.",
-    "cta_question": "Have any Pinterest inspo you want to try? 📌",
-    "cta_line": "see your own room in any style with Snug",
-    "title": "california casual kitchen 📌",
-    "caption": "california casual kitchen 📌\n\nwhich version feels most like home to you? let me know below 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #californiacasual #snug",
-    "source": "ai",
-    "room_id": "empty-kitchen-none-4",
-    "extra": {}
-   },
-   "room_file": "empty-kitchen-none-4.jpg",
-   "keys": [
-    "2026-10-14-1/0",
-    "2026-10-14-1/1",
-    "2026-10-14-1/2",
-    "2026-10-14-1/3",
-    "2026-10-14-1/4",
-    "2026-10-14-1/5",
-    "2026-10-14-1/cta"
-   ],
-   "cost": 0.1755,
-   "batch": "batches/etx1baxyp2kf50xndb9x5fnuw1t339pcn6z9",
-   "slides": [
-    "01.jpg",
-    "02.jpg",
-    "03.jpg",
-    "04.jpg",
-    "05.jpg",
-    "06.jpg",
-    "07.jpg",
-    "08.jpg"
-   ],
-   "ready_at": "2026-10-13T12:48:48+00:00"
-  },
-  {
    "id": "2026-10-14-2",
    "date": "2026-10-14",
    "slot": 1,
@@ -1281,7 +1203,7 @@
    "date": "2026-10-22",
    "slot": 0,
    "time": "2026-10-22T12:00:00+01:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "makeover",
     "room": "kitchen",
@@ -1293,32 +1215,32 @@
      {
       "text": "raw earthy japandi",
       "look": "Bleached oak flat-front cabinets with invisible notch pulls, honed limestone counters, and ribbed ceramic splashback. Two sculptural paper lantern pendants hang over dark ash barstools, paired with stacked stoneware bowls and a single dried branch in an unglazed vessel.",
-      "callout": ""
+      "callout": "obsessed with this paper pendant"
      },
      {
       "text": "soft organic japandi",
       "look": "Matte sand cabinets with subtle brass finger pulls, rounded quartz countertops, and cream ceramic backsplash tiles. Slender rattan-back counter stools tuck beneath the island beneath an oversized woven washi paper dome, styled with hand-pinched tea cups and a linen runner.",
-      "callout": ""
+      "callout": "obsessed with this woven pendant light"
      },
      {
       "text": "monochrome minimal japandi",
       "look": "Matte charcoal cabinet fronts paired with pale white oak worktops and a thin basalt splashback. Curved black bentwood stools sit under sleek suspended bamboo cylinder pendants, accented by matte black iron canisters and white speckled ceramic bowls on open shelving.",
-      "callout": ""
+      "callout": "love this black cane stool"
      },
      {
       "text": "warm timber japandi",
       "look": "Rich honey oak slab cabinets, beige travertine worktops, and glossy beige zellige tiles. Low-backed woven rush counter stools rest by the counter, illuminated by a pleated rice paper shade, with a carved wooden matcha bowl and small olive branch.",
-      "callout": ""
+      "callout": "obsessed with this paper pendant light"
      },
      {
       "text": "serene rustic japandi",
       "look": "Muted sage-grey cabinetry with dark walnut open shelves, white speckled terrazzo counters, and handmade chalk-white splashback. Weathered teak stools pair with a duo of ribbed glass globe pendants, accompanied by heavy wabi-sabi clay jars and natural linen tea towels.",
-      "callout": ""
+      "callout": "need this rustic wooden stool"
      },
      {
       "text": "sculptural modern japandi",
       "look": "Pale ash cabinets with hidden edge pulls, warm grey soapstone counters, and vertical fluted tile splashback. Minimalist cast iron counter stools sit under an asymmetrical Akari-inspired pendant light, styled with dark stoneware teapots and a textured ivory ceramic vase.",
-      "callout": ""
+      "callout": "love this pleated pendant light"
      }
     ],
     "cta_look": "Smoked oak cabinets with brushed brass edge pulls, honed ivory composite counters, and ivory tile splashback. Black spindle counter stools sit beneath an airy silk lantern pendant, styled with coarse ceramic planters and rough stone serving boards.",
@@ -1343,7 +1265,87 @@
     "2026-10-22-1/cta"
    ],
    "cost": 0.1755,
-   "batch": "batches/mav6q7wxskqesckq2hyb4wy91d3ug5jh4wu5"
+   "batch": "batches/mav6q7wxskqesckq2hyb4wy91d3ug5jh4wu5",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-21T12:28:31+00:00"
+  },
+  {
+   "id": "2026-10-22-2",
+   "date": "2026-10-22",
+   "slot": 1,
+   "time": "2026-10-22T19:00:00+01:00",
+   "status": "waiting",
+   "plan": {
+    "format": "problem",
+    "room": "living room",
+    "theme": "grey",
+    "theme_name": "grey and minimalism",
+    "hook": "so tired of cold grey minimalism! 😅",
+    "hook_sub": "which would you choose?",
+    "slides": [
+     {
+      "text": "olive velvet makes everything feel grounded",
+      "look": "A deep olive velvet sofa piled with rust linen cushions, paired with a walnut coffee table, a vintage Turkish runner in rich paprika tones, an oversized brass floor lamp, and tall potted fiddle-leaf figs beside stacked art books.",
+      "callout": ""
+     },
+     {
+      "text": "mustard yellow is the ultimate mood booster",
+      "look": "A mustard corduroy sectional accessorized with cobalt blue throw blankets, a wavy burl wood coffee table, framed botanical prints in gilded frames, an ivory wool checkerboard rug, and a chrome mushroom lamp on a low oak sideboard.",
+      "callout": ""
+     },
+     {
+      "text": "worn leather brings instant soul to a room",
+      "look": "A buttery cognac leather sofa layered with plaid wool throws and plum velvet pillows, a dark travertine cocktail table, an ornate brass standing mirror, a patterned Persian rug, and antique oil portraits leaning against a mahogany console.",
+      "callout": ""
+     },
+     {
+      "text": "sage green and butter yellow belong together",
+      "look": "A butter yellow slipcovered sofa topped with ruffled gingham cushions, a round fluted oak coffee table, a pale sage floral rug, a whimsical ceramic table lamp with a pleated shade, and woven baskets overflowing with colorful design magazines.",
+      "callout": ""
+     },
+     {
+      "text": "burnt orange always brings the drama",
+      "look": "A low-slung burnt orange modular sofa, a rounded smoked glass coffee table, a high-pile shag rug in sunset swirls, sculptural chrome floor lighting, and a walnut credenza styled with amber glass vases and trailing pothos plants.",
+      "callout": ""
+     },
+     {
+      "text": "bringing the warmth of southern italy home",
+      "look": "A warm terracotta slipcover sofa with indigo block-print pillows, a chunky woven jute rug topped with an iron coffee table, a terracotta urn turned table lamp, and large canvas abstract paintings resting on an open pine bookshelf.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "A moss green linen sofa layered with embroidered folk cushions, a round cherry wood coffee table, an antique kilim rug in rich berry hues, a tiered brass task lamp, and stacks of hardcovers alongside a ceramic planter.",
+    "cta_question": "want to get rid of the grey in your space?",
+    "cta_line": "try your Pinterest inspo on Snug 📌",
+    "title": "goodbye cold grey 👋",
+    "caption": "goodbye cold grey 👋\n\nwhich version brings the most life to this living room? tell me your favorite 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
+    "source": "ai",
+    "room_id": "lived-livingroom-grey-20",
+    "extra": {
+     "tuned": false
+    }
+   },
+   "room_file": "lived-livingroom-grey-20.jpg",
+   "keys": [
+    "2026-10-22-2/0",
+    "2026-10-22-2/1",
+    "2026-10-22-2/2",
+    "2026-10-22-2/3",
+    "2026-10-22-2/4",
+    "2026-10-22-2/5",
+    "2026-10-22-2/cta"
+   ],
+   "cost": 0.1755,
+   "batch": "batches/a4uzsji0302ht84geqkifmpd0oci8wybfwtd"
   }
  ]
 }
