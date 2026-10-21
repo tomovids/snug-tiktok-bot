@@ -1275,6 +1275,75 @@
     "08.jpg"
    ],
    "ready_at": "2026-10-20T19:38:30+00:00"
+  },
+  {
+   "id": "2026-10-22-1",
+   "date": "2026-10-22",
+   "slot": 0,
+   "time": "2026-10-22T12:00:00+01:00",
+   "status": "waiting",
+   "plan": {
+    "format": "makeover",
+    "room": "kitchen",
+    "theme": "japandi",
+    "theme_name": "japandi",
+    "hook": "let's make this japandi ✍️",
+    "hook_sub": "(inspired)",
+    "slides": [
+     {
+      "text": "raw earthy japandi",
+      "look": "Bleached oak flat-front cabinets with invisible notch pulls, honed limestone counters, and ribbed ceramic splashback. Two sculptural paper lantern pendants hang over dark ash barstools, paired with stacked stoneware bowls and a single dried branch in an unglazed vessel.",
+      "callout": ""
+     },
+     {
+      "text": "soft organic japandi",
+      "look": "Matte sand cabinets with subtle brass finger pulls, rounded quartz countertops, and cream ceramic backsplash tiles. Slender rattan-back counter stools tuck beneath the island beneath an oversized woven washi paper dome, styled with hand-pinched tea cups and a linen runner.",
+      "callout": ""
+     },
+     {
+      "text": "monochrome minimal japandi",
+      "look": "Matte charcoal cabinet fronts paired with pale white oak worktops and a thin basalt splashback. Curved black bentwood stools sit under sleek suspended bamboo cylinder pendants, accented by matte black iron canisters and white speckled ceramic bowls on open shelving.",
+      "callout": ""
+     },
+     {
+      "text": "warm timber japandi",
+      "look": "Rich honey oak slab cabinets, beige travertine worktops, and glossy beige zellige tiles. Low-backed woven rush counter stools rest by the counter, illuminated by a pleated rice paper shade, with a carved wooden matcha bowl and small olive branch.",
+      "callout": ""
+     },
+     {
+      "text": "serene rustic japandi",
+      "look": "Muted sage-grey cabinetry with dark walnut open shelves, white speckled terrazzo counters, and handmade chalk-white splashback. Weathered teak stools pair with a duo of ribbed glass globe pendants, accompanied by heavy wabi-sabi clay jars and natural linen tea towels.",
+      "callout": ""
+     },
+     {
+      "text": "sculptural modern japandi",
+      "look": "Pale ash cabinets with hidden edge pulls, warm grey soapstone counters, and vertical fluted tile splashback. Minimalist cast iron counter stools sit under an asymmetrical Akari-inspired pendant light, styled with dark stoneware teapots and a textured ivory ceramic vase.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "Smoked oak cabinets with brushed brass edge pulls, honed ivory composite counters, and ivory tile splashback. Black spindle counter stools sit beneath an airy silk lantern pendant, styled with coarse ceramic planters and rough stone serving boards.",
+    "cta_question": "Have any Pinterest inspo you want to try? 📌",
+    "cta_line": "try your Pinterest inspo on Snug 📌",
+    "title": "japandi kitchen transformation 📌",
+    "caption": "japandi kitchen transformation 📌\n\nwhich japandi kitchen would you cook in? drop your pick below 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #japandi #snug",
+    "source": "ai",
+    "room_id": "empty-kitchen-none-19",
+    "extra": {
+     "tuned": false
+    }
+   },
+   "room_file": "empty-kitchen-none-19.jpg",
+   "keys": [
+    "2026-10-22-1/0",
+    "2026-10-22-1/1",
+    "2026-10-22-1/2",
+    "2026-10-22-1/3",
+    "2026-10-22-1/4",
+    "2026-10-22-1/5",
+    "2026-10-22-1/cta"
+   ],
+   "cost": 0.1755,
+   "batch": "batches/mav6q7wxskqesckq2hyb4wy91d3ug5jh4wu5"
   }
  ]
 }

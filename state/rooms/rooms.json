@@ -232,5 +232,18 @@
   "used": [
    "2026-10-21"
   ]
+ },
+ {
+  "id": "empty-kitchen-none-19",
+  "kind": "empty",
+  "room": "kitchen",
+  "problem": null,
+  "arch": "French doors to a garden on the left",
+  "floor": "honey-toned parquet",
+  "file": "empty-kitchen-none-19.jpg",
+  "created": "2026-10-22",
+  "used": [
+   "2026-10-22"
+  ]
  }
 ]
