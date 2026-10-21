@@ -594,6 +594,41 @@
    "publish_id": "p_inbox_url~v2.7698836430432864258",
    "status": "SEND_TO_USER_INBOX",
    "sent_at": "2026-10-20T19:39:16+00:00"
+  },
+  {
+   "date": "2026-10-21",
+   "slot": 0,
+   "id": "2026-10-21-1",
+   "format": "makeover",
+   "theme": "seventies",
+   "theme_name": "70s retro",
+   "room": "living room",
+   "room_id": "empty-livingroom-none-17",
+   "hook": "let's make this 70s retro ✍️",
+   "texts": [
+    "earthy bohemian 70s retro",
+    "sun-drenched mustard 70s retro",
+    "mellow lounge 70s retro",
+    "eclectic funk 70s retro",
+    "warm terracotta 70s retro",
+    "amber sunset 70s retro"
+   ],
+   "caption": "70s retro transformation 📌\n\nwhich 70s vibe would you pick for your living room? comment your favorite below 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #70sdecor #snug",
+   "source": "ai",
+   "cost": 0.1755,
+   "urls": [
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-21-1/01.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-21-1/02.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-21-1/03.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-21-1/04.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-21-1/05.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-21-1/06.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-21-1/07.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-21-1/08.jpg"
+   ],
+   "publish_id": "p_inbox_url~v2.7699097134448150550",
+   "status": "SEND_TO_USER_INBOX",
+   "sent_at": "2026-10-21T12:29:55+00:00"
   }
  ]
 }
