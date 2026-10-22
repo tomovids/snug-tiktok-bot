@@ -1285,7 +1285,7 @@
    "date": "2026-10-23",
    "slot": 0,
    "time": "2026-10-23T12:00:00+01:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "makeover",
     "room": "bedroom",
@@ -1302,27 +1302,27 @@
      {
       "text": "bohemian eccentric maximalist",
       "look": "A carved wooden four-poster bed draped in kantha quilts and tasseled silk cushions. A layered mix of antique Persian rugs, brass Moroccan lanterns, potted fiddle-leaf figs, stacked art monographs, and ornate gilded standing mirrors bring playful warmth.",
-      "callout": ""
+      "callout": "need this ornate gold mirror"
      },
      {
       "text": "bold color block maximalist",
       "look": "A sculptural cobalt blue bed frame layered with striped duvet covers and emerald throw blankets. Glossy candy-pink acrylic bedside tables hold mushroom lamps, grounded by a checkerboard wool rug and vibrant abstract canvas prints across the room.",
-      "callout": ""
+      "callout": "love this black checkered rug"
      },
      {
       "text": "vintage collectors maximalist",
       "look": "An antique burled wood headboard flanked by mismatched mid-century pedestals holding green glass lamps. Layered kilim runners, stacks of antique poetry books, brass animal figurines, a velvet bench, and clusters of framed botanical sketches create cozy intrigue.",
-      "callout": ""
+      "callout": "obsessed with this green bench"
      },
      {
       "text": "opulent jewel tone maximalist",
       "look": "A deep plum velvet wingback bed styled with chartreuse cushions and leopard-print mohair throws. Polished brass swing-arm lamps, a scalloped border rug, Murano glass catchalls on marble nightstands, and massive gallery groupings of oil portrait paintings.",
-      "callout": ""
+      "callout": "obsessed with this plum velvet bed"
      },
      {
       "text": "playful art pop maximalist",
       "look": "A wavy lilac headboard topped with bold polka dot shams and neon yellow throws. Lucite bedside tables sport pleated paper lamps, surrounded by a swirling geometric floor rug, glossy ceramic sculptures, and a salon-hung display of colorful graphic posters.",
-      "callout": ""
+      "callout": "obsessed with this lilac scalloped bed"
      }
     ],
     "cta_look": "A tufted terracotta velvet bed heaped with patchwork pillows and houndstooth throws. Tortoiseshell bedside pedestals display fringed globe lamps, set atop layered zebra and Turkish rugs with brass display easels showcasing modern landscape paintings.",
@@ -1347,7 +1347,18 @@
     "2026-10-23-1/cta"
    ],
    "cost": 0.1755,
-   "batch": "batches/55e3yxwgr2ea8c0g8kest436yxzg8axlw1rh"
+   "batch": "batches/55e3yxwgr2ea8c0g8kest436yxzg8axlw1rh",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-22T10:42:37+00:00"
   }
  ]
 }
