@@ -1,86 +1,6 @@
 {
  "posts": [
   {
-   "id": "2026-10-15-2",
-   "date": "2026-10-15",
-   "slot": 1,
-   "time": "2026-10-15T19:00:00+01:00",
-   "status": "sent",
-   "plan": {
-    "format": "problem",
-    "room": "living room",
-    "theme": "grey",
-    "theme_name": "grey and minimalism",
-    "hook": "i'm done with grey and minimalism! 😅",
-    "hook_sub": "which would you choose?",
-    "slides": [
-     {
-      "text": "rust velvet makes everything feel so grounded",
-      "look": "A low-slung rust velvet sofa, checkered mustard wool rug, walnut burl coffee table, oversized abstract sunset canvas, brass mushroom floor lamp, brass tray with ceramic mugs, and a fiddle-leaf fig in a terracotta planter.",
-      "callout": ""
-     },
-     {
-      "text": "cobalt accents totally wake up emerald",
-      "look": "An emerald green tuxedo sofa with cobalt silk cushions, layered Persian runner on a jute rug, black marble coffee table, brass task lamp, stacked vintage art monographs, and a sculptural gilded wall mirror.",
-      "callout": ""
-     },
-     {
-      "text": "butter yellow softens the olive so nicely",
-      "look": "A butter yellow slipcovered sofa topped with lilac waffle cushions, geometric olive flatweave rug, blonde oak coffee table, playful paper pendant light, framed floral prints, and colorful Murano glass candleholders.",
-      "callout": ""
-     },
-     {
-      "text": "maximalist art turns this into a gallery",
-      "look": "A saffron sectional sofa piled with patterned kilim cushions, vintage red Moroccan rug, carved teak coffee table, wrought iron floor lamp, gallery wall of oil portraits, and ceramic bowls overflowing with citrus.",
-      "callout": ""
-     },
-     {
-      "text": "chocolate leather grounds the soft blush tones",
-      "look": "A chocolate leather chesterfield sofa, dusty rose mohair throw, plush burgundy wool rug, travertine pedestal coffee table, pleated fabric table lamp, brass framed landscape paintings, and a tall rubber plant in a glazed pot.",
-      "callout": ""
-     },
-     {
-      "text": "bold stripes give the room instant energy",
-      "look": "A cream linen sofa layered with cerulean and ochre striped cushions, braided jute rug, round rattan coffee table, glossy cobalt ceramic table lamp, framed botanical sketches, and stacks of linen-bound travel books.",
-      "callout": ""
-     }
-    ],
-    "cta_look": "A forest green modular sofa draped with a saffron wool blanket, colorful Bauhaus poster in a chrome frame, chrome cantilever coffee table, and an ivory boucle accent chair with a patterned throw.",
-    "cta_question": "want to get rid of the grey in your space? 📌",
-    "cta_line": "snap your room and try it on Snug",
-    "title": "saying goodbye to the grey 👋",
-    "caption": "saying goodbye to the grey 👋\n\nwhich one would you choose to replace the grey? comment below 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
-    "source": "ai",
-    "room_id": "lived-livingroom-grey-6",
-    "extra": {
-     "tuned": false
-    }
-   },
-   "room_file": "lived-livingroom-grey-6.jpg",
-   "keys": [
-    "2026-10-15-2/0",
-    "2026-10-15-2/1",
-    "2026-10-15-2/2",
-    "2026-10-15-2/3",
-    "2026-10-15-2/4",
-    "2026-10-15-2/5",
-    "2026-10-15-2/cta"
-   ],
-   "cost": 0.1755,
-   "batch": "batches/l79o9kqbsl23lb2q1ljqnda71cd62ehtb4pv",
-   "slides": [
-    "01.jpg",
-    "02.jpg",
-    "03.jpg",
-    "04.jpg",
-    "05.jpg",
-    "06.jpg",
-    "07.jpg",
-    "08.jpg"
-   ],
-   "ready_at": "2026-10-14T18:57:50+00:00"
-  },
-  {
    "id": "2026-10-16-1",
    "date": "2026-10-16",
    "slot": 0,
@@ -1285,7 +1205,7 @@
    "date": "2026-10-23",
    "slot": 1,
    "time": "2026-10-23T19:00:00+01:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "problem",
     "room": "living room",
@@ -1347,7 +1267,18 @@
     "2026-10-23-2/cta"
    ],
    "cost": 0.1755,
-   "batch": "batches/v9s2ax9zaa8sl23d3bkctsum4bqokc3kppxh"
+   "batch": "batches/v9s2ax9zaa8sl23d3bkctsum4bqokc3kppxh",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-22T19:32:52+00:00"
   }
  ]
 }
