@@ -1,86 +1,6 @@
 {
  "posts": [
   {
-   "id": "2026-10-15-1",
-   "date": "2026-10-15",
-   "slot": 0,
-   "time": "2026-10-15T12:00:00+01:00",
-   "status": "sent",
-   "plan": {
-    "format": "makeover",
-    "room": "bedroom",
-    "theme": "modernfarmhouse",
-    "theme_name": "modern farmhouse",
-    "hook": "let's make this modern farmhouse ✍️",
-    "hook_sub": "(inspired)",
-    "slides": [
-     {
-      "text": "earthy textured modern farmhouse",
-      "look": "A pale white oak platform bed styled with oatmeal linen bedding, olive green waffle throw, and woven jute rug underneath. Chunky ceramic table lamps sit on matching wood nightstands, paired with large woven seagrass baskets and framed botanical sketches.",
-      "callout": "obsessed with this round jute rug"
-     },
-     {
-      "text": "clean minimalist modern farmhouse",
-      "look": "A slim matte black iron spindle bed dressed in crisp white linen and charcoal striped pillows. Low-profile ash wood nightstands hold simple pleated sconces, grounded by a flat-weave cream wool runner, minimalist ceramic vases, and a slender floor mirror.",
-      "callout": "obsessed with this black metal bed"
-     },
-     {
-      "text": "vintage layered modern farmhouse",
-      "look": "A reclaimed pine bed layered with quilted flax duvets, ruffled linen shams, and an antique muted rug. Turned-wood bedside tables hold brass swing-arm lamps, accompanied by stacks of old art books, galvanized metal planters, and a round black iron mirror.",
-      "callout": "obsessed with this vintage patterned rug"
-     },
-     {
-      "text": "soft neutral modern farmhouse",
-      "look": "An upholstered cream linen headboard with plush ivory cotton throws and beige textured cushions. Bleached oak bedside tables feature fluted stoneware lamps, a plush braided wool rug, a potted olive tree in a terracotta pot, and landscape oil paintings.",
-      "callout": "love this channeled upholstered bed"
-     },
-     {
-      "text": "dark contrast modern farmhouse",
-      "look": "A solid ebonized wood bed dressed in layered slate and chalk linen sheets. Light natural oak bedside chests feature matte black iron task lamps, balanced by an off-white patterned geometric rug, charcoal ceramic vessels, and framed charcoal sketch art.",
-      "callout": "obsessed with this geometric area rug"
-     },
-     {
-      "text": "rustic coastal modern farmhouse",
-      "look": "A natural cane and light oak bed layered with ticking-stripe duvets, sandy linen pillows, and a chunky knit blanket. Bleached pine nightstands support seeded glass table lamps, completed with a distressed vintage runner, woven lidded hampers, and dried botanicals.",
-      "callout": "obsessed with this cane bed frame"
-     }
-    ],
-    "cta_look": "A washed white oak canopy bed draped in breezy linen throws and heather gray lumbar cushions. Weathered wood nightstands hold matte black ceramic table lamps, accompanied by an oversized braided jute rug, framed muted landscapes, and stacked rattan storage trunks.",
-    "cta_question": "Have any Pinterest inspo you want to try? 📌",
-    "cta_line": "try your Pinterest inspo on Snug 📌",
-    "title": "modern farmhouse bedroom 📌",
-    "caption": "modern farmhouse bedroom 📌\n\nwhich version of this bedroom would you move right into? tell me below 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #modernfarmhouse #snug",
-    "source": "ai",
-    "room_id": "empty-bedroom-none-5",
-    "extra": {
-     "tuned": false
-    }
-   },
-   "room_file": "empty-bedroom-none-5.jpg",
-   "keys": [
-    "2026-10-15-1/0",
-    "2026-10-15-1/1",
-    "2026-10-15-1/2",
-    "2026-10-15-1/3",
-    "2026-10-15-1/4",
-    "2026-10-15-1/5",
-    "2026-10-15-1/cta"
-   ],
-   "cost": 0.1755,
-   "batch": "batches/6297xgcs0ivndhcd0pm1zuppooecvvm1d617",
-   "slides": [
-    "01.jpg",
-    "02.jpg",
-    "03.jpg",
-    "04.jpg",
-    "05.jpg",
-    "06.jpg",
-    "07.jpg",
-    "08.jpg"
-   ],
-   "ready_at": "2026-10-14T14:05:36+00:00"
-  },
-  {
    "id": "2026-10-15-2",
    "date": "2026-10-15",
    "slot": 1,
@@ -1359,6 +1279,75 @@
     "08.jpg"
    ],
    "ready_at": "2026-10-22T10:42:37+00:00"
+  },
+  {
+   "id": "2026-10-23-2",
+   "date": "2026-10-23",
+   "slot": 1,
+   "time": "2026-10-23T19:00:00+01:00",
+   "status": "waiting",
+   "plan": {
+    "format": "problem",
+    "room": "living room",
+    "theme": "builder",
+    "theme_name": "builder-grade everything",
+    "hook": "tired of builder-grade blandness! 😅",
+    "hook_sub": "which would you choose?",
+    "slides": [
+     {
+      "text": "olive velvet makes everything feel intentional",
+      "look": "An olive green velvet sectional anchored by a thick terracotta geometric rug, paired with a burl wood coffee table, oversized abstract linen wall art, a brass arc floor lamp, and stacked vintage art books beside a potted fiddle-leaf fig.",
+      "callout": ""
+     },
+     {
+      "text": "cognac leather gives instant warmth",
+      "look": "A slouchy cognac leather sofa layered with indigo wool cushions, an oversized Persian vintage rug, a dark stained ash media console, a sculptural matte black pendant, and framed charcoal sketches hung in an asymmetric cluster.",
+      "callout": ""
+     },
+     {
+      "text": "bold cobalt totally steals the show",
+      "look": "A cobalt blue curved sofa grounded by a wavy checkerboard rug, a tubular chrome and glass coffee table, stacked ceramic vases in butter yellow, a whimsical mushroom table lamp, and framed graphic exhibition posters.",
+      "callout": ""
+     },
+     {
+      "text": "vintage accents bring all the soul",
+      "look": "A tufted oxblood velvet settee atop an antique Turkish rug, an ornate gilt floor mirror leaning against the corner, a round marble coffee table, brass task lamps, and messy stacks of design magazines beside fresh olive branches.",
+      "callout": ""
+     },
+     {
+      "text": "textured wool softens all the sharp edges",
+      "look": "A cream boucle daybed styled with rust linen throw pillows, an earthy braided jute runner over a sage wool rug, an oak spindle coffee table, a pleated fabric floor lamp, and trailing pothos plants on a low oak credenza.",
+      "callout": ""
+     },
+     {
+      "text": "warm sunset shades never feel boring",
+      "look": "A low-profile rust linen sofa paired with a mustard flatweave rug, a travertine cube coffee table, textured amber glass table lamps, framed botanical pressed florals, and a massive potted rubber tree in a fluted terracotta planter.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "An emerald green Lawson sofa layered with aubergine velvet pillows, a colorful vintage runner, a walnut side table displaying a smoked glass lamp, framed oil portraits, and a lush monstera in an unglazed ceramic pot.",
+    "cta_question": "want to give your space some character?",
+    "cta_line": "try your Pinterest inspo on Snug 📌",
+    "title": "goodbye builder blandness 👋",
+    "caption": "goodbye builder blandness 👋\n\nwhich version finally gives this room some life? tell me your favorite 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
+    "source": "ai",
+    "room_id": "lived-livingroom-builder-22",
+    "extra": {
+     "tuned": true
+    }
+   },
+   "room_file": "lived-livingroom-builder-22.jpg",
+   "keys": [
+    "2026-10-23-2/0",
+    "2026-10-23-2/1",
+    "2026-10-23-2/2",
+    "2026-10-23-2/3",
+    "2026-10-23-2/4",
+    "2026-10-23-2/5",
+    "2026-10-23-2/cta"
+   ],
+   "cost": 0.1755,
+   "batch": "batches/v9s2ax9zaa8sl23d3bkctsum4bqokc3kppxh"
   }
  ]
 }
