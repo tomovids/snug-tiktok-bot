@@ -258,5 +258,18 @@
   "used": [
    "2026-10-22"
   ]
+ },
+ {
+  "id": "empty-bedroom-none-21",
+  "kind": "empty",
+  "room": "bedroom",
+  "problem": null,
+  "arch": "high ceilings with cornicing and a tall window on the left",
+  "floor": "wide warm oak planks",
+  "file": "empty-bedroom-none-21.jpg",
+  "created": "2026-10-23",
+  "used": [
+   "2026-10-23"
+  ]
  }
 ]
