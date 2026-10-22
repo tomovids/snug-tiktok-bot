@@ -699,6 +699,41 @@
    "publish_id": "p_inbox_url~v2.7699518001455908886",
    "status": "SEND_TO_USER_INBOX",
    "sent_at": "2026-10-22T15:43:22+00:00"
+  },
+  {
+   "date": "2026-10-22",
+   "slot": 1,
+   "id": "2026-10-22-2",
+   "format": "problem",
+   "theme": "grey",
+   "theme_name": "grey and minimalism",
+   "room": "living room",
+   "room_id": "lived-livingroom-grey-20",
+   "hook": "so tired of cold grey minimalism! 😅",
+   "texts": [
+    "olive velvet makes everything feel grounded",
+    "mustard yellow is the ultimate mood booster",
+    "worn leather brings instant soul to a room",
+    "sage green and butter yellow belong together",
+    "burnt orange always brings the drama",
+    "bringing the warmth of southern italy home"
+   ],
+   "caption": "goodbye cold grey 👋\n\nwhich version brings the most life to this living room? tell me your favorite 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
+   "source": "ai",
+   "cost": 0.1755,
+   "urls": [
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-22-2/01.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-22-2/02.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-22-2/03.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-22-2/04.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-22-2/05.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-22-2/06.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-22-2/07.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-22-2/08.jpg"
+   ],
+   "publish_id": "p_inbox_url~v2.7699577254146099222",
+   "status": "SEND_TO_USER_INBOX",
+   "sent_at": "2026-10-22T19:33:42+00:00"
   }
  ]
 }
