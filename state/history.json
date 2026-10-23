@@ -734,6 +734,41 @@
    "publish_id": "p_inbox_url~v2.7699577254146099222",
    "status": "SEND_TO_USER_INBOX",
    "sent_at": "2026-10-22T19:33:42+00:00"
+  },
+  {
+   "date": "2026-10-23",
+   "slot": 0,
+   "id": "2026-10-23-1",
+   "format": "makeover",
+   "theme": "maximalist",
+   "theme_name": "maximalist",
+   "room": "bedroom",
+   "room_id": "empty-bedroom-none-21",
+   "hook": "turning this into a maximalist bedroom ✍️",
+   "texts": [
+    "sun-drenched joyful maximalist",
+    "bohemian eccentric maximalist",
+    "bold color block maximalist",
+    "vintage collectors maximalist",
+    "opulent jewel tone maximalist",
+    "playful art pop maximalist"
+   ],
+   "caption": "maximalist bedroom ideas 📌\n\nwhich maximalist bedroom would you wake up in? swipe and tell me your favorite 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #maximalism #snug",
+   "source": "ai",
+   "cost": 0.1755,
+   "urls": [
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-23-1/01.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-23-1/02.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-23-1/03.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-23-1/04.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-23-1/05.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-23-1/06.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-23-1/07.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-23-1/08.jpg"
+   ],
+   "publish_id": "p_inbox_url~v2.7699834820511631362",
+   "status": "SEND_TO_USER_INBOX",
+   "sent_at": "2026-10-23T12:13:10+00:00"
   }
  ]
 }

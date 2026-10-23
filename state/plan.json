@@ -1045,7 +1045,7 @@
    "date": "2026-10-23",
    "slot": 0,
    "time": "2026-10-23T12:00:00+01:00",
-   "status": "ready",
+   "status": "sent",
    "plan": {
     "format": "makeover",
     "room": "bedroom",
