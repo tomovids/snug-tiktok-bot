@@ -1,19 +1,19 @@
 {
  "active": true,
- "scored_posts": 10,
+ "scored_posts": 11,
  "needed": 10,
  "explore": 0.25,
  "multipliers": {
   "theme": {
    "industrial": {
-    "mult": 1.18,
-    "posts": 1,
-    "avg_ratio": 1.72
-   },
-   "dark": {
     "mult": 1.2,
     "posts": 1,
-    "avg_ratio": 1.82
+    "avg_ratio": 1.8
+   },
+   "dark": {
+    "mult": 1.23,
+    "posts": 1,
+    "avg_ratio": 1.9
    },
    "californiacasual": {
     "mult": 0.75,
@@ -21,68 +21,73 @@
     "avg_ratio": 0.0
    },
    "dated-kitchen": {
-    "mult": 1.37,
+    "mult": 1.4,
     "posts": 1,
-    "avg_ratio": 2.48
+    "avg_ratio": 2.6
    },
    "modernfarmhouse": {
-    "mult": 0.99,
+    "mult": 1.0,
     "posts": 1,
-    "avg_ratio": 0.95
+    "avg_ratio": 1.0
    },
    "grey": {
-    "mult": 0.98,
+    "mult": 0.99,
     "posts": 1,
-    "avg_ratio": 0.92
+    "avg_ratio": 0.96
    },
    "grandmillennial": {
-    "mult": 0.94,
+    "mult": 0.95,
     "posts": 1,
-    "avg_ratio": 0.77
+    "avg_ratio": 0.81
    },
    "beige": {
-    "mult": 1.01,
+    "mult": 1.02,
     "posts": 1,
-    "avg_ratio": 1.05
+    "avg_ratio": 1.1
    },
    "builder": {
-    "mult": 0.97,
+    "mult": 0.98,
     "posts": 1,
-    "avg_ratio": 0.87
+    "avg_ratio": 0.91
    },
    "rental": {
-    "mult": 1.05,
+    "mult": 1.06,
     "posts": 1,
-    "avg_ratio": 1.19
+    "avg_ratio": 1.25
+   },
+   "allwhite": {
+    "mult": 0.93,
+    "posts": 1,
+    "avg_ratio": 0.73
    }
   },
   "room": {
    "living room": {
-    "mult": 1.11,
-    "posts": 3,
-    "avg_ratio": 1.23
+    "mult": 1.08,
+    "posts": 4,
+    "avg_ratio": 1.15
    },
    "bedroom": {
-    "mult": 1.07,
+    "mult": 1.11,
     "posts": 5,
-    "avg_ratio": 1.12
+    "avg_ratio": 1.17
    },
    "kitchen": {
-    "mult": 1.1,
+    "mult": 1.12,
     "posts": 2,
-    "avg_ratio": 1.24
+    "avg_ratio": 1.3
    }
   },
   "format": {
    "makeover": {
-    "mult": 0.92,
+    "mult": 0.94,
     "posts": 4,
-    "avg_ratio": 0.86
+    "avg_ratio": 0.9
    },
    "problem": {
-    "mult": 1.26,
-    "posts": 6,
-    "avg_ratio": 1.39
+    "mult": 1.25,
+    "posts": 7,
+    "avg_ratio": 1.35
    }
   }
  }
