@@ -769,6 +769,41 @@
    "publish_id": "p_inbox_url~v2.7699834820511631362",
    "status": "SEND_TO_USER_INBOX",
    "sent_at": "2026-10-23T12:13:10+00:00"
+  },
+  {
+   "date": "2026-10-23",
+   "slot": 1,
+   "id": "2026-10-23-2",
+   "format": "problem",
+   "theme": "builder",
+   "theme_name": "builder-grade everything",
+   "room": "living room",
+   "room_id": "lived-livingroom-builder-22",
+   "hook": "tired of builder-grade blandness! 😅",
+   "texts": [
+    "olive velvet makes everything feel intentional",
+    "cognac leather gives instant warmth",
+    "bold cobalt totally steals the show",
+    "vintage accents bring all the soul",
+    "textured wool softens all the sharp edges",
+    "warm sunset shades never feel boring"
+   ],
+   "caption": "goodbye builder blandness 👋\n\nwhich version finally gives this room some life? tell me your favorite 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
+   "source": "ai",
+   "cost": 0.1755,
+   "urls": [
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-23-2/01.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-23-2/02.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-23-2/03.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-23-2/04.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-23-2/05.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-23-2/06.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-23-2/07.jpg",
+    "https://tomovids.github.io/snug-tiktok-bot/p/2026-10-23-2/08.jpg"
+   ],
+   "publish_id": "p_inbox_url~v2.7699965588319373314",
+   "status": "SEND_TO_USER_INBOX",
+   "sent_at": "2026-10-23T20:40:48+00:00"
   }
  ]
 }
