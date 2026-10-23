@@ -285,5 +285,18 @@
   "used": [
    "2026-10-23"
   ]
+ },
+ {
+  "id": "lived-livingroom-rental-23",
+  "kind": "lived",
+  "room": "living room",
+  "problem": "rental",
+  "arch": "a bay window on the back wall",
+  "floor": "pale polished concrete",
+  "file": "lived-livingroom-rental-23.jpg",
+  "created": "2026-10-24",
+  "used": [
+   "2026-10-24"
+  ]
  }
 ]
