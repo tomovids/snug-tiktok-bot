@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-23T20:32+00:00",
- "built": "2026-10-23T20:40+00:00",
+ "built": "2026-10-23T23:33+00:00",
  "kpis": {
   "followers": 2,
   "followers_7d": 2,
@@ -912,17 +912,6 @@
  },
  "pipeline": [
   {
-   "time": "2026-10-23T19:00:00+01:00",
-   "local": "Fri 23 Oct, 19:00",
-   "format": "problem",
-   "theme": "builder-grade everything",
-   "room": "living room",
-   "hook": "tired of builder-grade blandness! 😅",
-   "status": "Ready",
-   "retry": false,
-   "cost": 0.1755
-  },
-  {
    "time": "2026-10-24T12:00:00+01:00",
    "local": "Sat 24 Oct, 12:00",
    "format": "makeover",
@@ -946,6 +935,17 @@
   }
  ],
  "drafts": [
+  {
+   "sent_at": "2026-10-23T20:40:48+00:00",
+   "hook": "tired of builder-grade blandness! 😅",
+   "format": "problem",
+   "theme": "builder-grade everything",
+   "room": "living room",
+   "cost": 0.1755,
+   "status": "In drafts",
+   "failed": false,
+   "error": null
+  },
   {
    "sent_at": "2026-10-23T12:13:10+00:00",
    "hook": "turning this into a maximalist bedroom ✍️",
@@ -1190,10 +1190,10 @@
   }
  ],
  "cost": {
-  "spent_30d_usd": 3.61,
-  "posts_30d": 21,
+  "spent_30d_usd": 3.78,
+  "posts_30d": 22,
   "per_post_usd": 0.172,
-  "month_estimate_usd": 10.31,
+  "month_estimate_usd": 10.32,
   "rooms_in_library": 23
  },
  "schedule": {
