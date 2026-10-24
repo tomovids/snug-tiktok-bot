@@ -299,5 +299,18 @@
   "used": [
    "2026-10-24"
   ]
+ },
+ {
+  "id": "lived-bedroom-allwhite-24",
+  "kind": "lived",
+  "room": "bedroom",
+  "problem": "allwhite",
+  "arch": "a sloped loft ceiling with a skylight above the bed",
+  "floor": "wide warm oak planks",
+  "file": "lived-bedroom-allwhite-24.jpg",
+  "created": "2026-10-25",
+  "used": [
+   "2026-10-25"
+  ]
  }
 ]

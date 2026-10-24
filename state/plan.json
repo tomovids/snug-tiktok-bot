@@ -1279,6 +1279,75 @@
     "08.jpg"
    ],
    "ready_at": "2026-10-24T12:15:34+00:00"
+  },
+  {
+   "id": "2026-10-25-2",
+   "date": "2026-10-25",
+   "slot": 1,
+   "time": "2026-10-25T19:00:00+00:00",
+   "status": "waiting",
+   "plan": {
+    "format": "problem",
+    "room": "bedroom",
+    "theme": "allwhite",
+    "theme_name": "all-white everything",
+    "hook": "done living in a clinical white void! 😅",
+    "hook_sub": "which would you choose?",
+    "slides": [
+     {
+      "text": "olive velvet makes a room feel grounded",
+      "look": "An olive green velvet upholstered bed frame, mustard linen duvet with rust pillows, walnut floating nightstands, an antique brass reading sconce, a Persian wool runner in saffron and moss, and framed botanical prints.",
+      "callout": ""
+     },
+     {
+      "text": "cobalt blue woke the whole room up",
+      "look": "A terracotta linen duvet paired with cobalt blue silk throw pillows, a burled wood nightstand, an oversized cobalt glazed ceramic table lamp, an abstract color-block textile hanging, and a potted fiddle-leaf fig in a woven basket.",
+      "callout": ""
+     },
+     {
+      "text": "peach and sage is shockingly cozy",
+      "look": "A sage green corduroy headboard, peach washed cotton bedding, blonde oak bedside tables holding fluted glass table lamps, an arch-shaped gilt mirror, stacked art books, and a fluffy checkered blush wool area rug.",
+      "callout": ""
+     },
+     {
+      "text": "burgundy adds instant drama without being loud",
+      "look": "A rich burgundy velvet duvet draped over crisp striped sheets, dark rosewood nightstands, pleated silk bedside lamps, an ornate gold framed landscape painting, and an ink-blue vintage Turkish rug layered underneath.",
+      "callout": ""
+     },
+     {
+      "text": "earthy mustard feels like golden hour",
+      "look": "A chocolate brown upholstered platform bed, goldenrod waffle throw blanket, curved travertine bedside pedestals, a mushroom-shaped brass lamp, graphic Bauhaus art prints in dark frames, and a lush potted snake plant.",
+      "callout": ""
+     },
+     {
+      "text": "lilac paired with ochre is pure art",
+      "look": "A deep plum linen duvet accented with lilac shams, a scalloped rattan bench at the foot of the bed, chrome task lamps on lacquer nightstands, a colorful post-modern lithograph, and an oversized woven jute rug.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "A forest green linen quilt with coral fringe cushions, mid-century teak dressers, a paper lantern pendant light, an abstract watercolor canvas, trailing pothos in ceramic pots, and a Moroccan patterned wool rug.",
+    "cta_question": "ready to add some color to your space?",
+    "cta_line": "see your own room in any style with Snug",
+    "title": "goodbye sterile white 👋",
+    "caption": "goodbye sterile white 👋\n\nwhich palette would you actually sleep in? comment your favorite 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
+    "source": "ai",
+    "room_id": "lived-bedroom-allwhite-24",
+    "extra": {
+     "tuned": true
+    }
+   },
+   "room_file": "lived-bedroom-allwhite-24.jpg",
+   "keys": [
+    "2026-10-25-2/0",
+    "2026-10-25-2/1",
+    "2026-10-25-2/2",
+    "2026-10-25-2/3",
+    "2026-10-25-2/4",
+    "2026-10-25-2/5",
+    "2026-10-25-2/cta"
+   ],
+   "cost": 0.1755,
+   "batch": "batches/hzc5h598r2qro4qpnv598abxpxp1ui2eelfy"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-24T11:22+00:00",
- "built": "2026-10-24T12:15+00:00",
+ "built": "2026-10-24T16:16+00:00",
  "kpis": {
   "followers": 2,
   "followers_7d": 2,
@@ -923,17 +923,6 @@
  },
  "pipeline": [
   {
-   "time": "2026-10-24T12:00:00+01:00",
-   "local": "Sat 24 Oct, 12:00",
-   "format": "makeover",
-   "theme": "mid-century",
-   "room": "kitchen",
-   "hook": "let's make this kitchen mid-century ✍️",
-   "status": "Ready",
-   "retry": false,
-   "cost": 0.1365
-  },
-  {
    "time": "2026-10-24T19:00:00+01:00",
    "local": "Sat 24 Oct, 19:00",
    "format": "problem",
@@ -954,9 +943,31 @@
    "status": "Ready",
    "retry": false,
    "cost": 0.1365
+  },
+  {
+   "time": "2026-10-25T19:00:00+00:00",
+   "local": "Sun 25 Oct, 19:00",
+   "format": "problem",
+   "theme": "all-white everything",
+   "room": "bedroom",
+   "hook": "done living in a clinical white void! 😅",
+   "status": "Making pictures",
+   "retry": false,
+   "cost": 0.1755
   }
  ],
  "drafts": [
+  {
+   "sent_at": "2026-10-24T12:16:14+00:00",
+   "hook": "let's make this kitchen mid-century ✍️",
+   "format": "makeover",
+   "theme": "mid-century",
+   "room": "kitchen",
+   "cost": 0.1365,
+   "status": "In drafts",
+   "failed": false,
+   "error": null
+  },
   {
    "sent_at": "2026-10-23T20:40:48+00:00",
    "hook": "tired of builder-grade blandness! 😅",
@@ -1212,11 +1223,11 @@
   }
  ],
  "cost": {
-  "spent_30d_usd": 3.78,
-  "posts_30d": 22,
-  "per_post_usd": 0.172,
-  "month_estimate_usd": 10.32,
-  "rooms_in_library": 23
+  "spent_30d_usd": 3.92,
+  "posts_30d": 23,
+  "per_post_usd": 0.17,
+  "month_estimate_usd": 10.22,
+  "rooms_in_library": 24
  },
  "schedule": {
   "times": [
