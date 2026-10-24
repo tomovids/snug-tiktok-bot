@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-23T20:32+00:00",
- "built": "2026-10-24T02:00+00:00",
+ "built": "2026-10-24T07:37+00:00",
  "kpis": {
   "followers": 2,
   "followers_7d": 2,
@@ -932,6 +932,17 @@
    "status": "Ready",
    "retry": false,
    "cost": 0.1755
+  },
+  {
+   "time": "2026-10-25T12:00:00+00:00",
+   "local": "Sun 25 Oct, 12:00",
+   "format": "makeover",
+   "theme": "industrial",
+   "room": "kitchen",
+   "hook": "let's make this kitchen industrial ✍️",
+   "status": "Making pictures",
+   "retry": false,
+   "cost": 0.1365
   }
  ],
  "drafts": [
