@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-25T19:47+00:00",
- "built": "2026-10-25T21:15+00:00",
+ "built": "2026-10-25T23:35+00:00",
  "kpis": {
   "followers": 2,
   "followers_7d": 1,
@@ -951,17 +951,6 @@
  },
  "pipeline": [
   {
-   "time": "2026-10-25T19:00:00+00:00",
-   "local": "Sun 25 Oct, 19:00",
-   "format": "problem",
-   "theme": "all-white everything",
-   "room": "bedroom",
-   "hook": "done living in a clinical white void! 😅",
-   "status": "Ready",
-   "retry": false,
-   "cost": 0.1755
-  },
-  {
    "time": "2026-10-26T12:00:00+00:00",
    "local": "Mon 26 Oct, 12:00",
    "format": "makeover",
@@ -985,6 +974,17 @@
   }
  ],
  "drafts": [
+  {
+   "sent_at": "2026-10-25T21:16:31+00:00",
+   "hook": "done living in a clinical white void! 😅",
+   "format": "problem",
+   "theme": "all-white everything",
+   "room": "bedroom",
+   "cost": 0.1755,
+   "status": "In drafts",
+   "failed": false,
+   "error": null
+  },
   {
    "sent_at": "2026-10-25T14:37:57+00:00",
    "hook": "let's make this kitchen industrial ✍️",
@@ -1273,10 +1273,10 @@
   }
  ],
  "cost": {
-  "spent_30d_usd": 4.23,
-  "posts_30d": 25,
-  "per_post_usd": 0.169,
-  "month_estimate_usd": 10.16,
+  "spent_30d_usd": 4.41,
+  "posts_30d": 26,
+  "per_post_usd": 0.17,
+  "month_estimate_usd": 10.17,
   "rooms_in_library": 26
  },
  "schedule": {
