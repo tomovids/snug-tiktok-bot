@@ -1,86 +1,6 @@
 {
  "posts": [
   {
-   "id": "2026-10-18-1",
-   "date": "2026-10-18",
-   "slot": 0,
-   "time": "2026-10-18T12:00:00+01:00",
-   "status": "sent",
-   "plan": {
-    "format": "makeover",
-    "room": "living room",
-    "theme": "quietluxury",
-    "theme_name": "quiet luxury",
-    "hook": "let's make this quiet luxury ✍️",
-    "hook_sub": "(inspired)",
-    "slides": [
-     {
-      "text": "earthy organic quiet luxury",
-      "look": "A low curved cream boucle sectional sits on a thick ribbed wool rug, paired with a honed travertine coffee table. A sculptural alabaster table lamp, olive branches in an aged vessel, and a walnut credenza complete the space.",
-      "callout": "obsessed with this curved boucle sofa"
-     },
-     {
-      "text": "tailored architectural quiet luxury",
-      "look": "A deep olive mohair sofa faces two sleek bleached oak armchairs around a solid marble plinth table. A minimalist blackened steel floor lamp casts warm light over oversized monochrome canvas art, with stacked design monographs and bronze bowls.",
-      "callout": "obsessed with this olive green sofa"
-     },
-     {
-      "text": "soft minimalist quiet luxury",
-      "look": "An oatmeal linen sofa pairs with a low fluted oak coffee table over a sheared ivory wool rug. A brass pendant shade illuminates a curved ceramic table lamp, an abstract textured plaster artwork, and a lush fiddle leaf fig.",
-      "callout": "need this fluted wood coffee table"
-     },
-     {
-      "text": "rich collector quiet luxury",
-      "look": "A cognac leather tuxedo sofa anchors the room beside a low burl wood credenza and an asymmetric stone table. An unlacquered brass pharmacy lamp shines over hand-thrown ceramic urns, framed antique sketches, and a silk-wool blend rug.",
-      "callout": "obsessed with this cognac leather sofa"
-     },
-     {
-      "text": "monochrome serene quiet luxury",
-      "look": "An ivory curved settee rests on an ultra-plush berber rug beside dual stacked-travertine side tables. A paper lantern floor lamp creates a soft glow over heavy cashmere throws, a patinated bronze tray, and tall smoked glass vessels.",
-      "callout": "obsessed with this curved boucle sofa"
-     },
-     {
-      "text": "layered contemporary quiet luxury",
-      "look": "A tailored off-white linen sectional is paired with two caramel velvet club chairs and a brushed oak coffee table. A floating brass halo chandelier hangs overhead, with sculpted sandstone bookends, linen pillows, and framed tonal lithographs.",
-      "callout": "need this brass ring chandelier"
-     }
-    ],
-    "cta_look": "A sand-toned velvet sofa sits on a textured jute rug beside a raw travertine block table. A sculptural ceramic table lamp adds warmth alongside oversized neutral oil paintings, a black ash console, and brass decorative objects.",
-    "cta_question": "Have any Pinterest inspo you want to try? 📌",
-    "cta_line": "snap your room and try it on Snug",
-    "title": "quiet luxury transformation 📌",
-    "caption": "quiet luxury transformation 📌\n\nwhich quiet luxury living room would you settle into? comment your favorite 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #quietluxury #snug",
-    "source": "ai",
-    "room_id": "empty-livingroom-none-11",
-    "extra": {
-     "tuned": false
-    }
-   },
-   "room_file": "empty-livingroom-none-11.jpg",
-   "keys": [
-    "2026-10-18-1/0",
-    "2026-10-18-1/1",
-    "2026-10-18-1/2",
-    "2026-10-18-1/3",
-    "2026-10-18-1/4",
-    "2026-10-18-1/5",
-    "2026-10-18-1/cta"
-   ],
-   "cost": 0.1755,
-   "batch": "batches/1p0ysv84fegbilf2fgge37gywtjdsbpx9ijf",
-   "slides": [
-    "01.jpg",
-    "02.jpg",
-    "03.jpg",
-    "04.jpg",
-    "05.jpg",
-    "06.jpg",
-    "07.jpg",
-    "08.jpg"
-   ],
-   "ready_at": "2026-10-17T11:12:49+00:00"
-  },
-  {
    "id": "2026-10-18-2",
    "date": "2026-10-18",
    "slot": 1,
@@ -1285,7 +1205,7 @@
    "date": "2026-10-26",
    "slot": 0,
    "time": "2026-10-26T12:00:00+00:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "makeover",
     "room": "living room",
@@ -1302,7 +1222,7 @@
      {
       "text": "lush botanical boho",
       "look": "An oversized cream linen sectional smothered in sage velvet pillows, paired with bamboo side tables, clustered terracotta planters full of fiddle leaf figs, macrame plant hangers, a woven jute rug, and a wide woven wicker pendant light.",
-      "callout": ""
+      "callout": "obsessed with this woven pendant light"
      },
      {
       "text": "moroccan sunset boho",
@@ -1312,17 +1232,17 @@
      {
       "text": "warm eclectic boho",
       "look": "A slouchy olive green sofa, mismatched cane back chairs, a circular woven seagrass rug under a weathered timber coffee table, stacks of art books, dried pampas grass in ceramic jugs, and woven textile art pieces.",
-      "callout": ""
+      "callout": "need this olive green sofa"
      },
      {
       "text": "cozy artisan boho",
       "look": "A low-slung linen sofa piled with tufted cream cushions, woven floor cushions, a vintage Turkish rug in faded saffron, a round carved timber coffee table, a rattan floor lamp, and tall monstera plants in woven baskets.",
-      "callout": ""
+      "callout": "need this carved wood coffee table"
      },
      {
       "text": "sun-drenched coastal boho",
       "look": "A bleached timber daybed topped with striped linen textiles, rattan peacock chairs, raw wooden stools, braided hemp rugs, a massive ribbed ceramic floor vase holding dried palms, and amber glass globe lamps on teak pedestals.",
-      "callout": ""
+      "callout": "obsessed with this wicker peacock chair"
      }
     ],
     "cta_look": "A mustard velvet settee layered with tasselled throw blankets, a sculpted raw oak bench as a coffee table, layered vintage runners, cascading hanging ivy in ceramic bowls, and warm paper lantern pendants.",
@@ -1347,7 +1267,87 @@
     "2026-10-26-1/cta"
    ],
    "cost": 0.1755,
-   "batch": "batches/c001f4nlzk10au5qmqy9fl0kqzkgf8srexvk"
+   "batch": "batches/c001f4nlzk10au5qmqy9fl0kqzkgf8srexvk",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-25T14:36:24+00:00"
+  },
+  {
+   "id": "2026-10-26-2",
+   "date": "2026-10-26",
+   "slot": 1,
+   "time": "2026-10-26T19:00:00+00:00",
+   "status": "waiting",
+   "plan": {
+    "format": "problem",
+    "room": "kitchen",
+    "theme": "dated-kitchen",
+    "theme_name": "my dated kitchen",
+    "hook": "done with this dated kitchen! 😅",
+    "hook_sub": "which would you choose?",
+    "slides": [
+     {
+      "text": "sage cabinets soften everything immediately",
+      "look": "Soft sage green cabinets with unlacquered brass knobs, creamy marble worktops, and fluted ceramic tile splashback. Fluted glass pendant lights hang above woven rattan counter stools, with framed botanical prints and a small potted olive tree.",
+      "callout": ""
+     },
+     {
+      "text": "the cobalt blue brings pure energy",
+      "look": "Bold cobalt blue cabinets paired with warm butcher block worktops and zellige white splashback. Matte black bar pulls, a striped amber wool runner, blackened iron dome pendants, and vintage terracotta storage jars on walnut open shelving.",
+      "callout": ""
+     },
+     {
+      "text": "burgundy makes the mornings feel theatrical",
+      "look": "Deep burgundy lacquered cabinets with aged bronze cup pulls and honed soapstone worktops. Sleek brass track lighting illuminates an arrangement of vintage copper pots, an oil still life painting in a gilded frame, and sculptural oak barstools.",
+      "callout": ""
+     },
+     {
+      "text": "warm mustard is surprisingly grounding here",
+      "look": "Warm mustard yellow cabinets complemented by terrazzo worktops with emerald flecks and a glossy olive splashback. Modern tubular chrome stools with corduroy seats, frosted globe pendants, and stacked ceramic tableware across floating birch shelves.",
+      "callout": ""
+     },
+     {
+      "text": "peach and forest green belong together",
+      "look": "Blush peach lower cabinets and deep forest green upper open shelves, paired with white quartz worktops. Brushed nickel wire pulls, pleated linen pendant shades, a checkerboard jute runner, and trailing pothos vines tumbling from rustic stoneware crocks.",
+      "callout": ""
+     },
+     {
+      "text": "chalky lilac gives the sweetest light",
+      "look": "Chalky lilac painted cabinets finished with chunky wooden knobs and stainless steel worktops. A glazed pale mint splashback, a paper lantern pendant light, red metal bistro stools, and colorful glass carafes lined along stainless ledges.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "Rich espresso-stained cabinets featuring knurled brass hardware and crisp white quartzite counters. A vintage Turkish runner lines the walkway, with smoked glass globe pendants overhead and artful stacks of cookbooks next to an iron fruit bowl.",
+    "cta_question": "want to see your kitchen another way?",
+    "cta_line": "try your Pinterest inspo on Snug 📌",
+    "title": "fixing this dated kitchen 👋",
+    "caption": "fixing this dated kitchen 👋\n\nwhich kitchen vibe would you take home? comment your favorite 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
+    "source": "ai",
+    "room_id": "lived-kitchen-dated-kitchen-26",
+    "extra": {
+     "tuned": true
+    }
+   },
+   "room_file": "lived-kitchen-dated-kitchen-26.jpg",
+   "keys": [
+    "2026-10-26-2/0",
+    "2026-10-26-2/1",
+    "2026-10-26-2/2",
+    "2026-10-26-2/3",
+    "2026-10-26-2/4",
+    "2026-10-26-2/5",
+    "2026-10-26-2/cta"
+   ],
+   "cost": 0.1755,
+   "batch": "batches/re9axg5e8wh1tfq4d5p3jbzt3jegutzy6971"
   }
  ]
 }

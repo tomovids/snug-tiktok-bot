@@ -325,5 +325,18 @@
   "used": [
    "2026-10-26"
   ]
+ },
+ {
+  "id": "lived-kitchen-dated-kitchen-26",
+  "kind": "lived",
+  "room": "kitchen",
+  "problem": "dated-kitchen",
+  "arch": "an L-shaped layout with a skylight",
+  "floor": "wide warm oak planks",
+  "file": "lived-kitchen-dated-kitchen-26.jpg",
+  "created": "2026-10-26",
+  "used": [
+   "2026-10-26"
+  ]
  }
 ]

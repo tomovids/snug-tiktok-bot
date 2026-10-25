@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-25T11:53+00:00",
- "built": "2026-10-25T11:53+00:00",
+ "built": "2026-10-25T14:37+00:00",
  "kpis": {
   "followers": 2,
   "followers_7d": 1,
@@ -979,6 +979,17 @@
    "theme": "boho",
    "room": "living room",
    "hook": "let's make this boho ✍️",
+   "status": "Ready",
+   "retry": false,
+   "cost": 0.1755
+  },
+  {
+   "time": "2026-10-26T19:00:00+00:00",
+   "local": "Mon 26 Oct, 19:00",
+   "format": "problem",
+   "theme": "my dated kitchen",
+   "room": "kitchen",
+   "hook": "done with this dated kitchen! 😅",
    "status": "Making pictures",
    "retry": false,
    "cost": 0.1755
@@ -1266,7 +1277,7 @@
   "posts_30d": 24,
   "per_post_usd": 0.171,
   "month_estimate_usd": 10.24,
-  "rooms_in_library": 25
+  "rooms_in_library": 26
  },
  "schedule": {
   "times": [
