@@ -312,5 +312,18 @@
   "used": [
    "2026-10-25"
   ]
+ },
+ {
+  "id": "empty-livingroom-none-25",
+  "kind": "empty",
+  "room": "living room",
+  "problem": null,
+  "arch": "a wide arched window on the right wall",
+  "floor": "wide warm oak planks",
+  "file": "empty-livingroom-none-25.jpg",
+  "created": "2026-10-26",
+  "used": [
+   "2026-10-26"
+  ]
  }
 ]

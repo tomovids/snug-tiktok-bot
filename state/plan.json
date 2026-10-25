@@ -1279,6 +1279,75 @@
     "08.jpg"
    ],
    "ready_at": "2026-10-24T19:03:42+00:00"
+  },
+  {
+   "id": "2026-10-26-1",
+   "date": "2026-10-26",
+   "slot": 0,
+   "time": "2026-10-26T12:00:00+00:00",
+   "status": "waiting",
+   "plan": {
+    "format": "makeover",
+    "room": "living room",
+    "theme": "boho",
+    "theme_name": "boho",
+    "hook": "let's make this boho ✍️",
+    "hook_sub": "(inspired)",
+    "slides": [
+     {
+      "text": "earthy desert boho",
+      "look": "A caramel leather sofa layered with fringed terracotta throws, surrounded by woven rattan armchairs, a low carved wood coffee table, trailing pothos on brass plant stands, and stacked patterned kilim rugs anchored by ceramic table lamps.",
+      "callout": ""
+     },
+     {
+      "text": "lush botanical boho",
+      "look": "An oversized cream linen sectional smothered in sage velvet pillows, paired with bamboo side tables, clustered terracotta planters full of fiddle leaf figs, macrame plant hangers, a woven jute rug, and a wide woven wicker pendant light.",
+      "callout": ""
+     },
+     {
+      "text": "moroccan sunset boho",
+      "look": "A rust velvet daybed heaped with embroidered tribal cushions, hammered brass tray tables, layered vintage berber rugs, low velvet floor poufs in burnt ochre, and pierced metal lantern lamps casting warm glow onto framed botanicals.",
+      "callout": ""
+     },
+     {
+      "text": "warm eclectic boho",
+      "look": "A slouchy olive green sofa, mismatched cane back chairs, a circular woven seagrass rug under a weathered timber coffee table, stacks of art books, dried pampas grass in ceramic jugs, and woven textile art pieces.",
+      "callout": ""
+     },
+     {
+      "text": "cozy artisan boho",
+      "look": "A low-slung linen sofa piled with tufted cream cushions, woven floor cushions, a vintage Turkish rug in faded saffron, a round carved timber coffee table, a rattan floor lamp, and tall monstera plants in woven baskets.",
+      "callout": ""
+     },
+     {
+      "text": "sun-drenched coastal boho",
+      "look": "A bleached timber daybed topped with striped linen textiles, rattan peacock chairs, raw wooden stools, braided hemp rugs, a massive ribbed ceramic floor vase holding dried palms, and amber glass globe lamps on teak pedestals.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "A mustard velvet settee layered with tasselled throw blankets, a sculpted raw oak bench as a coffee table, layered vintage runners, cascading hanging ivy in ceramic bowls, and warm paper lantern pendants.",
+    "cta_question": "Have any Pinterest inspo you want to try? 📌",
+    "cta_line": "try it on your own room with Snug",
+    "title": "boho transformation 📌",
+    "caption": "boho transformation 📌\n\nwhich boho living room would you settle into? let me know 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #bohodecor #snug",
+    "source": "ai",
+    "room_id": "empty-livingroom-none-25",
+    "extra": {
+     "tuned": false
+    }
+   },
+   "room_file": "empty-livingroom-none-25.jpg",
+   "keys": [
+    "2026-10-26-1/0",
+    "2026-10-26-1/1",
+    "2026-10-26-1/2",
+    "2026-10-26-1/3",
+    "2026-10-26-1/4",
+    "2026-10-26-1/5",
+    "2026-10-26-1/cta"
+   ],
+   "cost": 0.1755,
+   "batch": "batches/c001f4nlzk10au5qmqy9fl0kqzkgf8srexvk"
   }
  ]
 }
