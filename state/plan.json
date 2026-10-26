@@ -1279,6 +1279,75 @@
     "08.jpg"
    ],
    "ready_at": "2026-10-25T17:53:22+00:00"
+  },
+  {
+   "id": "2026-10-27-1",
+   "date": "2026-10-27",
+   "slot": 0,
+   "time": "2026-10-27T12:00:00+00:00",
+   "status": "waiting",
+   "plan": {
+    "format": "makeover",
+    "room": "bedroom",
+    "theme": "cottagecore",
+    "theme_name": "cottagecore",
+    "hook": "let's make this cottagecore ✍️",
+    "hook_sub": "(inspired)",
+    "slides": [
+     {
+      "text": "english garden cottagecore",
+      "look": "A wrought-iron spindle bed dressed in faded rose floral quilts and ruffled linen pillows. A distressed pine nightstand holds a ceramic teapot lamp and wild daisies, grounded by a braided wool rug and antique botanical prints in gilded frames.",
+      "callout": ""
+     },
+     {
+      "text": "sunlit wildflower cottagecore",
+      "look": "An off-white painted wood bed layered with sage green gingham sheets and embroidered cushions. A pleated cloth pendant light hangs above a wicker trunk, brass chamberstick lamp, stack of worn poetry books, and a woven jute floor runner.",
+      "callout": ""
+     },
+     {
+      "text": "cozy countryside cottagecore",
+      "look": "A carved oak four-poster bed draped in cream chunky knit throws, flanked by mismatched distressed side tables. A vintage porcelain bowl filled with dried lavender, a warm fringed floor lamp, and a faded medallion area rug anchor the space.",
+      "callout": ""
+     },
+     {
+      "text": "soft vintage cottagecore",
+      "look": "A cream iron daybed piled high with ticking stripe bolsters and patchworked ditsy floral quilts. An antique spindle-back chair holds folded knitted blankets, paired with a ceramic jug of dried baby's breath and an ornate gilded vanity mirror.",
+      "callout": ""
+     },
+     {
+      "text": "rustic herbalist cottagecore",
+      "look": "A low timber platform bed with buttermilk linen duvets and mossy velvet accent cushions. A tiered wooden plant stand displays terracotta pots of rosemary and mint, illuminated by an amber glass table lamp beside a scalloped woven wool rug.",
+      "callout": ""
+     },
+     {
+      "text": "romantic prairie cottagecore",
+      "look": "A whitewashed spindle bed styled with buttercup yellow quilt overlays and eyelet lace pillows. An oval cane bench rests at the foot, with a pleated floral shade table lamp on a walnut chest and framed pressed flower specimens.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "A soft birchwood bed topped with a butter-yellow floral eiderdown and ruffled sham pillows. A scalloped jute rug lays beneath a vintage oak armoire, topped with a ceramic milk pitcher holding eucalyptus and a cozy tasseled armchair.",
+    "cta_question": "Have any Pinterest inspo you want to try? 📌",
+    "cta_line": "see your own room in any style with Snug",
+    "title": "cottagecore bedroom ideas 📌",
+    "caption": "cottagecore bedroom ideas 📌\n\nwhich cottagecore bedroom would you move into? comment your pick 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #cottagecore #snug",
+    "source": "ai",
+    "room_id": "empty-bedroom-none-5",
+    "extra": {
+     "tuned": false
+    }
+   },
+   "room_file": "empty-bedroom-none-5.jpg",
+   "keys": [
+    "2026-10-27-1/0",
+    "2026-10-27-1/1",
+    "2026-10-27-1/2",
+    "2026-10-27-1/3",
+    "2026-10-27-1/4",
+    "2026-10-27-1/5",
+    "2026-10-27-1/cta"
+   ],
+   "cost": 0.1365,
+   "batch": "batches/mq9gtbipzjvm0zdg2k3hj5l952p21wt9g60p"
   }
  ]
 }
