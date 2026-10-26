@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-26T13:24+00:00",
- "built": "2026-10-26T13:24+00:00",
+ "built": "2026-10-26T15:32+00:00",
  "kpis": {
   "followers": 2,
   "followers_7d": 0,
@@ -990,9 +990,20 @@
    "theme": "cottagecore",
    "room": "bedroom",
    "hook": "let's make this cottagecore ✍️",
-   "status": "Making pictures",
+   "status": "Ready",
    "retry": false,
    "cost": 0.1365
+  },
+  {
+   "time": "2026-10-27T19:00:00+00:00",
+   "local": "Tue 27 Oct, 19:00",
+   "format": "problem",
+   "theme": "beige everything",
+   "room": "living room",
+   "hook": "i'm done with beige everything! 😅",
+   "status": "Making pictures",
+   "retry": false,
+   "cost": 0.1755
   }
  ],
  "drafts": [
@@ -1299,7 +1310,7 @@
   "posts_30d": 26,
   "per_post_usd": 0.17,
   "month_estimate_usd": 10.17,
-  "rooms_in_library": 26
+  "rooms_in_library": 27
  },
  "schedule": {
   "times": [

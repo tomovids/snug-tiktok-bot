@@ -339,5 +339,18 @@
   "used": [
    "2026-10-26"
   ]
+ },
+ {
+  "id": "lived-livingroom-beige-27",
+  "kind": "lived",
+  "room": "living room",
+  "problem": "beige",
+  "arch": "a large black-framed floor-to-ceiling window on the left wall",
+  "floor": "light oak herringbone",
+  "file": "lived-livingroom-beige-27.jpg",
+  "created": "2026-10-27",
+  "used": [
+   "2026-10-27"
+  ]
  }
 ]
