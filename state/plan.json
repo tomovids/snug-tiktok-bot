@@ -1,86 +1,6 @@
 {
  "posts": [
   {
-   "id": "2026-10-20-2",
-   "date": "2026-10-20",
-   "slot": 1,
-   "time": "2026-10-20T19:00:00+01:00",
-   "status": "sent",
-   "plan": {
-    "format": "problem",
-    "room": "living room",
-    "theme": "dark",
-    "theme_name": "my dark, dated room",
-    "hook": "i'm done with this gloomy room! 😅",
-    "hook_sub": "which would you choose?",
-    "slides": [
-     {
-      "text": "citrus tones make everything feel instantly lighter",
-      "look": "A mustard velvet sectional layered with tangerine linen pillows, a low walnut coffee table, a cream geometric wool rug, stacked art books, and a tall brushed-brass floor lamp beside an oversized fiddle-leaf fig in a terracotta pot.",
-      "callout": ""
-     },
-     {
-      "text": "soft sage and blush feels like a deep breath",
-      "look": "An oatmeal bouclé sofa accented with dusty rose cushions, an oval travertine coffee table, a sage green jute rug, an arch floor lamp with a pleated shade, botanical gallery prints, and a tall potted olive tree.",
-      "callout": ""
-     },
-     {
-      "text": "cobalt blue turns up the energy",
-      "look": "A royal blue low-profile sofa, a glossy chrome coffee table, a checkered black-and-ivory rug, colorful abstract canvas art, a red metal mushroom table lamp, and ceramic sculptural vases filled with eucalyptus branches on a natural oak sideboard.",
-      "callout": ""
-     },
-     {
-      "text": "warm rust tones bring the cozy glow",
-      "look": "A rust linen three-seater sofa with olive corduroy throw pillows, a round fluted oak coffee table, an amber glass globe floor lamp, a woven distressed kilim rug, and framed landscape prints resting on a sleek credenza.",
-      "callout": ""
-     },
-     {
-      "text": "lilac and butter yellow belong together",
-      "look": "A pale lilac curved sofa paired with buttercup yellow velvet cushions, a wavy glass coffee table, a wavy pastel border rug, a chrome dome lamp, stacked indie magazines, and vibrant floral art in thin silver frames.",
-      "callout": ""
-     },
-     {
-      "text": "deep emerald gives that collected parlor feel",
-      "look": "A deep emerald velvet tufted sofa with gold satin cushions, a smoked glass and brass coffee table, an antique-inspired faded Persian runner, an ornate gilded mirror leaning behind a sculptural paper floor lamp, and brass candlesticks.",
-      "callout": ""
-     }
-    ],
-    "cta_look": "A soft peach sectional piled with powder blue wool throws, a birch ply coffee table holding ceramic mugs, a braided off-white wool rug, framed minimalist sketches, and an airy paper lantern pendant lamp.",
-    "cta_question": "want to bring your room back to life?",
-    "cta_line": "try your Pinterest inspo on Snug 📌",
-    "title": "goodbye dark room 👋",
-    "caption": "goodbye dark room 👋\n\nwhich one is brightening up your day? tell me in the comments 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
-    "source": "ai",
-    "room_id": "lived-livingroom-dark-16",
-    "extra": {
-     "tuned": false
-    }
-   },
-   "room_file": "lived-livingroom-dark-16.jpg",
-   "keys": [
-    "2026-10-20-2/0",
-    "2026-10-20-2/1",
-    "2026-10-20-2/2",
-    "2026-10-20-2/3",
-    "2026-10-20-2/4",
-    "2026-10-20-2/5",
-    "2026-10-20-2/cta"
-   ],
-   "cost": 0.1755,
-   "batch": "batches/mo61oss9ktjtv4c03zdnutztgdau62koegh0",
-   "slides": [
-    "01.jpg",
-    "02.jpg",
-    "03.jpg",
-    "04.jpg",
-    "05.jpg",
-    "06.jpg",
-    "07.jpg",
-    "08.jpg"
-   ],
-   "ready_at": "2026-10-19T20:43:54+00:00"
-  },
-  {
    "id": "2026-10-21-1",
    "date": "2026-10-21",
    "slot": 0,
@@ -1285,7 +1205,7 @@
    "date": "2026-10-28",
    "slot": 1,
    "time": "2026-10-28T19:00:00+00:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "problem",
     "room": "bedroom",
@@ -1347,7 +1267,18 @@
     "2026-10-28-2/cta"
    ],
    "cost": 0.1755,
-   "batch": "batches/zyprnvz7x8querxf0aur0uiwpz4ap13jlhm0"
+   "batch": "batches/zyprnvz7x8querxf0aur0uiwpz4ap13jlhm0",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-27T21:29:35+00:00"
   }
  ]
 }
