@@ -1,86 +1,6 @@
 {
  "posts": [
   {
-   "id": "2026-10-20-1",
-   "date": "2026-10-20",
-   "slot": 0,
-   "time": "2026-10-20T12:00:00+01:00",
-   "status": "sent",
-   "plan": {
-    "format": "makeover",
-    "room": "bedroom",
-    "theme": "wabisabi",
-    "theme_name": "wabi-sabi",
-    "hook": "let's make this bedroom wabi-sabi ✍️",
-    "hook_sub": "(inspired)",
-    "slides": [
-     {
-      "text": "rustic earth wabi-sabi",
-      "look": "A low reclaimed elm platform bed is dressed in wrinkled tobacco linen sheets. Weathered wood stump nightstands hold textured ceramic pinch pots, paired with a rough jute rug and an oversized paper lantern pendant casting a diffused amber glow.",
-      "callout": "obsessed with this paper globe pendant"
-     },
-     {
-      "text": "sculptural modern wabi-sabi",
-      "look": "A low-slung oak bed frame paired with ivory boucle throw pillows. Asymmetrical black terracotta bedside lamps sit on uneven travertine pedestals, grounded by a nubby wool loop rug, an unglazed stoneware floor vase, and raw canvas art.",
-      "callout": "need this oak platform bed"
-     },
-     {
-      "text": "soft textural wabi-sabi",
-      "look": "A bleached pine spindle bed styled with layered oatmeal waffle-weave quilts and raw-hem linen pillows. Ribbed ceramic table lamps glow gently on round carved oak nightstands, with a thick berber rug and dried seed pod stems in a jug.",
-      "callout": "love this light wood spindle bed"
-     },
-     {
-      "text": "monastic minimal wabi-sabi",
-      "look": "A simple natural ash futon frame with crisp chalk-white flax bedding and a single raw-edge linen runner. A dark stained timber bench serves as a low bedside surface, holding stacked art books, one cast-iron tea vessel, and an Akari lamp.",
-      "callout": "need this wooden platform bed"
-     },
-     {
-      "text": "weathered vintage wabi-sabi",
-      "look": "An antique walnut daybed layered with faded indigo hemp throws and distressed linen bolster pillows. Salvaged grain-measure barrels act as nightstands beneath a crackled earthenware table lamp, accompanied by a distressed flatweave runner and a framed calligraphy scroll.",
-      "callout": "need this wooden daybed"
-     },
-     {
-      "text": "botanical calm wabi-sabi",
-      "look": "A low platform bed in warm cedar with mossy sage linen covers. A hand-knotted abaca rug sits underfoot, accompanied by a live-edge side stool, an unpolished brass reading task light, and a potted bonsai tree in a rough clay planter.",
-      "callout": "love this wood bed frame"
-     }
-    ],
-    "cta_look": "A curved oak headboard frame draped in unbleached cotton bedding and slate grey cushions. Flanked by textured volcanic stone pedestals with washi paper bedside lamps, anchored by an undyed wool runner and a sprawling ceramic branch bowl.",
-    "cta_question": "Have any Pinterest inspo you want to try? 📌",
-    "cta_line": "snap your room and try it on Snug",
-    "title": "wabi-sabi transformation 📌",
-    "caption": "wabi-sabi transformation 📌\n\nwhich wabi-sabi vibe feels most peaceful to you? comment your pick 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #wabisabi #snug",
-    "source": "ai",
-    "room_id": "empty-bedroom-none-15",
-    "extra": {
-     "tuned": false
-    }
-   },
-   "room_file": "empty-bedroom-none-15.jpg",
-   "keys": [
-    "2026-10-20-1/0",
-    "2026-10-20-1/1",
-    "2026-10-20-1/2",
-    "2026-10-20-1/3",
-    "2026-10-20-1/4",
-    "2026-10-20-1/5",
-    "2026-10-20-1/cta"
-   ],
-   "cost": 0.1755,
-   "batch": "batches/2iotvr1eln1ceiwb856f3d4yxv95efvssdkp",
-   "slides": [
-    "01.jpg",
-    "02.jpg",
-    "03.jpg",
-    "04.jpg",
-    "05.jpg",
-    "06.jpg",
-    "07.jpg",
-    "08.jpg"
-   ],
-   "ready_at": "2026-10-19T15:01:06+00:00"
-  },
-  {
    "id": "2026-10-20-2",
    "date": "2026-10-20",
    "slot": 1,
@@ -1279,6 +1199,75 @@
     "08.jpg"
    ],
    "ready_at": "2026-10-26T20:45:55+00:00"
+  },
+  {
+   "id": "2026-10-28-1",
+   "date": "2026-10-28",
+   "slot": 0,
+   "time": "2026-10-28T12:00:00+00:00",
+   "status": "waiting",
+   "plan": {
+    "format": "makeover",
+    "room": "living room",
+    "theme": "californiacasual",
+    "theme_name": "california casual",
+    "hook": "let's make this california casual ✍️",
+    "hook_sub": "(inspired)",
+    "slides": [
+     {
+      "text": "earthy textured california casual",
+      "look": "A slipcovered cream linen sectional with olive block-print cushions, a round reclaimed oak coffee table, a chunky jute rug, a potted olive tree in an antique terracotta urn, and framed minimalist botanical sketches.",
+      "callout": ""
+     },
+     {
+      "text": "sun-drenched coastal california casual",
+      "look": "A low bleached oak sofa with faded indigo linen throw pillows, two woven cane accent chairs, a bleached driftwood coffee table, a flatweave striped wool rug, and a tall fiddle-leaf fig in a woven seagrass basket.",
+      "callout": ""
+     },
+     {
+      "text": "warm organic california casual",
+      "look": "A caramel leather sofa layered with cream waffle-knit blankets, a carved white oak stump side table, a sculptural paper lantern floor lamp, a vintage faded kilim rug, and a large ceramic vessel holding wild dried grasses.",
+      "callout": ""
+     },
+     {
+      "text": "modern serene california casual",
+      "look": "An oversized oat linen chaise sofa, a travertine plinth coffee table with stacked art monographs, a brass pharmacy floor lamp, a high-pile Moroccan wool rug, and a sprawling potted bird of paradise in a fluted stone planter.",
+      "callout": ""
+     },
+     {
+      "text": "breezy vintage california casual",
+      "look": "A washed denim slipcover couch, a pair of bentwood armchairs with woven rush seats, an antique elm bench used as a low console, an arch-top rattan floor mirror, and framed sun-faded black-and-white photography prints.",
+      "callout": ""
+     },
+     {
+      "text": "relaxed bohemian california casual",
+      "look": "A deep neutral modular sofa piled with terracotta raw silk pillows, a tiered rattan coffee table, a hand-knotted faded runner, a cascading string of pearls plant on an oak bookshelf, and an unglazed ceramic table lamp.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "A low-profile ecru linen daybed with sage green linen pillows, a round travertine coffee table, a ribbed wool area rug, an iron arched floor lamp, and a massive terracotta pot with an overgrown rubber tree.",
+    "cta_question": "Have any Pinterest inspo you want to try? 📌",
+    "cta_line": "snap your room and try it on Snug",
+    "title": "california casual transformation 📌",
+    "caption": "california casual transformation 📌\n\nwhich version feels most like home to you? drop your pick below 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #californiacasual #snug",
+    "source": "ai",
+    "room_id": "empty-livingroom-none-1",
+    "extra": {
+     "tuned": true
+    }
+   },
+   "room_file": "empty-livingroom-none-1.jpg",
+   "keys": [
+    "2026-10-28-1/0",
+    "2026-10-28-1/1",
+    "2026-10-28-1/2",
+    "2026-10-28-1/3",
+    "2026-10-28-1/4",
+    "2026-10-28-1/5",
+    "2026-10-28-1/cta"
+   ],
+   "cost": 0.1365,
+   "batch": "batches/u7dik8exekjcwh1kiys8pvm2v24d4jb4v3of"
   }
  ]
 }
