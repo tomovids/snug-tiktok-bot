@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-27T12:31+00:00",
- "built": "2026-10-27T12:31+00:00",
+ "built": "2026-10-27T16:54+00:00",
  "kpis": {
   "followers": 2,
   "followers_7d": 0,
@@ -1001,9 +1001,20 @@
    "theme": "california casual",
    "room": "living room",
    "hook": "let's make this california casual ✍️",
-   "status": "Making pictures",
+   "status": "Ready",
    "retry": false,
    "cost": 0.1365
+  },
+  {
+   "time": "2026-10-28T19:00:00+00:00",
+   "local": "Wed 28 Oct, 19:00",
+   "format": "problem",
+   "theme": "my dark, dated room",
+   "room": "bedroom",
+   "hook": "i'm done with my dark, dated room! 😅",
+   "status": "Making pictures",
+   "retry": false,
+   "cost": 0.1755
   }
  ],
  "drafts": [
@@ -1332,7 +1343,7 @@
   "posts_30d": 28,
   "per_post_usd": 0.17,
   "month_estimate_usd": 10.2,
-  "rooms_in_library": 27
+  "rooms_in_library": 28
  },
  "schedule": {
   "times": [

@@ -1205,7 +1205,7 @@
    "date": "2026-10-28",
    "slot": 0,
    "time": "2026-10-28T12:00:00+00:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "makeover",
     "room": "living room",
@@ -1217,17 +1217,17 @@
      {
       "text": "earthy textured california casual",
       "look": "A slipcovered cream linen sectional with olive block-print cushions, a round reclaimed oak coffee table, a chunky jute rug, a potted olive tree in an antique terracotta urn, and framed minimalist botanical sketches.",
-      "callout": ""
+      "callout": "obsessed with this wood coffee table"
      },
      {
       "text": "sun-drenched coastal california casual",
       "look": "A low bleached oak sofa with faded indigo linen throw pillows, two woven cane accent chairs, a bleached driftwood coffee table, a flatweave striped wool rug, and a tall fiddle-leaf fig in a woven seagrass basket.",
-      "callout": ""
+      "callout": "need this blue striped rug"
      },
      {
       "text": "warm organic california casual",
       "look": "A caramel leather sofa layered with cream waffle-knit blankets, a carved white oak stump side table, a sculptural paper lantern floor lamp, a vintage faded kilim rug, and a large ceramic vessel holding wild dried grasses.",
-      "callout": ""
+      "callout": "obsessed with this caramel leather couch"
      },
      {
       "text": "modern serene california casual",
@@ -1237,12 +1237,12 @@
      {
       "text": "breezy vintage california casual",
       "look": "A washed denim slipcover couch, a pair of bentwood armchairs with woven rush seats, an antique elm bench used as a low console, an arch-top rattan floor mirror, and framed sun-faded black-and-white photography prints.",
-      "callout": ""
+      "callout": "obsessed with this blue linen sofa"
      },
      {
       "text": "relaxed bohemian california casual",
       "look": "A deep neutral modular sofa piled with terracotta raw silk pillows, a tiered rattan coffee table, a hand-knotted faded runner, a cascading string of pearls plant on an oak bookshelf, and an unglazed ceramic table lamp.",
-      "callout": ""
+      "callout": "need this rattan coffee table"
      }
     ],
     "cta_look": "A low-profile ecru linen daybed with sage green linen pillows, a round travertine coffee table, a ribbed wool area rug, an iron arched floor lamp, and a massive terracotta pot with an overgrown rubber tree.",
@@ -1267,7 +1267,87 @@
     "2026-10-28-1/cta"
    ],
    "cost": 0.1365,
-   "batch": "batches/u7dik8exekjcwh1kiys8pvm2v24d4jb4v3of"
+   "batch": "batches/u7dik8exekjcwh1kiys8pvm2v24d4jb4v3of",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-27T16:53:14+00:00"
+  },
+  {
+   "id": "2026-10-28-2",
+   "date": "2026-10-28",
+   "slot": 1,
+   "time": "2026-10-28T19:00:00+00:00",
+   "status": "waiting",
+   "plan": {
+    "format": "problem",
+    "room": "bedroom",
+    "theme": "dark",
+    "theme_name": "my dark, dated room",
+    "hook": "i'm done with my dark, dated room! 😅",
+    "hook_sub": "which would you choose?",
+    "slides": [
+     {
+      "text": "could I commit this much to color? 🫢",
+      "look": "the same bedroom restyled: bold pink and red, patterned cushions, a gallery wall of colorful prints, a floral rug",
+      "callout": ""
+     },
+     {
+      "text": "rust and cream is the easiest switch",
+      "look": "the same bedroom restyled: rust and cream textiles, warm wood, a vintage rug, amber glass lamps, plants",
+      "callout": ""
+     },
+     {
+      "text": "building the whole room around one rug",
+      "look": "the same bedroom restyled: a statement vintage rug in deep red and blue, textiles picking up its colors, brass",
+      "callout": ""
+     },
+     {
+      "text": "sage green is always the answer",
+      "look": "the same bedroom restyled: sage green and white, light oak, botanical prints, a soft rug, ceramic lamps, plants",
+      "callout": ""
+     },
+     {
+      "text": "someone who collects things from every trip",
+      "look": "the same bedroom restyled: global eclectic textiles, rattan, souvenir ceramics, a woven wall hanging, a kilim rug",
+      "callout": ""
+     },
+     {
+      "text": "a little moody, a lot cozy",
+      "look": "the same bedroom restyled: deep navy and forest green, velvet, brass lamps, a dark vintage rug, an oil painting",
+      "callout": ""
+     }
+    ],
+    "cta_look": "the same bedroom restyled with terracotta, olive and warm wood",
+    "cta_question": "want to bring your room back to life?",
+    "cta_line": "snap your room and try it on Snug",
+    "title": "goodbye dark 👋",
+    "caption": "goodbye dark 👋\n\nwhich would you choose? 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
+    "source": "fallback",
+    "room_id": "lived-bedroom-dark-28",
+    "extra": {
+     "tuned": true
+    }
+   },
+   "room_file": "lived-bedroom-dark-28.jpg",
+   "keys": [
+    "2026-10-28-2/0",
+    "2026-10-28-2/1",
+    "2026-10-28-2/2",
+    "2026-10-28-2/3",
+    "2026-10-28-2/4",
+    "2026-10-28-2/5",
+    "2026-10-28-2/cta"
+   ],
+   "cost": 0.1755,
+   "batch": "batches/zyprnvz7x8querxf0aur0uiwpz4ap13jlhm0"
   }
  ]
 }

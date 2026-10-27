@@ -353,5 +353,18 @@
   "used": [
    "2026-10-27"
   ]
+ },
+ {
+  "id": "lived-bedroom-dark-28",
+  "kind": "lived",
+  "room": "bedroom",
+  "problem": "dark",
+  "arch": "two tall sash windows on the back wall either side of the bed",
+  "floor": "wide warm oak planks",
+  "file": "lived-bedroom-dark-28.jpg",
+  "created": "2026-10-28",
+  "used": [
+   "2026-10-28"
+  ]
  }
 ]
