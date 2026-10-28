@@ -367,5 +367,18 @@
   "used": [
    "2026-10-28"
   ]
+ },
+ {
+  "id": "lived-bedroom-studentroom-29",
+  "kind": "lived",
+  "room": "bedroom",
+  "problem": "studentroom",
+  "arch": "a large window to the right of the bed wall",
+  "floor": "wide warm oak planks",
+  "file": "lived-bedroom-studentroom-29.jpg",
+  "created": "2026-10-29",
+  "used": [
+   "2026-10-29"
+  ]
  }
 ]
