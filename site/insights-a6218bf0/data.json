@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-28T13:19+00:00",
- "built": "2026-10-28T13:36+00:00",
+ "built": "2026-10-28T19:08+00:00",
  "kpis": {
   "followers": 2,
   "followers_7d": 0,
@@ -984,17 +984,6 @@
  },
  "pipeline": [
   {
-   "time": "2026-10-28T12:00:00+00:00",
-   "local": "Wed 28 Oct, 12:00",
-   "format": "makeover",
-   "theme": "california casual",
-   "room": "living room",
-   "hook": "let's make this california casual ✍️",
-   "status": "Ready",
-   "retry": false,
-   "cost": 0.1365
-  },
-  {
    "time": "2026-10-28T19:00:00+00:00",
    "local": "Wed 28 Oct, 19:00",
    "format": "problem",
@@ -1023,12 +1012,23 @@
    "theme": "my dorm room looking like a hostel",
    "room": "bedroom",
    "hook": "done with my dorm feeling like a hostel! 😅",
-   "status": "Making pictures",
+   "status": "Ready",
    "retry": false,
    "cost": 0.1755
   }
  ],
  "drafts": [
+  {
+   "sent_at": "2026-10-28T13:37:10+00:00",
+   "hook": "let's make this california casual ✍️",
+   "format": "makeover",
+   "theme": "california casual",
+   "room": "living room",
+   "cost": 0.1365,
+   "status": "In drafts",
+   "failed": false,
+   "error": null
+  },
   {
    "sent_at": "2026-10-27T21:30:22+00:00",
    "hook": "i'm done with beige everything! 😅",
@@ -1347,24 +1347,13 @@
    "status": "In drafts",
    "failed": false,
    "error": null
-  },
-  {
-   "sent_at": "2026-10-13T13:20:24+00:00",
-   "hook": "let's make this living room industrial ✍️",
-   "format": "makeover",
-   "theme": "industrial",
-   "room": "living room",
-   "cost": 0.1365,
-   "status": "In drafts",
-   "failed": false,
-   "error": null
   }
  ],
  "cost": {
-  "spent_30d_usd": 4.93,
-  "posts_30d": 29,
-  "per_post_usd": 0.17,
-  "month_estimate_usd": 10.21,
+  "spent_30d_usd": 5.07,
+  "posts_30d": 30,
+  "per_post_usd": 0.169,
+  "month_estimate_usd": 10.14,
   "rooms_in_library": 29
  },
  "schedule": {

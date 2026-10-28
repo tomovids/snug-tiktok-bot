@@ -1,86 +1,6 @@
 {
  "posts": [
   {
-   "id": "2026-10-21-2",
-   "date": "2026-10-21",
-   "slot": 1,
-   "time": "2026-10-21T19:00:00+01:00",
-   "status": "sent",
-   "plan": {
-    "format": "problem",
-    "room": "bedroom",
-    "theme": "studentroom",
-    "theme_name": "my dorm room looking like a hostel",
-    "hook": "done with my dorm looking like a hostel! 😅",
-    "hook_sub": "which would you choose?",
-    "slides": [
-     {
-      "text": "olive corduroy makes a twin bed feel grounded",
-      "look": "An olive green corduroy duvet with ochre bolster cushions, a rounded birchwood desk topped with a mushroom lamp, a wavy checkered wool rug, framed vintage botanical prints, and a potted monstera on a brass plant stand.",
-      "callout": ""
-     },
-     {
-      "text": "tomato red and cobalt together just hit right",
-      "look": "A cobalt blue washed linen duvet paired with a tomato red throw blanket, a red metal task lamp, geometric graphic art prints, a cream shag runner, and a sleek chrome rolling cart stacked with art books.",
-      "callout": ""
-     },
-     {
-      "text": "plum velvet turns tiny spaces moody and plush",
-      "look": "A deep plum velvet quilt layered with dusty rose lumbar pillows, an antique brass desk lamp, an ornate arched standing mirror, an intricate Persian wool runner, and tall dark oak book ledges packed with paperbacks.",
-      "callout": ""
-     },
-     {
-      "text": "sun-baked terracotta warms up any cold corner",
-      "look": "A terracotta linen duvet layered with a marigold knit throw, a woven jute rug, a paper lantern pendant light, framed desert landscape sketches, and a mini travertine side table holding a glazed ceramic water carafe.",
-      "callout": ""
-     },
-     {
-      "text": "butter yellow makes every morning feel lighter",
-      "look": "A buttery yellow quilted comforter topped with ruffled gingham pillows, a mint green bentwood desk chair, a striped pastel flatweave rug, framed abstract pastel lithographs, and a scalloped ceramic table lamp.",
-      "callout": ""
-     },
-     {
-      "text": "glossy chrome cuts right through sleepy clutter",
-      "look": "A crisp cream waffle duvet with chocolate brown accent pillows, a Bauhaus-style chrome desk lamp, a black-and-white grid rug, a stainless steel bedside tray table, and oversized typographic poster art in thin metal frames.",
-      "callout": ""
-     }
-    ],
-    "cta_look": "A forest green velvet bedspread with lilac linen cushions, a wavy floor mirror reflecting a brass pharmacy lamp, a plush Moroccan diamond rug, and floating ash-wood shelves stacked with trailing pothos and ceramics.",
-    "cta_question": "want to make your room feel like you? 📌",
-    "cta_line": "snap your room and try it on Snug",
-    "title": "goodbye hostel dorm 👋",
-    "caption": "goodbye hostel dorm 👋\n\nwhich restyle would you study in? drop your pick below 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
-    "source": "ai",
-    "room_id": "lived-bedroom-studentroom-18",
-    "extra": {
-     "tuned": false
-    }
-   },
-   "room_file": "lived-bedroom-studentroom-18.jpg",
-   "keys": [
-    "2026-10-21-2/0",
-    "2026-10-21-2/1",
-    "2026-10-21-2/2",
-    "2026-10-21-2/3",
-    "2026-10-21-2/4",
-    "2026-10-21-2/5",
-    "2026-10-21-2/cta"
-   ],
-   "cost": 0.1755,
-   "batch": "batches/9fnuqmwuexmhwzt8pho7lb02o8qkvhanewm0",
-   "slides": [
-    "01.jpg",
-    "02.jpg",
-    "03.jpg",
-    "04.jpg",
-    "05.jpg",
-    "06.jpg",
-    "07.jpg",
-    "08.jpg"
-   ],
-   "ready_at": "2026-10-20T19:38:30+00:00"
-  },
-  {
    "id": "2026-10-22-1",
    "date": "2026-10-22",
    "slot": 0,
@@ -1285,7 +1205,7 @@
    "date": "2026-10-29",
    "slot": 1,
    "time": "2026-10-29T19:00:00+00:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "problem",
     "room": "bedroom",
@@ -1347,7 +1267,18 @@
     "2026-10-29-2/cta"
    ],
    "cost": 0.1755,
-   "batch": "batches/eeyuckaoli5xx12mc4ys5zc75euzh2nxohh4"
+   "batch": "batches/eeyuckaoli5xx12mc4ys5zc75euzh2nxohh4",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-28T19:08:29+00:00"
   }
  ]
 }
