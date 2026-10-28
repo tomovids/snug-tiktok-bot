@@ -1279,6 +1279,75 @@
     "08.jpg"
    ],
    "ready_at": "2026-10-27T21:29:35+00:00"
+  },
+  {
+   "id": "2026-10-29-1",
+   "date": "2026-10-29",
+   "slot": 0,
+   "time": "2026-10-29T12:00:00+00:00",
+   "status": "waiting",
+   "plan": {
+    "format": "makeover",
+    "room": "kitchen",
+    "theme": "organicmodern",
+    "theme_name": "organic modern",
+    "hook": "let's make this kitchen organic modern ✍️",
+    "hook_sub": "(inspired)",
+    "slides": [
+     {
+      "text": "earthy sculptured organic modern",
+      "look": "Bleached white oak cabinets with integrated J-pull handles, honed travertine countertops, and matching slab splashback. Fluted oak counter stools with boucle cushions, a giant potted olive tree in an unglazed terracotta urn, and woven wicker pendant lights overhead.",
+      "callout": ""
+     },
+     {
+      "text": "soft serene organic modern",
+      "look": "Pale taupe flat-panel cabinets, fluted limestone island front, and beige marble counters. Curved back oak barstools upholstered in oatmeal linen, open oak shelving styled with textured ceramic jugs, and a pair of rounded plaster dome pendants casting a warm glow.",
+      "callout": ""
+     },
+     {
+      "text": "rich earthy organic modern",
+      "look": "Smoked oak reeded cabinets with aged bronze cup pulls and soapstone worktops. Chunky round wooden stools, rough stoneware canisters, a potted ficus in a footed stone planter, and twin sculptural paper lantern pendants hanging over a low-profile jute runner.",
+      "callout": ""
+     },
+     {
+      "text": "airy coastal organic modern",
+      "look": "Chalky off-white shaker cabinets, brass hardware, and sandy quartzite counters with a matching low splashback. Bentwood cane-back stools, a weathered oak bowl filled with green pears, floating timber shelves holding speckled pottery, and woven rattan drop pendants.",
+      "callout": ""
+     },
+     {
+      "text": "warm rustic organic modern",
+      "look": "Natural knotty oak flat-front cabinets with recessed pulls and honed sandstone slab counters. Curved spindle-back counter stools, an oversized ceramic vase holding dried olive branches, open shelves with handmade matte terracotta dishware, and a pleated fabric drum pendant.",
+      "callout": ""
+     },
+     {
+      "text": "minimal desert organic modern",
+      "look": "Sand-toned micro-cement finish cabinets, seamless integrated sink, and warm cream granite surfaces. Sculptural three-legged wooden stools, a tall potted euphorbia in a cement urn, textured clay wall sconces, and minimal floating oak ledges displaying framed linen fiber art.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "Bone-colored matte cabinets, thick honed calacatta paonazzo marble island with deep caramel veining, rounded bleached ash counter stools, a leafy dwarf olive tree in a wide stone trough, and twin cone plaster pendant lights.",
+    "cta_question": "have any pinterest inspo you want to try? 📌",
+    "cta_line": "snap your room and try it on Snug",
+    "title": "organic modern kitchen restyles 📌",
+    "caption": "organic modern kitchen restyles 📌\n\nwhich version feels most like home to you? tell me below 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #organicmodern #snug",
+    "source": "ai",
+    "room_id": "empty-kitchen-none-13",
+    "extra": {
+     "tuned": false
+    }
+   },
+   "room_file": "empty-kitchen-none-13.jpg",
+   "keys": [
+    "2026-10-29-1/0",
+    "2026-10-29-1/1",
+    "2026-10-29-1/2",
+    "2026-10-29-1/3",
+    "2026-10-29-1/4",
+    "2026-10-29-1/5",
+    "2026-10-29-1/cta"
+   ],
+   "cost": 0.1365,
+   "batch": "batches/u7voy5hnmspy9r75nvochhlewdjl0ubcfzjh"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-27T21:23+00:00",
- "built": "2026-10-28T00:45+00:00",
+ "built": "2026-10-28T06:22+00:00",
  "kpis": {
   "followers": 2,
   "followers_7d": 0,
@@ -993,6 +993,17 @@
    "status": "Ready",
    "retry": false,
    "cost": 0.1755
+  },
+  {
+   "time": "2026-10-29T12:00:00+00:00",
+   "local": "Thu 29 Oct, 12:00",
+   "format": "makeover",
+   "theme": "organic modern",
+   "room": "kitchen",
+   "hook": "let's make this kitchen organic modern ✍️",
+   "status": "Making pictures",
+   "retry": false,
+   "cost": 0.1365
   }
  ],
  "drafts": [
