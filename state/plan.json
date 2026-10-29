@@ -1,86 +1,6 @@
 {
  "posts": [
   {
-   "id": "2026-10-22-1",
-   "date": "2026-10-22",
-   "slot": 0,
-   "time": "2026-10-22T12:00:00+01:00",
-   "status": "sent",
-   "plan": {
-    "format": "makeover",
-    "room": "kitchen",
-    "theme": "japandi",
-    "theme_name": "japandi",
-    "hook": "let's make this japandi ✍️",
-    "hook_sub": "(inspired)",
-    "slides": [
-     {
-      "text": "raw earthy japandi",
-      "look": "Bleached oak flat-front cabinets with invisible notch pulls, honed limestone counters, and ribbed ceramic splashback. Two sculptural paper lantern pendants hang over dark ash barstools, paired with stacked stoneware bowls and a single dried branch in an unglazed vessel.",
-      "callout": "obsessed with this paper pendant"
-     },
-     {
-      "text": "soft organic japandi",
-      "look": "Matte sand cabinets with subtle brass finger pulls, rounded quartz countertops, and cream ceramic backsplash tiles. Slender rattan-back counter stools tuck beneath the island beneath an oversized woven washi paper dome, styled with hand-pinched tea cups and a linen runner.",
-      "callout": "obsessed with this woven pendant light"
-     },
-     {
-      "text": "monochrome minimal japandi",
-      "look": "Matte charcoal cabinet fronts paired with pale white oak worktops and a thin basalt splashback. Curved black bentwood stools sit under sleek suspended bamboo cylinder pendants, accented by matte black iron canisters and white speckled ceramic bowls on open shelving.",
-      "callout": "love this black cane stool"
-     },
-     {
-      "text": "warm timber japandi",
-      "look": "Rich honey oak slab cabinets, beige travertine worktops, and glossy beige zellige tiles. Low-backed woven rush counter stools rest by the counter, illuminated by a pleated rice paper shade, with a carved wooden matcha bowl and small olive branch.",
-      "callout": "obsessed with this paper pendant light"
-     },
-     {
-      "text": "serene rustic japandi",
-      "look": "Muted sage-grey cabinetry with dark walnut open shelves, white speckled terrazzo counters, and handmade chalk-white splashback. Weathered teak stools pair with a duo of ribbed glass globe pendants, accompanied by heavy wabi-sabi clay jars and natural linen tea towels.",
-      "callout": "need this rustic wooden stool"
-     },
-     {
-      "text": "sculptural modern japandi",
-      "look": "Pale ash cabinets with hidden edge pulls, warm grey soapstone counters, and vertical fluted tile splashback. Minimalist cast iron counter stools sit under an asymmetrical Akari-inspired pendant light, styled with dark stoneware teapots and a textured ivory ceramic vase.",
-      "callout": "love this pleated pendant light"
-     }
-    ],
-    "cta_look": "Smoked oak cabinets with brushed brass edge pulls, honed ivory composite counters, and ivory tile splashback. Black spindle counter stools sit beneath an airy silk lantern pendant, styled with coarse ceramic planters and rough stone serving boards.",
-    "cta_question": "Have any Pinterest inspo you want to try? 📌",
-    "cta_line": "try your Pinterest inspo on Snug 📌",
-    "title": "japandi kitchen transformation 📌",
-    "caption": "japandi kitchen transformation 📌\n\nwhich japandi kitchen would you cook in? drop your pick below 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #japandi #snug",
-    "source": "ai",
-    "room_id": "empty-kitchen-none-19",
-    "extra": {
-     "tuned": false
-    }
-   },
-   "room_file": "empty-kitchen-none-19.jpg",
-   "keys": [
-    "2026-10-22-1/0",
-    "2026-10-22-1/1",
-    "2026-10-22-1/2",
-    "2026-10-22-1/3",
-    "2026-10-22-1/4",
-    "2026-10-22-1/5",
-    "2026-10-22-1/cta"
-   ],
-   "cost": 0.1755,
-   "batch": "batches/mav6q7wxskqesckq2hyb4wy91d3ug5jh4wu5",
-   "slides": [
-    "01.jpg",
-    "02.jpg",
-    "03.jpg",
-    "04.jpg",
-    "05.jpg",
-    "06.jpg",
-    "07.jpg",
-    "08.jpg"
-   ],
-   "ready_at": "2026-10-21T12:28:31+00:00"
-  },
-  {
    "id": "2026-10-22-2",
    "date": "2026-10-22",
    "slot": 1,
@@ -1285,7 +1205,7 @@
    "date": "2026-10-30",
    "slot": 0,
    "time": "2026-10-30T12:00:00+00:00",
-   "status": "waiting",
+   "status": "ready",
    "plan": {
     "format": "makeover",
     "room": "living room",
@@ -1297,32 +1217,32 @@
      {
       "text": "gilded jewel tone art deco",
       "look": "A curved emerald velvet sofa pairs with a brushed brass sunburst coffee table over a black and gold fan-pattern rug. Fluted glass table lamps cast warm light beside an arched gold mirror and trailing pothos in a brass planter.",
-      "callout": ""
+      "callout": "obsessed with this green velvet sofa"
      },
      {
       "text": "high contrast monochrome art deco",
       "look": "A tailored cream boucle sofa faces a black marble and polished brass coffee table on a bold chevron wool rug. Two tiered glass pendant lights glow overhead, complemented by framed geometric sketches and a scalloped bar cart.",
-      "callout": ""
+      "callout": "obsessed with this chevron rug"
      },
      {
       "text": "sultry midnight art deco",
       "look": "A deep navy velvet sectional anchors the space around an octagonal smoked glass coffee table and a silk geometric rug. Brass torchère floor lamps cast soft uplight alongside framed vintage architectural prints and a lacquered drink trolley.",
-      "callout": ""
+      "callout": "obsessed with this brass coffee table"
      },
      {
       "text": "streamline cocktail art deco",
       "look": "A channel-tufted rust velvet settee sits across from a fluted burl wood credenza with gleaming brass hardware. An arched brass floor lamp arcs over an oversized bevelled mirror, stacked design books, and a glossy black tiered side table.",
-      "callout": ""
+      "callout": "obsessed with this rust velvet sofa"
      },
      {
       "text": "blush and brass art deco",
       "look": "A scalloped dusty rose armchair and an off-white velvet loveseat surround a round brass and mirrored coffee table. Soft globe lamps glow beside an ornate gilded sunburst mirror, lush fiddle leaf fig, and embroidered geometric cushions.",
-      "callout": ""
+      "callout": "obsessed with this brass sunburst mirror"
      },
      {
       "text": "bold emerald cocktail art deco",
       "look": "A sculptural forest green velvet chaise rests beside a two-tiered mirrored bar cart brimming with crystal decanters. A geometric gold-leaf rug lies beneath a brass globe floor lamp, flanked by bold abstract cubist art and sculpted ceramic vases.",
-      "callout": ""
+      "callout": "obsessed with this green velvet chaise"
      }
     ],
     "cta_look": "A tufted midnight blue velvet bench sits alongside a reeded oak and brass media console on an art deco diamond rug. Sculptural milk glass table lamps, an oversized gold fan mirror, and piles of art monographs complete the vignette.",
@@ -1347,7 +1267,87 @@
     "2026-10-30-1/cta"
    ],
    "cost": 0.1365,
-   "batch": "batches/buht073u15rxd2bn0b0twvkg07ps2gb62z3p"
+   "batch": "batches/buht073u15rxd2bn0b0twvkg07ps2gb62z3p",
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ],
+   "ready_at": "2026-10-29T17:06:52+00:00"
+  },
+  {
+   "id": "2026-10-30-2",
+   "date": "2026-10-30",
+   "slot": 1,
+   "time": "2026-10-30T19:00:00+00:00",
+   "status": "waiting",
+   "plan": {
+    "format": "problem",
+    "room": "bedroom",
+    "theme": "grey",
+    "theme_name": "grey and minimalism",
+    "hook": "i'm done with grey and minimalism! 😅",
+    "hook_sub": "which would you choose?",
+    "slides": [
+     {
+      "text": "rust and cream is the easiest switch",
+      "look": "the same bedroom restyled: rust and cream textiles, warm wood, a vintage rug, amber glass lamps, plants",
+      "callout": ""
+     },
+     {
+      "text": "building the whole room around one rug",
+      "look": "the same bedroom restyled: a statement vintage rug in deep red and blue, textiles picking up its colors, brass",
+      "callout": ""
+     },
+     {
+      "text": "someone who collects things from every trip",
+      "look": "the same bedroom restyled: global eclectic textiles, rattan, souvenir ceramics, a woven wall hanging, a kilim rug",
+      "callout": ""
+     },
+     {
+      "text": "could I commit this much to color? 🫢",
+      "look": "the same bedroom restyled: bold pink and red, patterned cushions, a gallery wall of colorful prints, a floral rug",
+      "callout": ""
+     },
+     {
+      "text": "a little moody, a lot cozy",
+      "look": "the same bedroom restyled: deep navy and forest green, velvet, brass lamps, a dark vintage rug, an oil painting",
+      "callout": ""
+     },
+     {
+      "text": "sage green is always the answer",
+      "look": "the same bedroom restyled: sage green and white, light oak, botanical prints, a soft rug, ceramic lamps, plants",
+      "callout": ""
+     }
+    ],
+    "cta_look": "the same bedroom restyled with terracotta, olive and warm wood",
+    "cta_question": "want to get rid of the grey in your space?",
+    "cta_line": "snap your room and try it on Snug",
+    "title": "goodbye grey 👋",
+    "caption": "goodbye grey 👋\n\nwhich would you choose? 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #snug",
+    "source": "fallback",
+    "room_id": "lived-bedroom-grey-30",
+    "extra": {
+     "tuned": false
+    }
+   },
+   "room_file": "lived-bedroom-grey-30.jpg",
+   "keys": [
+    "2026-10-30-2/0",
+    "2026-10-30-2/1",
+    "2026-10-30-2/2",
+    "2026-10-30-2/3",
+    "2026-10-30-2/4",
+    "2026-10-30-2/5",
+    "2026-10-30-2/cta"
+   ],
+   "cost": 0.1755,
+   "batch": "batches/crgn6a34hrv9j1dvoufqkkifmtkmkcp2wane"
   }
  ]
 }

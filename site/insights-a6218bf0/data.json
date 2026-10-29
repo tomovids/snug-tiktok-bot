@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-29T13:28+00:00",
- "built": "2026-10-29T13:28+00:00",
+ "built": "2026-10-29T17:08+00:00",
  "kpis": {
   "followers": 2,
   "followers_7d": 0,
@@ -1023,9 +1023,20 @@
    "theme": "art deco",
    "room": "living room",
    "hook": "let's make this living room art deco ✍️",
-   "status": "Making pictures",
+   "status": "Ready",
    "retry": false,
    "cost": 0.1365
+  },
+  {
+   "time": "2026-10-30T19:00:00+00:00",
+   "local": "Fri 30 Oct, 19:00",
+   "format": "problem",
+   "theme": "grey and minimalism",
+   "room": "bedroom",
+   "hook": "i'm done with grey and minimalism! 😅",
+   "status": "Making pictures",
+   "retry": false,
+   "cost": 0.1755
   }
  ],
  "drafts": [
@@ -1365,7 +1376,7 @@
   "posts_30d": 31,
   "per_post_usd": 0.169,
   "month_estimate_usd": 10.15,
-  "rooms_in_library": 29
+  "rooms_in_library": 30
  },
  "schedule": {
   "times": [

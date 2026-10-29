@@ -381,5 +381,18 @@
   "used": [
    "2026-10-29"
   ]
+ },
+ {
+  "id": "lived-bedroom-grey-30",
+  "kind": "lived",
+  "room": "bedroom",
+  "problem": "grey",
+  "arch": "a sloped loft ceiling with a skylight above the bed",
+  "floor": "honey-toned parquet",
+  "file": "lived-bedroom-grey-30.jpg",
+  "created": "2026-10-30",
+  "used": [
+   "2026-10-30"
+  ]
  }
 ]
