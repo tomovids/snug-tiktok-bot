@@ -1279,6 +1279,75 @@
     "08.jpg"
    ],
    "ready_at": "2026-10-28T19:08:29+00:00"
+  },
+  {
+   "id": "2026-10-30-1",
+   "date": "2026-10-30",
+   "slot": 0,
+   "time": "2026-10-30T12:00:00+00:00",
+   "status": "waiting",
+   "plan": {
+    "format": "makeover",
+    "room": "living room",
+    "theme": "artdeco",
+    "theme_name": "art deco",
+    "hook": "let's make this living room art deco ✍️",
+    "hook_sub": "(inspired)",
+    "slides": [
+     {
+      "text": "gilded jewel tone art deco",
+      "look": "A curved emerald velvet sofa pairs with a brushed brass sunburst coffee table over a black and gold fan-pattern rug. Fluted glass table lamps cast warm light beside an arched gold mirror and trailing pothos in a brass planter.",
+      "callout": ""
+     },
+     {
+      "text": "high contrast monochrome art deco",
+      "look": "A tailored cream boucle sofa faces a black marble and polished brass coffee table on a bold chevron wool rug. Two tiered glass pendant lights glow overhead, complemented by framed geometric sketches and a scalloped bar cart.",
+      "callout": ""
+     },
+     {
+      "text": "sultry midnight art deco",
+      "look": "A deep navy velvet sectional anchors the space around an octagonal smoked glass coffee table and a silk geometric rug. Brass torchère floor lamps cast soft uplight alongside framed vintage architectural prints and a lacquered drink trolley.",
+      "callout": ""
+     },
+     {
+      "text": "streamline cocktail art deco",
+      "look": "A channel-tufted rust velvet settee sits across from a fluted burl wood credenza with gleaming brass hardware. An arched brass floor lamp arcs over an oversized bevelled mirror, stacked design books, and a glossy black tiered side table.",
+      "callout": ""
+     },
+     {
+      "text": "blush and brass art deco",
+      "look": "A scalloped dusty rose armchair and an off-white velvet loveseat surround a round brass and mirrored coffee table. Soft globe lamps glow beside an ornate gilded sunburst mirror, lush fiddle leaf fig, and embroidered geometric cushions.",
+      "callout": ""
+     },
+     {
+      "text": "bold emerald cocktail art deco",
+      "look": "A sculptural forest green velvet chaise rests beside a two-tiered mirrored bar cart brimming with crystal decanters. A geometric gold-leaf rug lies beneath a brass globe floor lamp, flanked by bold abstract cubist art and sculpted ceramic vases.",
+      "callout": ""
+     }
+    ],
+    "cta_look": "A tufted midnight blue velvet bench sits alongside a reeded oak and brass media console on an art deco diamond rug. Sculptural milk glass table lamps, an oversized gold fan mirror, and piles of art monographs complete the vignette.",
+    "cta_question": "Have any Pinterest inspo you want to try? 📌",
+    "cta_line": "try your Pinterest inspo on Snug 📌",
+    "title": "art deco transformation 📌",
+    "caption": "art deco transformation 📌\n\nwhich art deco living room is your favorite? comment your pick 👇\n\n#interiordesign #interiorinspo #homeinspo #homedesign #artdeco #snug",
+    "source": "ai",
+    "room_id": "empty-livingroom-none-11",
+    "extra": {
+     "tuned": false
+    }
+   },
+   "room_file": "empty-livingroom-none-11.jpg",
+   "keys": [
+    "2026-10-30-1/0",
+    "2026-10-30-1/1",
+    "2026-10-30-1/2",
+    "2026-10-30-1/3",
+    "2026-10-30-1/4",
+    "2026-10-30-1/5",
+    "2026-10-30-1/cta"
+   ],
+   "cost": 0.1365,
+   "batch": "batches/buht073u15rxd2bn0b0twvkg07ps2gb62z3p"
   }
  ]
 }
